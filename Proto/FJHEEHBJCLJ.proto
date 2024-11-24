@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "ABAGANPIOID.proto";
+import "KHHLGFEHBGJ.proto";
+
+message FJHEEHBJCLJ {
+	repeated ABAGANPIOID OEOOHDALNCE = 6;
+	repeated uint32 IEDDMDENJAA = 15;
+	repeated KHHLGFEHBGJ JAHPPELNEDF = 7;
+	repeated uint32 KCPBCOLPBME = 10;
+	repeated uint32 AKJCCMMODMM = 9;
+	uint32 MEMIAFJCJOK = 1;
+}

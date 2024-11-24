@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "NPJDJDECKME.proto";
+
+message EFHIGEKEJJO {
+	repeated NPJDJDECKME MLEIPFEDKNN = 4;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "GDHBFFBPIIJ.proto";
+import "MBIMHNFDGHN.proto";
+
+message BJJBBNKIABA {
+	GDHBFFBPIIJ GGPKAKOCHAI = 15;
+	MBIMHNFDGHN BELACGKAHLM = 2;
+	uint32 AGIDBEEINDE = 9;
+	bool FFEKMFFDNAP = 8;
+}

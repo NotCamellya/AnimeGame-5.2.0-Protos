@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OLODDMHDDGC.proto";
+
+message AEFFGHNMPOH {
+	uint32 NKGEKOMLLNG = 2;
+	OLODDMHDDGC IMIOGMDOKCB = 11;
+	uint32 JPLLDOBLMGD = 7;
+}

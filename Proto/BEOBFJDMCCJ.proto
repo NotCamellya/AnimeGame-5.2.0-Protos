@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DCNJGOKKPPC.proto";
+import "NIJKANKIBLA.proto";
+
+message BEOBFJDMCCJ {
+	DCNJGOKKPPC DLMMBBMOFAC = 9;
+	NIJKANKIBLA AKGOOIIBCOM = 1;
+	uint32 BMMBMCLKGMO = 12;
+}

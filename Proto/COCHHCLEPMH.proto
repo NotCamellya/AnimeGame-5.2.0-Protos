@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FOBPMOEFLGH.proto";
+
+message COCHHCLEPMH {
+	repeated FOBPMOEFLGH GBFINICKIJO = 1;
+}

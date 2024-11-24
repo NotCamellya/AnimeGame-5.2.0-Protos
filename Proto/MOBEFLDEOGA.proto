@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GJDJPCPPHIC.proto";
+
+message MOBEFLDEOGA {
+	repeated uint32 APOCDMCGEBC = 13;
+	GJDJPCPPHIC EPNDBDPKLEP = 8;
+	uint32 MNDHNPJNNGP = 3;
+}

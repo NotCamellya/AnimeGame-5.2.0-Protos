@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AKIGENAMJKP {
+	bool AJMCNJPFKOD = 12;
+	uint32 LMEBMMBEGKM = 13;
+	uint32 POPHCJEPFBO = 15;
+}

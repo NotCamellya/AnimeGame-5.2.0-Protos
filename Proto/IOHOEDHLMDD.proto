@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IOHOEDHLMDD {
+	repeated int32 GDIDDPIKEEL = 6;
+	uint32 POGFLCPGMAF = 12;
+}

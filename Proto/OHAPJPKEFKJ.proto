@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OHAPJPKEFKJ {
+	uint32 mist_trial_avatar_id = 10;
+	uint64 formal_avatar_guid = 9;
+}

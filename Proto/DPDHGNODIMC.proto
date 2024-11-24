@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DPDHGNODIMC {
+	uint32 ECPGNBGDBBN = 15;
+	uint32 JNFDNFLBEJO = 14;
+}

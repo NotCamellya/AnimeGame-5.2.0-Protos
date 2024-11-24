@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JJNLLNIBIMM.proto";
+
+message CNJPPHNDJNC {
+	repeated uint32 MNOFIBCLODD = 9;
+	repeated JJNLLNIBIMM EAPNELHCBLM = 5;
+	uint32 AOCIJOGPAJP = 3;
+}

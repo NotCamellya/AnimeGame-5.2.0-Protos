@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "NKHBDLCJPGM.proto";
+
+message BMKCGEINEKP {
+	repeated NKHBDLCJPGM PNDPNMBDOKF = 4;
+}

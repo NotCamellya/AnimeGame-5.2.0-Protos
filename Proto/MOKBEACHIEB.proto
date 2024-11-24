@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JCFCDCONMKB.proto";
+
+message MOKBEACHIEB {
+	repeated JCFCDCONMKB PMJGJNILMBP = 10;
+	int32 EJNINFFFKJP = 2;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DECDOLOOAAG {
+	repeated uint32 HIOLEGALLCN = 12;
+}

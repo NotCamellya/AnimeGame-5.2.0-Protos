@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "DKIFDGNKPLD.proto";
+import "APMHHCOHPLD.proto";
+
+message CGGELDLHDAJ {
+	DKIFDGNKPLD CIENOKDHFOD = 9;
+	repeated uint32 KGOJIPMFHBM = 6;
+	APMHHCOHPLD GDJKCKNOGBD = 14;
+	uint32 IGBDOEBPPHO = 8;
+	bool IFAPCCLIJGD = 15;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "MPNDGCPKCFN.proto";
+
+message OAPFGGCLHPA {
+	repeated MPNDGCPKCFN EILAHBHKMED = 4;
+	bool HCJFDJHILAM = 7;
+	bool GOONOOPFOAM = 13;
+	uint32 LBEINAHAHKA = 2;
+	uint32 NILALKPFCCO = 3;
+	uint32 OELCNLOJHHE = 6;
+}

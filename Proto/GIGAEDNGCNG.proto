@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message GIGAEDNGCNG {
+	uint32 CBPDGCPONHM = 6;
+	int32 EJNINFFFKJP = 11;
+	bool JDMPIANNMGK = 13;
+}

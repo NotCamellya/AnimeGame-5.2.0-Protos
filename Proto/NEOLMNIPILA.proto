@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NEOLMNIPILA {
+	uint32 AGIDBEEINDE = 11;
+}

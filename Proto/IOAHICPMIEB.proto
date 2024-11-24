@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "BIFEDDINLOD.proto";
+import "OMBEIFNNEDF.proto";
+
+message IOAHICPMIEB {
+	repeated uint32 DOBEBMLDBIO = 4;
+	repeated BIFEDDINLOD OBHPOELIAPM = 3;
+	repeated uint32 MJMIFKJBKBN = 5;
+	repeated OMBEIFNNEDF HJIKNNIEELI = 6;
+	uint32 EPFCIDIKLKG = 2;
+	uint32 OJLMDPLJIFI = 1;
+}

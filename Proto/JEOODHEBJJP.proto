@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KLLNPGCMDBN.proto";
+
+message JEOODHEBJJP {
+	KLLNPGCMDBN NOLBCHIACJI = 14;
+	KLLNPGCMDBN LHFDNDCNAIO = 11;
+	int32 EJNINFFFKJP = 15;
+}

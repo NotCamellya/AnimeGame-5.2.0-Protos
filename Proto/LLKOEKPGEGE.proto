@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ILJBEKEGPIF.proto";
+import "LNGOJPFIIOO.proto";
+
+message LLKOEKPGEGE {
+	ILJBEKEGPIF JFKKIILJJGA = 2;
+	uint32 KNGBDMDCNHK = 3;
+	int32 EJNINFFFKJP = 15;
+	LNGOJPFIIOO POCLLIAJMDD = 14;
+	uint32 FGOMMPIOFPB = 1;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HJIIIPEEIIM.proto";
+
+message EOBPJMMEJDB {
+	repeated uint32 CIJHPBPEGEE = 11;
+	repeated uint32 LHCLCHMOIAP = 7;
+	HJIIIPEEIIM OIAJDLJOIPD = 8;
+	int32 EJNINFFFKJP = 6;
+}

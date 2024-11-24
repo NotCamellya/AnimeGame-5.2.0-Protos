@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EJHEHFMNOFF.proto";
+import "KBGFFPMOLNP.proto";
+
+message AFGCPBKLHMB {
+	map<uint32,EJHEHFMNOFF> DNGAMNKCAFE = 12;
+	KBGFFPMOLNP EFBHADIMHNF = 14;
+}

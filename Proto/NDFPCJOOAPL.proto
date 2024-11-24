@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum NDFPCJOOAPL {
+	NDFPCJOOAPL_LOCK_NONE = 0;
+	NDFPCJOOAPL_LOCK_QUEST = 1;
+}

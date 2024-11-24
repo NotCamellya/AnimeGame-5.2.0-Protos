@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CACGLIBJIIE.proto";
+import "KPFOBLALBLC.proto";
+
+message EPLGADKALKO {
+	repeated CACGLIBJIIE LPAGGIOGCJK = 3;
+	int32 EJNINFFFKJP = 1;
+	KPFOBLALBLC DAAKPCOABEP = 6;
+}

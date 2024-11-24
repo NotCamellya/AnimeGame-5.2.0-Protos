@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NGFNOABGAED {
+	uint32 OPCGOAPBJHA = 11;
+}

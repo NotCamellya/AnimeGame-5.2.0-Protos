@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MDBOBDDHHCP.proto";
+
+message JOKPHKNIFID {
+	repeated MDBOBDDHHCP MGDFIJMHGND = 2;
+	int64 MBBKAENBCKD = 1;
+}

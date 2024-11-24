@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message MGJCPOLAJAD {
+	uint32 FCPECPMOGOJ = 11;
+	uint32 KHHINALFLHP = 10;
+	uint32 OHDENGDFNDP = 1;
+	uint32 DNHLMKMLPPB = 6;
+	uint32 PENJGIIJFPG = 8;
+	uint32 CCLBEPHGCEK = 3;
+	uint32 PDEIHLEKAPJ = 2;
+	uint32 NMBONKFLLIE = 4;
+}

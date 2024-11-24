@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HHMHOHIIJBB.proto";
+import "PFMMGANCPEF.proto";
+
+message JGMLDHBBACK {
+	repeated HHMHOHIIJBB JHCGPLJOIFF = 3;
+	uint32 AJPLJPEMCDJ = 8;
+	PFMMGANCPEF LGMMMEDPLGO = 10;
+}

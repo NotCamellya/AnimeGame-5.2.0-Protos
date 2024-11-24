@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum HJKIGLGDDON {
+	HJKIGLGDDON_NONE = 0;
+	HJKIGLGDDON_IN_BAG = 1;
+	HJKIGLGDDON_CAN_FORGE = 2;
+}

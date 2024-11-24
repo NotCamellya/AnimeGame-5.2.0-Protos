@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message BGNINGGDPAA {
+	uint32 OGDCENFLHJN = 7;
+	uint32 FJAPAPJHJJD = 2;
+	bool OMENIAMEDCE = 4;
+	uint32 NCCPPHNNPBF = 15;
+	uint32 ODCMKOFFKKL = 13;
+}

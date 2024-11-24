@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "IPKAAINFGNB.proto";
+import "BGIDBDGCIAE.proto";
+
+message OGJBHINLKFG {
+	repeated IPKAAINFGNB EGAHDMMDKEH = 15;
+	repeated uint32 OEOHFONLEGA = 3;
+	uint32 DNBEFLJLAMB = 5;
+	bool HDGLGGBOOBH = 7;
+	BGIDBDGCIAE KGCONLDGJPG = 12;
+}

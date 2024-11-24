@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "AANALBNNPPL.proto";
+
+message HFKKLIDEBFB {
+	repeated AANALBNNPPL PLOKNPKGHPB = 6;
+	repeated uint32 IJBEEBFDOOP = 3;
+	repeated uint32 CCLLABBCIPD = 4;
+	repeated uint32 DPBNMFDMBNF = 5;
+	uint32 FDCFKLMINJH = 1;
+	uint32 DFLHPOBNIPG = 2;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OCAABICBPNI {
+	uint32 KBNDBJINABE = 7;
+	uint32 NCCPPHNNPBF = 9;
+	bool HDNILDCEFMG = 8;
+	uint32 DEHADAMGGJP = 11;
+}

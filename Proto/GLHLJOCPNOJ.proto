@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+import "MBJEPLKJNIG.proto";
+import "MHJJGCMMGLO.proto";
+
+message GLHLJOCPNOJ {
+	repeated JICKPPDLOHC PCPCBEBALLB = 15;
+	repeated MBJEPLKJNIG AAFLLAHKNJE = 9;
+	MHJJGCMMGLO JFONAHFNHKA = 10;
+	int32 EJNINFFFKJP = 13;
+}

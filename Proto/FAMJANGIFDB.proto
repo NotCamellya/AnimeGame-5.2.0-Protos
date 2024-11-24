@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message FAMJANGIFDB {
+	repeated uint32 ADCBGMKPKJL = 11;
+	uint32 NJPJCGCNEDO = 2;
+	uint32 NHCJGIFPGII = 6;
+	int32 EJNINFFFKJP = 13;
+}

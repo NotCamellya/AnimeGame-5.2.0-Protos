@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "JGBLKFDNIHF.proto";
+import "HPPANKBCFGI.proto";
+import "EBPONABNLJE.proto";
+import "KDPBGPNNCLD.proto";
+
+message JHJILIAANKO {
+	JGBLKFDNIHF avatar_available_count_result = 1797;
+	HPPANKBCFGI avatar_result = 333;
+	EBPONABNLJE card_result = 1304;
+	KDPBGPNNCLD coin_result = 826;
+	bool JBBKFMAPHOE = 14;
+	uint32 INNKMKKBBPK = 9;
+	uint32 LFNOBKNIAJH = 4;
+}

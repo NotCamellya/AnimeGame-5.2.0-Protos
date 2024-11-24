@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NAHDMONDEBL {
+	repeated uint32 MNCHCGGMLPA = 8;
+	uint32 IBIONJBKDDB = 5;
+}

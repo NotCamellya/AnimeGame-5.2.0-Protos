@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LOJADOADKGD.proto";
+
+message INACLNELNKJ {
+	repeated LOJADOADKGD OLAEHFOHIHL = 1;
+}

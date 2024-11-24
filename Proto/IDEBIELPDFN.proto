@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IDEBIELPDFN {
+	bool DIJLPFDMONG = 9;
+	uint32 JJDJDFCEFCK = 12;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LEBOALMHBEP {
+	uint32 AOENEJOFFDM = 7;
+	uint32 AGIDBEEINDE = 10;
+}

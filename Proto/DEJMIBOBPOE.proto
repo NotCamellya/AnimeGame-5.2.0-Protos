@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "OLHEKLKENDN.proto";
+
+message DEJMIBOBPOE {
+	OLHEKLKENDN EHILKNJIMPB = 6;
+	string BFMMHKFPCJB = 3;
+	bool HPDDGGHMBME = 4;
+	uint32 JBBNJEHICAF = 7;
+	uint32 IGBDOEBPPHO = 14;
+	uint32 NCCPPHNNPBF = 1;
+}

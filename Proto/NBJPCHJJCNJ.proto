@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message NBJPCHJJCNJ {
+	repeated uint32 KBNDBJINABE = 8;
+	repeated uint32 DEHADAMGGJP = 10;
+	string OMKNBNMEBIK = 2;
+	repeated uint32 FIEKPELIKLE = 3;
+	uint32 NCCPPHNNPBF = 15;
+	bool HDNILDCEFMG = 12;
+	bool GGOECIGKPAA = 1;
+}

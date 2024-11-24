@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JNAJJANDBMO.proto";
+
+message GKLCEPHFFFP {
+	JNAJJANDBMO FFLMNBGAOGN = 5;
+	bool KOOLIGMDCIM = 10;
+	int32 EJNINFFFKJP = 6;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EONJGNLCKLA {
+	uint32 BODIEJCLGMB = 1;
+}

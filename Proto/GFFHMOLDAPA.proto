@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message GFFHMOLDAPA {
+	KDEHCGJAGFJ FGAFONOJIPA = 14;
+	uint32 AGIDBEEINDE = 6;
+	int32 IGGNFMPHEFO = 9;
+	uint64 IADKLAAGLMB = 15;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "EODDBEANMOJ.proto";
+import "DEEEIEGAKAD.proto";
+
+message BJOCDGNJEIB {
+	repeated EODDBEANMOJ CNAJAFLIBED = 15;
+	repeated DEEEIEGAKAD GDGKAADBOGP = 11;
+	uint32 FCDBBLEIACF = 4;
+	uint32 GBNDPIFJBLI = 13;
+	bool MPFLDFDOGAI = 2;
+	uint32 NMIKCMLKNDM = 7;
+}

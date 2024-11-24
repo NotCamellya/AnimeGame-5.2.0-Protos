@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message BOMACPDEPID {
+	uint32 OPKHKBNHOAM = 4;
+	uint32 JLGJBALEIOI = 2;
+	uint32 KJFLEHHDMBB = 3;
+	uint32 BGIPNJAMKGM = 1;
+}

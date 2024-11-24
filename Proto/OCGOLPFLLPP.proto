@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OCGOLPFLLPP {
+	uint32 JIMELGDJMLF = 3;
+	uint32 EHAEACFBOOL = 11;
+	uint32 GKNIKFALMCC = 2;
+	uint32 EPFCIDIKLKG = 1;
+}

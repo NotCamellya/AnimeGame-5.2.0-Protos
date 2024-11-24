@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PIDFNDLHKPG.proto";
+
+message CMMDIEGNGML {
+	uint32 MPNJAOCKMAH = 13;
+	PIDFNDLHKPG CDBFPFOJBIJ = 8;
+}

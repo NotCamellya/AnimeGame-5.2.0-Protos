@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JGCFLHEDIHI.proto";
+
+message PHAJHIMIKGI {
+	JGCFLHEDIHI PMAPHNFNCPK = 5;
+	uint32 AGIDBEEINDE = 10;
+}

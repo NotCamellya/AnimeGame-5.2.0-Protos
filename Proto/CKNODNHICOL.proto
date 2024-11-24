@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message CKNODNHICOL {
+	string OLJDICONIFK = 12;
+	string LGKNBOOJFCB = 6;
+	uint32 NMIKCMLKNDM = 11;
+	uint32 EGMGBOOFAFG = 5;
+	uint32 JABGACILLEC = 2;
+	bool FECPHJJDHFE = 3;
+	uint32 LKOFKODPMGO = 8;
+	uint32 EFGBGPCBBGF = 9;
+}

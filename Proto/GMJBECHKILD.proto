@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GMJBECHKILD {
+	uint32 KEJELNBLMHL = 7;
+	int32 JOCACHHLKJH = 12;
+}

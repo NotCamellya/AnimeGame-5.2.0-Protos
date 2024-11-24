@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "GDGHGHFEBFC.proto";
+import "IPBANJACMOM.proto";
+
+message MMCBEAHGJCF {
+	bool IFAPCCLIJGD = 3;
+	GDGHGHFEBFC weapon = 2;
+	IPBANJACMOM reliquary = 1;
+}

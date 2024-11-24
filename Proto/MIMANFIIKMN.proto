@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LDKJNPENPHG.proto";
+
+message MIMANFIIKMN {
+	repeated LDKJNPENPHG JJBLBLMDPHC = 10;
+	uint32 AGIDBEEINDE = 11;
+}

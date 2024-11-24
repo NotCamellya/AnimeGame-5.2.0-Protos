@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KCJMDCFPOBF.proto";
+import "BLGLPAIGIFD.proto";
+
+message PCPPNCIBCIN {
+	repeated KCJMDCFPOBF AHKLJDPLAEK = 13;
+	repeated BLGLPAIGIFD MBLJACOLEIF = 3;
+}

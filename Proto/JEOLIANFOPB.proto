@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PPDGBNHKLJJ.proto";
+
+message JEOLIANFOPB {
+	PPDGBNHKLJJ NFFHJLHEMMB = 5;
+	uint32 FINAHGLFHAG = 6;
+}

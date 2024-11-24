@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message ENIKMKCHOGI {
+	map<uint32,int32> PGIANMGPDED = 10;
+	bool HCJFDJHILAM = 14;
+	uint32 CKPHCAGONKG = 15;
+	uint32 DOCJDOGOCKM = 6;
+	uint32 LDIMHBKFHIF = 3;
+}

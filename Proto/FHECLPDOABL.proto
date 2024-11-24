@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message FHECLPDOABL {
+	uint32 IBOIFPADMME = 12;
+	bool OAAIBFLMMNH = 4;
+	bool AIENBKNCADO = 13;
+	uint32 CLMJHIBIEJD = 10;
+	uint32 MBDFIFONDEG = 15;
+	uint32 GABLKAAECJB = 2;
+}

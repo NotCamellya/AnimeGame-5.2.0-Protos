@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message IPPAECMBHAF {
+	string online_id = 14;
+	string xbox_user_id = 5;
+	uint32 target_uid = 12;
+	string psn_id = 2;
+	bool JFBLHMGJIBH = 11;
+}

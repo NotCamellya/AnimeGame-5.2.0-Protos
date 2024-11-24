@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message EINAPLINOFB {
+	uint32 BIABFNLMMFE = 6;
+	bool BDCBLNLCAGE = 15;
+	bool GLKNGDDNOCN = 3;
+}

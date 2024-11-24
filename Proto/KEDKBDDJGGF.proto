@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "EPANGOOIECN.proto";
+import "BHDOHIGEJAN.proto";
+import "CLNAGPOKMIH.proto";
+
+message KEDKBDDJGGF {
+	EPANGOOIECN NKKCADBJEDL = 9;
+	BHDOHIGEJAN IOPGOMDHNBA = 6;
+	CLNAGPOKMIH APEFOHJKIIK = 13;
+	int32 EJNINFFFKJP = 14;
+}

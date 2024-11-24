@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CNHHCBOMMBH.proto";
+
+message OPJHHAFPDAK {
+	repeated CNHHCBOMMBH EMIPFNGKDPK = 1;
+	uint32 NMIKCMLKNDM = 8;
+	bool MPFLDFDOGAI = 6;
+}

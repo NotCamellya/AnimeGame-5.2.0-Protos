@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum DEIHIELEFEN {
+	DEIHIELEFEN_ADDED = 0;
+	DEIHIELEFEN_REMOVED = 1;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NCPHCNNDAOJ {
+	repeated uint32 GGLOKFGOFIH = 4;
+	bool BKFHPHPGDNH = 6;
+}

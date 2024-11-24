@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HKHGFIHOKNC.proto";
+
+message HGCDBGCGOKI {
+	repeated HKHGFIHOKNC EMFHFEGCJJB = 6;
+	string BFPMIHHHMIP = 12;
+	bool ILNBDDPAKHP = 9;
+	int32 EJNINFFFKJP = 7;
+	uint32 BPNKDCLMFOA = 4;
+	uint32 GFBBGFPDMPJ = 5;
+}

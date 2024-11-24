@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "EKPKCPDKCDO.proto";
+
+message COPFHIOLNHG {
+	repeated uint32 MECGJHBEJMK = 3;
+	uint32 NPFELIFMOBA = 4;
+	EKPKCPDKCDO crucible_info = 21;
+	uint32 DMCCAJMCFPA = 1;
+	uint32 EAEKNFBGKPA = 2;
+	uint32 LJBCGMADOLK = 6;
+	uint32 AEHJBEELKOO = 5;
+}

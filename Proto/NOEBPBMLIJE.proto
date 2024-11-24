@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NOEBPBMLIJE {
+	uint32 BODIEJCLGMB = 6;
+}

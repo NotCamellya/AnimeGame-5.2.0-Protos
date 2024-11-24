@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "OLHEKLKENDN.proto";
+import "PICCFJIDMML.proto";
+import "NLOBHEMPBEM.proto";
+
+message CLCLPFGGOGM {
+	repeated uint32 FEHBKKPDBDI = 2;
+	repeated OLHEKLKENDN KABODNMEGEK = 10;
+	PICCFJIDMML JKNHPFOBGJB = 14;
+	uint32 PJBBBIDPAJH = 9;
+	uint32 KONANKACIEM = 11;
+	NLOBHEMPBEM IGCFEKLJNMJ = 6;
+	uint32 NEKECFNAHOM = 1;
+}

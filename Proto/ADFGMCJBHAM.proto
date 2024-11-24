@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MCJCANJLBLH.proto";
+
+message ADFGMCJBHAM {
+	repeated MCJCANJLBLH FACPIFGCBBK = 8;
+	uint32 MPNJAOCKMAH = 13;
+	bool HCJFDJHILAM = 11;
+	bool DGGHONFDBGJ = 2;
+}

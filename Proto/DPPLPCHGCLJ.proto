@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EALJLLMBDEA.proto";
+
+message DPPLPCHGCLJ {
+	repeated uint32 MCICEHMKGMG = 2;
+	EALJLLMBDEA OPOOBJEOOKM = 1;
+	uint32 LEHGMKPFFDC = 3;
+	uint32 DMKAGPPKIKG = 4;
+}

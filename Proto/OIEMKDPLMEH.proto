@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message OIEMKDPLMEH {
+	string BFOOOPOOJNM = 10;
+	uint32 BGLNMBNMIDP = 2;
+	uint32 PEMGGKIIKIH = 3;
+	bool CKMAJKEHGGF = 15;
+	float HEPNMKNEKMP = 4;
+	float MJPLLNOFCOM = 5;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OHJCBGLINEM {
+	uint32 JAAEKGKMADO = 3;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "JKOBEFDEMME.proto";
+
+message NPPGOLACMCI {
+	uint32 KCJMIMEOLGN = 11;
+	uint32 CFFMDKNINHD = 14;
+	uint32 PDFEKIFNBDK = 2;
+	uint32 CLHGLAEHCIA = 6;
+	uint32 DCCCHKBIGHP = 1;
+	JKOBEFDEMME AIDPDNKDDNF = 15;
+}

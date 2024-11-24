@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum EDAPKOEFNDA {
+	EDAPKOEFNDA_NONE = 0;
+	EDAPKOEFNDA_AUTO = 1;
+	EDAPKOEFNDA_CUSTOM = 2;
+}

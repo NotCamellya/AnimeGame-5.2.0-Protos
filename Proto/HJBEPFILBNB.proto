@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LCFLJAAIBIO.proto";
+
+message HJBEPFILBNB {
+	repeated LCFLJAAIBIO EBGIOMFIFDA = 12;
+	uint32 GJNOLJFLFKF = 5;
+}

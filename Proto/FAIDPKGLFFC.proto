@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FAIDPKGLFFC {
+	uint32 EHAEACFBOOL = 4;
+	uint32 OCKIBANLDMK = 1;
+}

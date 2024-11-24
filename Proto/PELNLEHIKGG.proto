@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PELNLEHIKGG {
+	bool LHCPMANHDNO = 11;
+	uint32 MPNJAOCKMAH = 15;
+}

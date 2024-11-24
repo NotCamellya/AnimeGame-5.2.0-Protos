@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ILLBOJCLABL.proto";
+
+message PCMMBLEAOAJ {
+	ILLBOJCLABL BODIEJCLGMB = 6;
+	uint32 OACIPABKFNP = 15;
+	uint32 OAJOOBGHAGM = 7;
+}

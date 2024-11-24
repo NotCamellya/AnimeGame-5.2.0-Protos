@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IGKLNNDNCMG.proto";
+
+message KDCDDGBKMEN {
+	map<uint64,IGKLNNDNCMG> CJENICJPFGE = 7;
+	int32 EJNINFFFKJP = 2;
+}

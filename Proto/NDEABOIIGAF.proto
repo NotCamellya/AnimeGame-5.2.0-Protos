@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NDEABOIIGAF {
+	repeated uint32 GIPEPNIONAK = 1;
+}

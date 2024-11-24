@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MNLILCBGKNG.proto";
+
+message AJNPJBONPIC {
+	repeated MNLILCBGKNG MKJPGMHMHBJ = 9;
+	repeated uint32 OMOFOOMLJOD = 2;
+	repeated uint32 JJKNEHANBAJ = 15;
+}

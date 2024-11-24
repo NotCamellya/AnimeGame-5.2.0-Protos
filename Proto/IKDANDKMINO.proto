@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message IKDANDKMINO {
+	KDEHCGJAGFJ FGFLJIAEMLJ = 10;
+	KDEHCGJAGFJ GJEBAJAJPII = 11;
+	uint32 NCCPPHNNPBF = 7;
+}

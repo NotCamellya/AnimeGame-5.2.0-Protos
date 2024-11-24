@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LDAPHLKDCOA {
+	repeated uint32 HDIGMJMLPDP = 10;
+	uint32 IGBDOEBPPHO = 3;
+}

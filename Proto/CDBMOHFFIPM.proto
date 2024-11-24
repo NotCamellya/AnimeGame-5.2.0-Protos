@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message CDBMOHFFIPM {
+	repeated uint32 GOHAGOHHGLK = 13;
+	repeated uint32 APEENIIPONC = 14;
+	map<uint32,uint32> KIDPCOPALNE = 6;
+	map<uint32,uint32> KCMKGAHODHG = 8;
+	uint32 AGIDBEEINDE = 4;
+	uint32 MCKDBJLDCNF = 5;
+	uint32 IHDOCBIENJH = 2;
+	uint64 MEJLFKPFPGK = 1;
+}

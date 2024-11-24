@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HCDIKEPCIBN {
+	string DIBDHHDADLF = 9;
+}

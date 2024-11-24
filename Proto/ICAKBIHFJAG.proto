@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ALDEPKNJHGB.proto";
+
+message ICAKBIHFJAG {
+	string CKIECFILLBC = 4;
+	ALDEPKNJHGB DEBIFCFGEFK = 8;
+	uint32 GJLMNOHPJKA = 2;
+	uint32 AGIDBEEINDE = 12;
+	uint32 NIKFJIKMPOL = 13;
+}

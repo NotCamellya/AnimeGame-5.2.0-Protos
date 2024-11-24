@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+import "DIBNPKDBJIF.proto";
+import "FIGGLDDICMK.proto";
+import "EPIPOCJFLFD.proto";
+import "IGGNCAELHII.proto";
+import "PMEONDCIOPO.proto";
+import "NFBMJKMEFLM.proto";
+import "NJJJHOJAJBB.proto";
+import "JBCFNMIAMOE.proto";
+import "INAEBPBPIKM.proto";
+import "ANNJKELGKML.proto";
+import "NCDAHFBIEPN.proto";
+import "PNIKPLEDJKH.proto";
+import "EGBGHOPMDOB.proto";
+import "GBGPEDLAHIL.proto";
+import "MLMKBICHNOG.proto";
+import "LFHBFKHJIBO.proto";
+import "BKHEIFHDKFO.proto";
+import "LPCOHHOKFJO.proto";
+import "JDENEDDIMAO.proto";
+import "KMKIAAKGNPH.proto";
+
+message GFNBECNPKGE {
+	uint32 EAEKNFBGKPA = 1;
+	uint32 JIMELGDJMLF = 7;
+	uint32 NHBHFCLNJID = 8;
+	uint32 KKPPJFKDDEP = 13;
+	uint32 JABGACILLEC = 2;
+	uint32 DMCCAJMCFPA = 5;
+	uint32 EHAEACFBOOL = 4;
+	DIBNPKDBJIF monster_vs_monster_info = 1090;
+	FIGGLDDICMK cooperate_challenge_info = 564;
+	EPIPOCJFLFD irodori_chess_info = 940;
+	IGGNCAELHII chess_info = 937;
+	PMEONDCIOPO mechanicus_info = 1961;
+	NFBMJKMEFLM ball_game_info = 762;
+	NJJJHOJAJBB hide_and_seek_info = 1159;
+	JBCFNMIAMOE hide_and_seek_v4_info = 833;
+	INAEBPBPIKM pitch_pot_info = 597;
+	ANNJKELGKML watergun_info = 1407;
+	NCDAHFBIEPN target_shooting_info = 1704;
+	PNIKPLEDJKH fleur_fair_v2_pacman_info = 376;
+	EGBGHOPMDOB lan_v4_party_lion_info = 1624;
+	GBGPEDLAHIL lan_v3_boat_info = 644;
+	MLMKBICHNOG bird_ball_info = 492;
+	LFHBFKHJIBO fleur_fair_info = 984;
+	BKHEIFHDKFO coin_collect_info = 1216;
+	LPCOHHOKFJO ceremony_ghost_info = 1987;
+	JDENEDDIMAO brick_breaker_info = 1978;
+	KMKIAAKGNPH char_amusement_info = 18;
+}

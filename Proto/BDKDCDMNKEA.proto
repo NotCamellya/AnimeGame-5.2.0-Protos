@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JNOPBDMEMON.proto";
+
+message BDKDCDMNKEA {
+	repeated JNOPBDMEMON LPAGGIOGCJK = 5;
+	int32 EJNINFFFKJP = 4;
+}

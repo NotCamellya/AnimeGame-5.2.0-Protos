@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PINNKENPGMG {
+	map<uint32,float> GDJFODNLGJC = 13;
+	uint64 MEJLFKPFPGK = 5;
+}

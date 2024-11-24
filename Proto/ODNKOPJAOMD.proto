@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "GPHNOOMOJPD.proto";
+
+message ODNKOPJAOMD {
+	repeated GPHNOOMOJPD NAEEDLOCMLJ = 13;
+}

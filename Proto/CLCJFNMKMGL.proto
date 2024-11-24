@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "ILLMMCDPFAM.proto";
+
+message CLCJFNMKMGL {
+	repeated uint32 IHGFDOEBBGK = 10;
+	repeated uint32 FKILEOBOBPK = 12;
+	ILLMMCDPFAM NCKECKMMKDK = 13;
+	repeated uint32 IIPDBOIDFFP = 11;
+	uint32 PJABEFAJBGB = 1;
+	bool GHJAFBKDIDN = 5;
+	uint32 AEHJBEELKOO = 4;
+	uint32 MLGFPGIDGNO = 9;
+	uint32 MFOPKKIGJON = 8;
+	uint32 CDBFPFOJBIJ = 2;
+	uint32 DBFGJNBBDKC = 6;
+	uint32 DBPAIKAMKKG = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GOLDFEHODDJ {
+	uint32 FKLADMOLANA = 7;
+}

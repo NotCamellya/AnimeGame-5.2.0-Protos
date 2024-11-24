@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OEEDNCHKHAD.proto";
+
+message HEIMGCJDMKD {
+	OEEDNCHKHAD HAEFDCKNFOI = 1;
+	int32 EJNINFFFKJP = 3;
+	uint32 DNBEFLJLAMB = 12;
+}

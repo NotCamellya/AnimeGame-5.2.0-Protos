@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OCOGPANCFOC {
+	int32 EJNINFFFKJP = 14;
+}

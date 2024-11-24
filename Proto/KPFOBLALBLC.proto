@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum KPFOBLALBLC {
+	KPFOBLALBLC_NONE = 0;
+	KPFOBLALBLC_MUSIC_GAME = 1;
+}

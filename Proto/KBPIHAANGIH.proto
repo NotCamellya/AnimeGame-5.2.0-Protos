@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KBPIHAANGIH {
+	uint32 AGIDBEEINDE = 5;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message MIBLPEIKDBP {
+	uint32 MPNJAOCKMAH = 7;
+	bool GLKNGDDNOCN = 5;
+	bool ABHDEMELCDN = 11;
+}

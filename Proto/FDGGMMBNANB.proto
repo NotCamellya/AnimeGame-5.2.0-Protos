@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "BLIFJLGHEEM.proto";
+import "HHMHOHIIJBB.proto";
+
+message FDGGMMBNANB {
+	BLIFJLGHEEM LMAIEOEHELF = 3;
+	repeated HHMHOHIIJBB ENFBAMCLFHC = 2;
+	uint32 JFFDOKFMLKJ = 1;
+}

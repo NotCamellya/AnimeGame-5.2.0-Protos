@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IGKLNNDNCMG.proto";
+
+message PAGLEJFJJDK {
+	map<uint64,IGKLNNDNCMG> CJENICJPFGE = 2;
+}

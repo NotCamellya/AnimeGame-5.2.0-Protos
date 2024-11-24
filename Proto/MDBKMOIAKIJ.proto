@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IBDNAOGMOFO.proto";
+
+message MDBKMOIAKIJ {
+	IBDNAOGMOFO NFFHJLHEMMB = 1;
+	uint32 JAAEKGKMADO = 3;
+}

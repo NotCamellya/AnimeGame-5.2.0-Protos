@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IKCNJIPPPAC {
+	uint32 BILEKHIENED = 4;
+	uint32 MLINPDNFAIO = 9;
+}

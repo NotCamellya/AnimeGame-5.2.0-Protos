@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FCHDBLFDCPD {
+	repeated uint32 CKKDFOCMGIB = 6;
+	uint32 EDKMHLPPLGH = 2;
+}

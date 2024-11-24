@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+import "GPJGHADEOEN.proto";
+
+message PGIPEBIOOFH {
+	string BFPMIHHHMIP = 5;
+	repeated JICKPPDLOHC AMFBNEJGHMA = 14;
+	repeated GPJGHADEOEN HPAGCFJIEKP = 2;
+	uint32 GMGHAJIDBOE = 1;
+}

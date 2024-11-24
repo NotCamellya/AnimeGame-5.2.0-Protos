@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HIAOJLHGGDK.proto";
+
+message ACADEHENCNP {
+	map<uint32,HIAOJLHGGDK> BELOKFABIJF = 3;
+	int32 EJNINFFFKJP = 6;
+}

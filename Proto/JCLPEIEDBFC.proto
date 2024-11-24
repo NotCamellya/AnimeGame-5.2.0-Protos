@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message JCLPEIEDBFC {
+	uint32 MPNJAOCKMAH = 13;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EGBJCPOIMLJ.proto";
+
+message LNIMMMBFPGA {
+	repeated EGBJCPOIMLJ EFCDELGMMKG = 14;
+	uint32 MPNJAOCKMAH = 4;
+}

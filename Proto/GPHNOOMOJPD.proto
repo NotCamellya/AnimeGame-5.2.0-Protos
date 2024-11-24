@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OCBNHNOPDND.proto";
+
+message GPHNOOMOJPD {
+	repeated uint32 DNODMEKLBGH = 9;
+	repeated OCBNHNOPDND JEMBDAOOPHF = 15;
+	uint32 DAJHKHFLNDJ = 3;
+}

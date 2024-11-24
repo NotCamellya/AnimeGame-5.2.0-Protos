@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HIAGMDOKBPM {
+	int32 EJNINFFFKJP = 7;
+	uint32 PJHILJJCFFP = 13;
+}

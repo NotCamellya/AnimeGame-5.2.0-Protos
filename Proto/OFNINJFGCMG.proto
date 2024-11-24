@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DELIIFBAPEL.proto";
+
+message OFNINJFGCMG {
+	repeated uint32 MMMCBGKHDDM = 5;
+	DELIIFBAPEL IADFGKJCIDE = 1;
+}

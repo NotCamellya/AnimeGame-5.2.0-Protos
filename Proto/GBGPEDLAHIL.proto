@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message GBGPEDLAHIL {
+	repeated uint32 PDHEKMEMBLG = 12;
+	bool EDOJGAFAKDA = 5;
+	uint32 DOMBDIMFFII = 15;
+	uint32 NEKECFNAHOM = 14;
+}

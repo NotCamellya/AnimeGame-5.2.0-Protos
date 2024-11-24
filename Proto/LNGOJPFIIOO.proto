@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum LNGOJPFIIOO {
+	LNGOJPFIIOO_NONE = 0;
+	LNGOJPFIIOO_E_SKILL_SHARED = 1;
+}

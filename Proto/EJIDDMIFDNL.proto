@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EICIMOKGOOK.proto";
+
+message EJIDDMIFDNL {
+	repeated uint32 OABGPLHCBFO = 10;
+	repeated EICIMOKGOOK MGDKAGGEOIO = 2;
+	uint32 DNBEFLJLAMB = 14;
+	uint32 COEBNIJNNNE = 3;
+}

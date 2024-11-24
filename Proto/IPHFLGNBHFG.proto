@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ELCBGECGEON.proto";
+import "BLPMIJEPGLF.proto";
+
+message IPHFLGNBHFG {
+	ELCBGECGEON HPODKDCCIKJ = 2;
+	repeated BLPMIJEPGLF KCKEPCMLIHI = 8;
+	bool PGDGNMGCEKM = 12;
+	bool MPFLDFDOGAI = 5;
+}

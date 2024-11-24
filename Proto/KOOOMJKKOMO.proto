@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LNJHDKEPBFO.proto";
+import "FLMMAAODDGD.proto";
+import "GDEJPLCEOKO.proto";
+
+message KOOOMJKKOMO {
+	uint32 EAIPGEMKNPO = 7;
+	LNJHDKEPBFO third_stage_info = 8;
+	FLMMAAODDGD second_stage_info = 15;
+	GDEJPLCEOKO first_stage_info = 3;
+}

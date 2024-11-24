@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AFKNOLLNKAH {
+	uint32 HNOGKEHFLHE = 13;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BACIKMLGHHN.proto";
+
+message HPBCMBFEKGO {
+	repeated BACIKMLGHHN LCBABFEJLKB = 3;
+}

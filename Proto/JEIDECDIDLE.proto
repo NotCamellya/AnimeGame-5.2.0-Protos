@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "ICANCIPFHNK.proto";
+import "JICKPPDLOHC.proto";
+import "NBHHIAKNANM.proto";
+
+message JEIDECDIDLE {
+	ICANCIPFHNK KCBLAFECKCH = 1;
+	ICANCIPFHNK ODPNMGFHEOM = 7;
+	repeated JICKPPDLOHC FJEAHEFOLEL = 15;
+	repeated NBHHIAKNANM MDNEHEHJMEP = 14;
+	repeated uint32 KLPOGHNLINN = 9;
+	repeated uint32 DGINEEPPKLL = 2;
+	repeated uint32 GKONEBEGNHL = 4;
+	bool MPFLDFDOGAI = 3;
+}

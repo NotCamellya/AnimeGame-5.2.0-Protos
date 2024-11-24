@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HFFFCNEFIKM.proto";
+
+message NEONEKMNODC {
+	HFFFCNEFIKM NPFFLKNKFND = 15;
+	uint32 AGIDBEEINDE = 1;
+}

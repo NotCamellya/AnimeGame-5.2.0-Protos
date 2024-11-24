@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "CKLHCGJEICC.proto";
+
+message IGKLNNDNCMG {
+	uint32 MIMEIGLBOPI = 2;
+	CKLHCGJEICC CDBFPFOJBIJ = 1;
+	float PGIIOIBNKKE = 5;
+	uint32 CCHOPBCADIG = 3;
+	uint32 AEHJBEELKOO = 4;
+}

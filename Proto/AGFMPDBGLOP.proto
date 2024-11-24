@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HCKOGHGENIC.proto";
+
+message AGFMPDBGLOP {
+	HCKOGHGENIC IMIOGMDOKCB = 14;
+	int32 EJNINFFFKJP = 11;
+	uint32 NCCPPHNNPBF = 7;
+}

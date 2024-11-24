@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JDNCHHPCNMD.proto";
+import "BOMACPDEPID.proto";
+
+message BPGCAHBJNCD {
+	JDNCHHPCNMD KPNDJLKLKFO = 2;
+	BOMACPDEPID HKPIDJMMCKB = 1;
+}

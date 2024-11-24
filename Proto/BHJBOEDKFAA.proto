@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KPFOBLALBLC.proto";
+
+message BHJBOEDKFAA {
+	KPFOBLALBLC DAAKPCOABEP = 12;
+	int32 EJNINFFFKJP = 2;
+}

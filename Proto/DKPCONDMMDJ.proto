@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MDKCMCIMNDG.proto";
+
+message DKPCONDMMDJ {
+	repeated MDKCMCIMNDG PGIBHCHLPDN = 10;
+	uint32 KNGJHMLLCNP = 2;
+	uint32 CKPHCAGONKG = 5;
+	bool HCJFDJHILAM = 1;
+	uint32 KAFHPLFLKNJ = 8;
+}

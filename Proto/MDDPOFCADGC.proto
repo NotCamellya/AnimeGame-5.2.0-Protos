@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IOEOEIMKMJD.proto";
+
+message MDDPOFCADGC {
+	uint32 AGDKNOHOOPG = 5;
+	float NLJEJPGCPCI = 2;
+	float JHCCPFIPJPM = 6;
+	IOEOEIMKMJD IMIOGMDOKCB = 10;
+}

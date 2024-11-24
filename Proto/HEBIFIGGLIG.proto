@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HEBIFIGGLIG {
+	repeated uint32 BALPDAMODLC = 12;
+}

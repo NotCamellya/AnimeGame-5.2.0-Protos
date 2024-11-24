@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message DKIBLFIGLAP {
+	uint32 EBHOKCEGLDB = 2;
+	uint32 EKGEOLMICCP = 3;
+	uint64 AEHJBEELKOO = 1;
+	float GABGBNNDMMP = 5;
+	float EOAECODKEAG = 4;
+	bool LKICAOGDMCB = 6;
+}

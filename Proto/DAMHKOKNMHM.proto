@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "JGBHHLONIJJ.proto";
+import "NGOFPEOLOPF.proto";
+import "JMBLHDBAOOD.proto";
+import "LFJNDJLGPHF.proto";
+
+message DAMHKOKNMHM {
+	repeated JGBHHLONIJJ EFBGBHMGOCJ = 1;
+	repeated NGOFPEOLOPF DJMCHFPIFLM = 7;
+	repeated JMBLHDBAOOD KGIPBCBHAAD = 2;
+	repeated LFJNDJLGPHF POGLDPDFFAD = 8;
+	uint32 NAPCPMLNHME = 11;
+	uint32 OFNOGJPGBNA = 12;
+	uint32 HGBBGLKPLFI = 9;
+	uint32 CJOKFLDEFMB = 3;
+	uint32 PNHKNEINACA = 15;
+}

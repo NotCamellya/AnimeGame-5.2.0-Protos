@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BPHPDCCAEGC.proto";
+
+message IKCBLGHMDAA {
+	map<uint32,BPHPDCCAEGC> NMOOCJNBEOH = 14;
+	uint32 GODOGIJJJIA = 3;
+}

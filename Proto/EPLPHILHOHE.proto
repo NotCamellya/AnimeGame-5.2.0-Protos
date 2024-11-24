@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message EPLPHILHOHE {
+	uint32 PEMGGKIIKIH = 13;
+	int32 HLJHHFICKMG = 5;
+	uint32 MFFPCLGBCDG = 2;
+	bool IHIDIODDKFB = 4;
+	uint32 KNFCEKNFOJH = 3;
+	uint32 MBLHCGPHFLE = 8;
+	int32 KOFHAGBKGPD = 1;
+}

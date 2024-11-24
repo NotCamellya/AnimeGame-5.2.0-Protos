@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OMEKKOAPODP {
+	uint32 NCCPPHNNPBF = 10;
+}

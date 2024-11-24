@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OBNKIAPKLNB.proto";
+
+message HBMMLDAACOA {
+	OBNKIAPKLNB HHAOEKLDNOL = 14;
+	repeated uint32 FBNMBDDBNDH = 15;
+	uint32 DOMBDIMFFII = 9;
+	uint32 MKCGMMGANLK = 11;
+}

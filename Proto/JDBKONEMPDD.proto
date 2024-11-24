@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "OCAAMCABKGG.proto";
+
+message JDBKONEMPDD {
+	KDEHCGJAGFJ BNHEAFCGIJM = 7;
+	repeated OCAAMCABKGG GBANJKINLGK = 5;
+	uint32 OEGJAILDLBK = 4;
+	uint32 GDCOFFHMCFJ = 13;
+	uint32 IGBDOEBPPHO = 10;
+}

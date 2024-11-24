@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "CNJODFLJDIE.proto";
+import "EGEKCOIJOLN.proto";
+
+message CLJABGNOJBH {
+	repeated uint32 GIPEPNIONAK = 4;
+	repeated CNJODFLJDIE MFOHCKAFFMM = 12;
+	repeated EGEKCOIJOLN KCKEPCMLIHI = 15;
+	repeated uint32 OEJIPIOBDAI = 3;
+	uint32 NMIKCMLKNDM = 1;
+	bool MPFLDFDOGAI = 14;
+}

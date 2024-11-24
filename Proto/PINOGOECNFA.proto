@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BPFBCCNHLFN.proto";
+
+message PINOGOECNFA {
+	BPFBCCNHLFN KGAKHDPKIAL = 10;
+	uint32 HGBBGLKPLFI = 6;
+	bool GFJOKBOEGNB = 7;
+	uint32 GNMADOHHMOI = 12;
+	uint32 GJAPBKELHOG = 9;
+	uint32 OAJOOBGHAGM = 14;
+}

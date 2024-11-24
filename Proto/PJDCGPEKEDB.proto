@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EHJPLMEENAP.proto";
+
+message PJDCGPEKEDB {
+	repeated EHJPLMEENAP AOCDKAGOAIK = 6;
+}

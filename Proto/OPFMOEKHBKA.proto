@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LCFIPCLANEK.proto";
+
+message OPFMOEKHBKA {
+	LCFIPCLANEK PHEEPOCGABD = 1;
+	uint32 AGIDBEEINDE = 12;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "DGIDDPPFFDJ.proto";
+
+message DHNBIHGAEJB {
+	map<uint32,DGIDDPPFFDJ> EEPDGHEJGPM = 5;
+	map<uint32,uint32> FMFKLMJBPGA = 1;
+	repeated uint32 ANNCKMOHNLE = 10;
+}

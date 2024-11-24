@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum MBLMIOIMCFG {
+	MBLMIOIMCFG_ALL = 0;
+	MBLMIOIMCFG_AIR = 1;
+	MBLMIOIMCFG_WATER = 2;
+}

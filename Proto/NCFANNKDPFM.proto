@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NCFANNKDPFM {
+	repeated uint32 ADBBIPHBLIE = 13;
+	uint32 MPNJAOCKMAH = 5;
+}

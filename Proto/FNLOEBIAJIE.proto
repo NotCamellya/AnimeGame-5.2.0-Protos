@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "AHFCCKGEIJD.proto";
+
+message FNLOEBIAJIE {
+	string LBKDGOEFEBC = 2;
+	uint32 CPMEFHEEOAH = 3;
+	uint32 AEEDOAGEHPP = 14;
+	uint32 GGIGCLLHEFM = 11;
+	uint32 AJCGKKPCCGD = 10;
+	string text = 1639;
+	uint32 icon = 865;
+	AHFCCKGEIJD system_hint = 181;
+	uint32 NCCPPHNNPBF = 13;
+	bool BKAMPGBBBFP = 7;
+}

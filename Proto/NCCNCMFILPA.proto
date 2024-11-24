@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NCCNCMFILPA {
+	uint32 KFAADEEKLBJ = 9;
+	uint32 BMMBMCLKGMO = 5;
+}

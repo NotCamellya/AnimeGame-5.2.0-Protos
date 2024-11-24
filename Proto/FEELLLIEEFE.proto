@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "OFBHCGGGGGN.proto";
+import "FGNHPFIDPCB.proto";
+import "IMGPEMFGOPF.proto";
+
+message FEELLLIEEFE {
+	map<uint32,OFBHCGGGGGN> FMIEBPKJJPJ = 2;
+	FGNHPFIDPCB CAINBBIBGEB = 3;
+	uint32 OAJOOBGHAGM = 12;
+	IMGPEMFGOPF COKCGKDPPEM = 5;
+	uint32 FDLPBGMPMNL = 11;
+	uint32 MIBHHJEDEPE = 7;
+	uint32 HIACPELKDMP = 6;
+	uint32 AMOHEAPPLCA = 13;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CPFADLIKENP {
+	uint32 LCHBEAHGHEO = 2;
+}

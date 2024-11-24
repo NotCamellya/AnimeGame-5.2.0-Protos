@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "JKOBEFDEMME.proto";
+
+message IJPJONNJCMK {
+	JKOBEFDEMME AIDPDNKDDNF = 1;
+	uint32 LKOFKODPMGO = 5;
+	uint32 FFHPDCIBKOD = 8;
+	bool ELOKHOHFMCP = 11;
+}

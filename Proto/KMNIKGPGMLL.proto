@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LKIAMJCJLAK.proto";
+import "BINOOCJMLCB.proto";
+
+message KMNIKGPGMLL {
+	repeated LKIAMJCJLAK BIGKKEOICGL = 7;
+	BINOOCJMLCB CEJABHLHHAC = 2;
+	uint32 EFKNDDJEPLJ = 14;
+	int32 EJNINFFFKJP = 1;
+}

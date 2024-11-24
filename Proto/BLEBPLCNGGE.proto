@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message BLEBPLCNGGE {
+	uint32 DIGPDMKMGAF = 4;
+	uint32 EHAEACFBOOL = 14;
+	uint32 HLKDDNGCKJN = 15;
+}

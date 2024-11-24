@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "HAOGHPBGFPF.proto";
+
+message NPAJIDCHFFJ {
+	repeated KDEHCGJAGFJ OCNAEJFMCAG = 7;
+	repeated HAOGHPBGFPF KDBJKIFIEJH = 6;
+	repeated KDEHCGJAGFJ EGEBLKIOPLK = 14;
+	repeated HAOGHPBGFPF ONIMBHEFLKJ = 4;
+	int32 ECIFINMNLND = 5;
+	int32 EJNINFFFKJP = 2;
+}

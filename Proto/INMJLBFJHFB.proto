@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "OMAKEENDNNC.proto";
+
+message INMJLBFJHFB {
+	repeated OMAKEENDNNC DIAODCECNOE = 1;
+	bool NIHFNLLBLFG = 8;
+}

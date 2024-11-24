@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message EPEFNBDCIHO {
+	uint32 EAIPGEMKNPO = 7;
+	uint32 FJAMCDJDJOA = 12;
+	uint32 OAICFBDHDHJ = 15;
+	uint32 HGGEHLMHKMP = 8;
+	uint32 ANBLHIACJIL = 9;
+	bool OMENIAMEDCE = 11;
+}

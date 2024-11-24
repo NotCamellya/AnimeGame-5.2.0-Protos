@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FGNHPFIDPCB.proto";
+
+message OLNKDKCNLAM {
+	FGNHPFIDPCB MJNIEHCAKGA = 8;
+	FGNHPFIDPCB CHHGPNNNNLP = 7;
+	uint32 HBJEGBKEFIP = 3;
+	uint32 LKNPJAHAILB = 11;
+}

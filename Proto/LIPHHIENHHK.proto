@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message LIPHHIENHHK {
+	float DEMNMCGOCFM = 2;
+	int32 JDMOGBAKABC = 3;
+	uint32 OFBDCBOBJJA = 1;
+}

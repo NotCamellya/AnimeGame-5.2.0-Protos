@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "COEBEADNAIO.proto";
+
+message EDAHLOBBOND {
+	repeated COEBEADNAIO CKHLLIDJCDE = 13;
+	uint32 IGBDOEBPPHO = 11;
+}

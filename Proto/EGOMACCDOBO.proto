@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DEJMIBOBPOE.proto";
+
+message EGOMACCDOBO {
+	repeated DEJMIBOBPOE KABODNMEGEK = 4;
+}

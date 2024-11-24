@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MGGBDBMFAOO.proto";
+
+message AFPHCHDHPEN {
+	repeated MGGBDBMFAOO JIDJOAOODHA = 10;
+}

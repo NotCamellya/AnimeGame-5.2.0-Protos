@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "KNMPNCPBMMP.proto";
+import "FJCOKOHBJIN.proto";
+
+message BFLCGFAMILE {
+	repeated uint32 MJAONINHIIB = 3;
+	KNMPNCPBMMP MEOGIFMOGGM = 8;
+	KNMPNCPBMMP FJOAEEMIBAE = 5;
+	repeated FJCOKOHBJIN BCKBKIDDFCD = 2;
+	uint64 MEJLFKPFPGK = 1;
+	uint32 DBHIFKIIEOI = 9;
+	uint32 EMKABKLDMAN = 11;
+	uint64 FLIOFBBOPPB = 4;
+}

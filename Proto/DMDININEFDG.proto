@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum DMDININEFDG {
+	DMDININEFDG_NOE = 0;
+	DMDININEFDG_MONSTER = 1;
+	DMDININEFDG_QUEST = 2;
+}

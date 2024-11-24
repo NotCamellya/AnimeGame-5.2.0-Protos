@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FLELMACAHHI {
+	uint32 EPFCIDIKLKG = 12;
+}

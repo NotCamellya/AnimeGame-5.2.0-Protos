@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KCICAHCPBGB.proto";
+
+message OHGFMLNPOHM {
+	KCICAHCPBGB NNFJJLGPBKA = 14;
+}

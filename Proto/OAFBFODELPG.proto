@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OAFBFODELPG {
+	uint32 OAJOOBGHAGM = 7;
+	uint32 OACIPABKFNP = 4;
+}

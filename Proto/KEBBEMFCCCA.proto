@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KKIADDODLOI.proto";
+
+message KEBBEMFCCCA {
+	repeated KKIADDODLOI BMPMEHFCDKC = 7;
+}

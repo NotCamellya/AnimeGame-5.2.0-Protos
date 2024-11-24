@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NBDLMBAIODF {
+	repeated uint32 MCICEHMKGMG = 7;
+}

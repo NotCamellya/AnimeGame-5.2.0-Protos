@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KBOFOJIDPGH.proto";
+
+message AFJCAPHKPGB {
+	KBOFOJIDPGH NGANCEICGHC = 9;
+	uint32 FFHPDCIBKOD = 6;
+}

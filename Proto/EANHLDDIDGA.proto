@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MIFDFAIHDDA.proto";
+
+message EANHLDDIDGA {
+	repeated MIFDFAIHDDA MBDHJJOHCKO = 1;
+}

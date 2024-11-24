@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+import "MEENBHFDNGJ.proto";
+import "DDIAKFFCPDH.proto";
+
+message JMOIIBGCHPO {
+	repeated uint32 CKNAFCGJELM = 1;
+	map<uint32,MEENBHFDNGJ> HAPPCAHNNJI = 3;
+	repeated DDIAKFFCPDH PKHPCJOGDBB = 13;
+	repeated uint64 IPBOJDIJFKE = 8;
+	repeated uint64 EPFPAMGGPHK = 10;
+	float LNGHHDIABNK = 5;
+	uint32 JPCFCAMDOOJ = 15;
+	uint32 DFIDINDBNGM = 476;
+	uint32 NKGDGKCIDJJ = 14;
+	uint32 KFDINLFHFMK = 9;
+	uint32 EAIPGEMKNPO = 11;
+	uint32 OAJOOBGHAGM = 7;
+	bool PHHAEFNLMGG = 1234;
+	bool OKBKPBLOPLN = 12;
+	uint32 KHIHKMMNCMO = 146;
+	uint32 EACCPEFBMMJ = 2;
+}

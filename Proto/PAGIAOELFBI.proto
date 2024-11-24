@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message PAGIAOELFBI {
+	repeated uint32 POJMPFGOGMJ = 2;
+	repeated uint32 LLGKJBFCKDO = 14;
+	bool PLPDAINNJBO = 9;
+	bool OAFKFEGGDOB = 1;
+	bool DPDKDNFKFJF = 15;
+	uint32 PAAAMMMCJPB = 8;
+	uint32 BLJGCONGPKK = 5;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BPOBBMNGMDL.proto";
+
+message LHBCJCHHNJP {
+	map<uint32,uint32> BMNFBPGHFJB = 6;
+	map<uint32,uint32> PHJJLGFFMOM = 3;
+	BPOBBMNGMDL IADFGKJCIDE = 13;
+}

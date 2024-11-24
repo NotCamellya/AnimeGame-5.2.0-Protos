@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MOOKABDAJLO {
+	repeated uint32 NKOCEDMEAEO = 1;
+}

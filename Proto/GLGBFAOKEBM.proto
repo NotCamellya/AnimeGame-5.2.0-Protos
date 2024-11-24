@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GLGBFAOKEBM {
+	map<uint32,uint32> KJOGIDLLODK = 1;
+}

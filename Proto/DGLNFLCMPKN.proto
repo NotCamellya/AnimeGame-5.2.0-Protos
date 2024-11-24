@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "BINOOCJMLCB.proto";
+
+message DGLNFLCMPKN {
+	repeated uint32 FAPMPNADDDF = 4;
+	repeated uint32 AMLNLDNJJID = 11;
+	uint32 LCDDIDLJEDN = 2;
+	uint32 EFKNDDJEPLJ = 7;
+	BINOOCJMLCB CEJABHLHHAC = 12;
+}

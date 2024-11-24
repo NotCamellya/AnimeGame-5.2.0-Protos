@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HPDPKLFDMCE.proto";
+
+message EBMAEDKIJFO {
+	HPDPKLFDMCE EDJLNGFGLCP = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PJOODBMDLMC {
+	uint32 EAIPGEMKNPO = 15;
+}

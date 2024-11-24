@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PCOBGIMLLAA {
+	uint32 MPNJAOCKMAH = 1;
+	uint32 BODIEJCLGMB = 5;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IGKLNNDNCMG.proto";
+import "OLNCPFJIEKM.proto";
+
+message JENPNBFGAHG {
+	map<uint64,IGKLNNDNCMG> CJENICJPFGE = 4;
+	repeated OLNCPFJIEKM NOICHAJIBGA = 3;
+	repeated int32 FOHBPEMHKNC = 11;
+	int32 EJNINFFFKJP = 2;
+}

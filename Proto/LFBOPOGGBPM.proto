@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LFBOPOGGBPM {
+	repeated uint32 PLMDDOEIFPL = 4;
+	uint32 MPNJAOCKMAH = 8;
+}

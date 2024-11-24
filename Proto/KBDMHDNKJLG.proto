@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PKJMPCPEGGO.proto";
+import "JICKPPDLOHC.proto";
+
+message KBDMHDNKJLG {
+	string OMKNBNMEBIK = 3;
+	PKJMPCPEGGO IANEBDKAMBM = 5;
+	repeated JICKPPDLOHC JHCGPLJOIFF = 9;
+	uint32 NCCPPHNNPBF = 8;
+}

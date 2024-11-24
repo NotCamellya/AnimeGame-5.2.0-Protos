@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "PHDAEEHJBBA.proto";
+import "GFINLGDCIIN.proto";
+
+message LCPCGANMINF {
+	int32 BJDAMEMIGCC = 3;
+	PHDAEEHJBBA shape_box = 4;
+	GFINLGDCIIN shape_sphere = 2;
+	float KJPMLHHAPJE = 7;
+	uint32 CCACOJPKPOH = 8;
+	uint32 APICIBIFLAK = 14;
+	int32 EDBFACBGBCE = 13;
+	uint32 LFCJFGOIEEK = 5;
+	int32 KDEMGBKBOMA = 1;
+}

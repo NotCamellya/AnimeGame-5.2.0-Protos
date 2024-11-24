@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "DFOKMEDFPLL.proto";
+import "BPGCAHBJNCD.proto";
+import "EHCLPIIPLOH.proto";
+
+message HKHGFIHOKNC {
+	repeated string MKOFAGFGOIA = 14;
+	DFOKMEDFPLL INFHJIEPNJD = 4;
+	repeated BPGCAHBJNCD JHCGPLJOIFF = 7;
+	uint32 MHJHGIMLHLN = 9;
+	uint32 HLKDDNGCKJN = 13;
+	bool PICOLPBCPGH = 12;
+	bool BKAMPGBBBFP = 11;
+	uint32 BHEBPJKAGMO = 8;
+	uint32 NBDGKGPLBOE = 10;
+	EHCLPIIPLOH DBPCFFBOECF = 15;
+	uint32 DEDDKKOGEIL = 1;
+}

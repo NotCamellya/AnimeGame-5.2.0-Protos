@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OBNKIAPKLNB.proto";
+
+message PFPJEKBJJBG {
+	repeated uint32 DLCEIFKFFAA = 12;
+	OBNKIAPKLNB HHAOEKLDNOL = 11;
+	repeated uint32 ANNCKMOHNLE = 1;
+}

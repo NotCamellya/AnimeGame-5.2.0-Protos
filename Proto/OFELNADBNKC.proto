@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PPAICMKDNEI.proto";
+
+message OFELNADBNKC {
+	uint32 EPFCIDIKLKG = 4;
+	uint32 AJMMAEEGJEA = 10;
+	uint32 CJPDFHODJGO = 9;
+	PPAICMKDNEI POGDPFNPMDB = 11;
+	uint32 HLBECOIBPBP = 8;
+	uint32 MHENBJCACME = 15;
+}

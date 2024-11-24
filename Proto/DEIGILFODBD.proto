@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "NKKHONKPPLE.proto";
+
+message DEIGILFODBD {
+	KDEHCGJAGFJ GJEBAJAJPII = 6;
+	KDEHCGJAGFJ FGFLJIAEMLJ = 7;
+	uint32 HBPLLHHBCPD = 5;
+	uint32 KLMDAPCLGAP = 11;
+	NKKHONKPPLE gadget = 13;
+	uint32 monster_id = 1;
+	uint32 gadget_id = 3;
+	uint32 item_id = 4;
+	uint32 npc_id = 2;
+	uint32 IGBDOEBPPHO = 10;
+	uint32 BKHPLMCODAC = 12;
+}

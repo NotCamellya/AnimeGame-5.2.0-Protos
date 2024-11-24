@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ADLALDIHMOA {
+	uint32 GKNIKFALMCC = 5;
+}

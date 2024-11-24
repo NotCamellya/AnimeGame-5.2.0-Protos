@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "HGMLODJCJNO.proto";
+
+message LFLJDEIHLDM {
+	map<uint32,int32> JNOFEOHIMOB = 2;
+	repeated uint32 ONPGICEBPFJ = 3;
+	map<uint32,uint32> FKJPHKIHBMD = 15;
+	map<uint32,int32> LEMCPFECPMB = 10;
+	uint32 MBBKAENBCKD = 1;
+	HGMLODJCJNO OPOOBJEOOKM = 6;
+	uint32 ALKGNKPNKIJ = 14;
+}

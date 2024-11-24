@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message BABBMLIKODE {
+	uint64 MEJLFKPFPGK = 14;
+	uint32 HOKOGIODLCI = 13;
+	int32 EJNINFFFKJP = 5;
+}

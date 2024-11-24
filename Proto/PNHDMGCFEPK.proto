@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LHHOMFPBFOE.proto";
+
+message PNHDMGCFEPK {
+	LHHOMFPBFOE NGANCEICGHC = 10;
+	bool OMENIAMEDCE = 3;
+}

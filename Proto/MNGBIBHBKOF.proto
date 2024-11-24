@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MNGBIBHBKOF {
+	uint32 EAIPGEMKNPO = 7;
+}

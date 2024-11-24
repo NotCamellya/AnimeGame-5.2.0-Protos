@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message HGDJMICKHAK {
+	repeated uint32 LOEGGILIKBH = 9;
+	uint32 MAHAHAABDAA = 5;
+	bool GLKFGCONGMI = 3;
+}

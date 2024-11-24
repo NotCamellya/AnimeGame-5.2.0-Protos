@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KPFOBLALBLC.proto";
+
+message LCLMKOCJLOD {
+	KPFOBLALBLC DAAKPCOABEP = 10;
+	uint64 IHGJLFCGFIN = 11;
+}

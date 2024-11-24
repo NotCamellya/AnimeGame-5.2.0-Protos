@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "COANHIFNGHK.proto";
+
+message LFJNDJLGPHF {
+	string AMPBNDIACMI = 2;
+	string NKANJIJNIMC = 1;
+	uint32 IBCOIOKMGGE = 5;
+	uint32 AGOPLLENLAO = 7;
+	uint32 MBDFAMEKCKB = 6;
+	COANHIFNGHK resin_card = 101;
+	uint32 LJBNCMIDOBM = 4;
+	uint32 MANAANIBALB = 3;
+}

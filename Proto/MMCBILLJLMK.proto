@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HKPGNGDDOCL.proto";
+import "LJCNGNGDGPH.proto";
+
+message MMCBILLJLMK {
+	map<uint32,uint32> BIKKDDDLDHP = 10;
+	HKPGNGDDOCL JPIECJLIGIP = 12;
+	LJCNGNGDGPH PONKPLPMFEI = 8;
+}

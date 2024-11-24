@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "KBAIOMIOCCP.proto";
+import "CMGOOOMLAIA.proto";
+
+message GGOGOCCOPNK {
+	repeated uint32 CDGIKFOLBGH = 15;
+	uint32 OOIPGFEDJMN = 14;
+	KBAIOMIOCCP LAPFIKCFDFL = 10;
+	CMGOOOMLAIA IMIOGMDOKCB = 4;
+}

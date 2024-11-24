@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+
+message KIGCGPKHCNH {
+	repeated JICKPPDLOHC AMFBNEJGHMA = 14;
+	repeated uint64 DOKAGAGPMCA = 4;
+	uint32 furniture_suite_id = 360;
+	uint32 slot_id = 111;
+}

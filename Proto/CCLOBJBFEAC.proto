@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CLHNPAKHDGH.proto";
+
+message CCLOBJBFEAC {
+	repeated CLHNPAKHDGH GJIHLNAEGGD = 13;
+}

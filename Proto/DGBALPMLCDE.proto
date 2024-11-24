@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DGBALPMLCDE {
+	uint32 OFNOGJPGBNA = 7;
+}

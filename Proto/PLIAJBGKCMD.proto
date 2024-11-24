@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HFHJKHOPLMN.proto";
+import "PKJMPCPEGGO.proto";
+
+message PLIAJBGKCMD {
+	string EFAJIHMNOBK = 6;
+	string OMKNBNMEBIK = 13;
+	repeated HFHJKHOPLMN JAHPPELNEDF = 8;
+	PKJMPCPEGGO IANEBDKAMBM = 12;
+	uint32 NCCPPHNNPBF = 1;
+}

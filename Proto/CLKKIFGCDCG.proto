@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OAODPGJOMPF.proto";
+import "KPFOBLALBLC.proto";
+
+message CLKKIFGCDCG {
+	repeated OAODPGJOMPF CIDMBDPHCHJ = 1;
+	KPFOBLALBLC DAAKPCOABEP = 8;
+}

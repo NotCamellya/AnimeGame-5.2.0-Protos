@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NNGGBCFBFAJ {
+	map<uint32,uint32> FLDBIGENHHC = 2;
+}

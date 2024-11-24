@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PNFAIKEJLCH {
+	repeated uint32 DHOILIOLKJA = 6;
+}

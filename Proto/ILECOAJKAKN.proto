@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "GBMACCKLNJE.proto";
+import "JCFMHOHIDOD.proto";
+import "OFBHCGGGGGN.proto";
+
+message ILECOAJKAKN {
+	repeated uint32 GOGOFPNOKBK = 11;
+	repeated GBMACCKLNJE JAEBIMKPKFE = 8;
+	map<uint32,JCFMHOHIDOD> AGNJKCKECBO = 10;
+	map<uint32,OFBHCGGGGGN> FMIEBPKJJPJ = 2;
+	uint32 OAJOOBGHAGM = 15;
+	uint32 POAFICPFPCJ = 13;
+	uint32 MONEJDBPOLB = 14;
+	uint32 AMLIJKENIIN = 1;
+	uint32 OEDOJBLAMDM = 9;
+	bool HCJFDJHILAM = 7;
+}

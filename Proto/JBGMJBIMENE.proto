@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IJFNLMOGGLK.proto";
+
+message JBGMJBIMENE {
+	IJFNLMOGGLK ILJAFLPBLCM = 10;
+}

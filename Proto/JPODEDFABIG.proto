@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JPODEDFABIG {
+	repeated uint32 IAAMFJGFPMN = 14;
+	bool KCOIMECCODP = 13;
+}

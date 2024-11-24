@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "KMJBMEFJIGO.proto";
+import "IKEMEBCAIIC.proto";
+
+message NJJJHOJAJBB {
+	map<uint32,KMJBMEFJIGO> JENACEPCGOF = 14;
+	repeated uint32 LPGMAEHCBOB = 7;
+	bool HAEAOOFAJNG = 9;
+	uint32 IKDAJELLEAI = 13;
+	uint32 DOMBDIMFFII = 15;
+	IKEMEBCAIIC KKPPJFKDDEP = 6;
+}

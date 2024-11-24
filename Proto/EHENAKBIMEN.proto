@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EHENAKBIMEN {
+	uint64 PDAJAFKMHNI = 12;
+	uint32 BOPHLABGICN = 15;
+}

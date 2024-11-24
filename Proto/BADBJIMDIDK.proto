@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MLHHGNPCLGK.proto";
+
+message BADBJIMDIDK {
+	uint32 FJAMCDJDJOA = 5;
+	uint32 FCPECPMOGOJ = 10;
+	bool OMENIAMEDCE = 6;
+	MLHHGNPCLGK IMIOGMDOKCB = 12;
+	uint32 CCLBEPHGCEK = 1;
+}

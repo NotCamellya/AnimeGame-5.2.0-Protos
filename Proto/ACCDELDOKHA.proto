@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ACCDELDOKHA {
+	bool GDFOEBGCLHC = 12;
+	bool EMPNFMGJOPA = 13;
+	uint64 MEJLFKPFPGK = 5;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ENOFBCMAAJL.proto";
+import "KGBKIFDBEPC.proto";
+
+message IPFFKFAJBKN {
+	repeated ENOFBCMAAJL PMJBOEGCPMH = 6;
+	map<uint32,KGBKIFDBEPC> GKKAMPPDFIB = 4;
+}

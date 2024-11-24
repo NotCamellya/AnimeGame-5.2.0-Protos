@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PIAMLHKGKEE.proto";
+
+message LOEMGPFCBBI {
+	repeated uint32 DAECIFFCAOP = 14;
+	repeated uint32 JGJMHGGKFFA = 11;
+	repeated uint32 NCCMFOLEPAC = 5;
+	repeated PIAMLHKGKEE FHLCFPFAFIC = 4;
+	repeated uint32 KNNONDAGIMB = 7;
+}

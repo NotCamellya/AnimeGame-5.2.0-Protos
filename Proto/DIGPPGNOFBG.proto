@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DIGPPGNOFBG {
+	uint32 AGDKNOHOOPG = 10;
+	uint32 ANCHBJDFHJH = 8;
+}

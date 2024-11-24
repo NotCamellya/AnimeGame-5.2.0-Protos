@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AGDIEPOHJCH {
+	uint32 IPJDIPNCFDN = 12;
+	uint32 CMDBCGAECDP = 14;
+	uint32 AADKGLAKICJ = 11;
+}

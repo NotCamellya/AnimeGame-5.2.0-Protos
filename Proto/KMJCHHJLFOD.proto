@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "KKJDCDOPFEB.proto";
+
+message KMJCHHJLFOD {
+	repeated KKJDCDOPFEB GEJANKKFNHI = 13;
+	uint32 NKKBIFADCCB = 3;
+	uint32 DILOBKCEEGC = 11;
+	uint32 LMPPEBIMKFA = 12;
+	uint32 OALIOHAMLGN = 4;
+	uint32 LAAHCNEFEMP = 5;
+	bool DJBCMFCCCCH = 1;
+	bool MPFLDFDOGAI = 15;
+	bool CBPFGGCIMBD = 9;
+}

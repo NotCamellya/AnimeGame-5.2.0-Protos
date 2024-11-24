@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ELBNIMPAMFP {
+	uint64 OEMMLAKCANN = 14;
+	bool FADINCNPBMD = 2;
+}

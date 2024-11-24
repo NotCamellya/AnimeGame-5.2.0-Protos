@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CMHLIIJINHM.proto";
+
+message BLOIKONAHIP {
+	CMHLIIJINHM MJKAMAFCBFK = 13;
+	uint32 JFIFNGCMOAC = 7;
+}

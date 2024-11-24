@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LDCECHMBPFH.proto";
+import "CJCEKNNABGI.proto";
+
+message GJDJPCPPHIC {
+	repeated LDCECHMBPFH PEEBJAOIKFC = 2;
+	CJCEKNNABGI HOLKPJJEEIM = 15;
+	uint32 OAJOOBGHAGM = 1;
+	uint64 MCPPEKNBHFK = 7;
+}

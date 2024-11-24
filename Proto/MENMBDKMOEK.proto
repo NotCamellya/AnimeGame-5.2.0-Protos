@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LMLBFOELDFF.proto";
+
+message MENMBDKMOEK {
+	repeated LMLBFOELDFF FPKEIGKADAB = 1;
+	uint32 FINAHGLFHAG = 14;
+	uint32 CDCHFGFJNOI = 10;
+	uint32 EAIPGEMKNPO = 15;
+	uint32 KDMJFHDPPDP = 4;
+	uint32 OIBOOEEAIDH = 12;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LKKFHDFBAHJ.proto";
+import "FIDFLFBFHHH.proto";
+
+message OAMILBDLAID {
+	repeated LKKFHDFBAHJ LILDONIELDM = 11;
+	repeated FIDFLFBFHHH ADMKPEPMOAH = 8;
+}

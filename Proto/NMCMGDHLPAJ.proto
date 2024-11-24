@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MBJEPLKJNIG.proto";
+
+message NMCMGDHLPAJ {
+	repeated MBJEPLKJNIG AAFLLAHKNJE = 12;
+	repeated uint32 DMIGLEHJPDC = 15;
+	int32 EJNINFFFKJP = 4;
+}

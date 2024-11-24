@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KLLNPGCMDBN.proto";
+
+message BEJHLDMOIMP {
+	repeated KLLNPGCMDBN EFCDELGMMKG = 7;
+	int32 EJNINFFFKJP = 11;
+	uint32 MPNJAOCKMAH = 6;
+}

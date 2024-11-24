@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PIMEINBAJFB.proto";
+
+message CPCAGMCMNKO {
+	repeated PIMEINBAJFB GJIHLNAEGGD = 13;
+}

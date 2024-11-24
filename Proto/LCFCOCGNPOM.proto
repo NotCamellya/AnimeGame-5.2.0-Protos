@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LCFCOCGNPOM {
+	repeated uint32 IELDIKDKLAI = 1;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NIJKANKIBLA.proto";
+import "DCHLOBNGOMN.proto";
+
+message GONNEBEHPCE {
+	NIJKANKIBLA AKGOOIIBCOM = 2;
+	repeated DCHLOBNGOMN PIIJCNNIECO = 9;
+}

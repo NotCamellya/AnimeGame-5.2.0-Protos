@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message OFLPMONGLGN {
+	uint32 IGBDOEBPPHO = 13;
+	bool IFFBNJAAJEO = 4;
+	uint64 NPHDPDNODMO = 6;
+}

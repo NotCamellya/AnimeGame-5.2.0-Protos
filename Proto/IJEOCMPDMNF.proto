@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "GKIDJMLNNHH.proto";
+import "NIPGCFOGIHP.proto";
+import "NIHODIJKPKE.proto";
+
+message IJEOCMPDMNF {
+	GKIDJMLNNHH MIHAKFPLLKC = 12;
+	NIPGCFOGIHP CBNGGOBIDHA = 4;
+	repeated NIHODIJKPKE PNDPNMBDOKF = 10;
+	bool FBLPAKODJCJ = 9;
+	bool MPFLDFDOGAI = 7;
+	bool HDIHDAJMLFF = 6;
+}

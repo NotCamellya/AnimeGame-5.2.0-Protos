@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NCEFPCDBMHP {
+	uint32 NCCPPHNNPBF = 5;
+	uint32 CBBACLOLNCD = 14;
+	int32 EJNINFFFKJP = 11;
+}

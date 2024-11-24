@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KNJLMGFKIMB.proto";
+
+message KJJFLMFFICN {
+	KNJLMGFKIMB detail_ability_info = 9;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KAPLJMBLBME.proto";
+
+message NFILMAGDNGJ {
+	repeated KAPLJMBLBME BAGJBBKNADL = 10;
+	bool OADMKDGJLAM = 12;
+}

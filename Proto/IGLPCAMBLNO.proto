@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message IGLPCAMBLNO {
+	uint32 ODCMKOFFKKL = 3;
+	bool BDCBLNLCAGE = 12;
+	bool GLKNGDDNOCN = 7;
+	uint32 EAIPGEMKNPO = 4;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BBHGIMGPBLI {
+	uint32 CHJLFMPCGDB = 11;
+	uint32 DPCPFJDOOKD = 13;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PANKPDJHCBK.proto";
+
+message CIHAFPKMBKP {
+	repeated PANKPDJHCBK OMGNBDHMJNI = 2;
+	int32 EJNINFFFKJP = 6;
+}

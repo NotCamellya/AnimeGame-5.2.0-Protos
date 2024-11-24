@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JNAJJANDBMO.proto";
+
+message JMGEIJPCFAN {
+	JNAJJANDBMO FFLMNBGAOGN = 11;
+	int32 EJNINFFFKJP = 14;
+}

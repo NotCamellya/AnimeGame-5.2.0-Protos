@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HGBPGGBFPDB {
+	uint32 OOIPGFEDJMN = 1;
+}

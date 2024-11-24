@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KHMIEMJIDHL {
+	uint32 ADJNOLPLKOA = 12;
+}

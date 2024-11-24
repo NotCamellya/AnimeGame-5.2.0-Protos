@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LPEBBIPGPAK {
+	map<uint32,uint32> PFFBJOFBDNP = 15;
+}

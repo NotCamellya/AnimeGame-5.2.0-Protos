@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NCFAOPODNHL {
+	uint32 CNAIFGICLDH = 12;
+}

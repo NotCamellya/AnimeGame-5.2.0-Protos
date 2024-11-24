@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IJGINKJGDPD.proto";
+
+message NLPCNCHFNNO {
+	repeated IJGINKJGDPD IKMDADCOPEG = 11;
+	int32 EJNINFFFKJP = 14;
+}

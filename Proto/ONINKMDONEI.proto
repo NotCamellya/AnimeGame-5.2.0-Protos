@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ONINKMDONEI {
+	repeated uint32 BIPADACDOFI = 8;
+	uint64 MCPPEKNBHFK = 2;
+}

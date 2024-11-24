@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ILJBEKEGPIF.proto";
+
+message JDMGFCIPNIN {
+	repeated ILJBEKEGPIF MHLENCLFCKN = 7;
+	repeated ILJBEKEGPIF BGIPCECAJJH = 11;
+}

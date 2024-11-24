@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IBLFGAKCOAN {
+	uint32 AMPEOPEOMAD = 13;
+}

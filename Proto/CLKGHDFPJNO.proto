@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ONCDPLGELHG.proto";
+
+message CLKGHDFPJNO {
+	ONCDPLGELHG KGOPOIPHLAM = 9;
+	uint32 CJOKFLDEFMB = 5;
+	int32 EJNINFFFKJP = 13;
+}

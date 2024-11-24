@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DCLHEMONJJB {
+	uint32 OALCOHNAPAJ = 9;
+	uint32 DCEDEJDMLHO = 1;
+}

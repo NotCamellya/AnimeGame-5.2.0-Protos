@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EEJAGBCFPNA.proto";
+import "NIAJPBBJMJB.proto";
+
+message EJCCPJJDIEN {
+	repeated EEJAGBCFPNA PNDPNMBDOKF = 13;
+	repeated NIAJPBBJMJB HGAIBENIOCI = 1;
+}

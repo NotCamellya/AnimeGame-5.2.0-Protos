@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PBKKCEOCHEB.proto";
+import "GPCMGDAKOEM.proto";
+
+message HPFIHMBBAEK {
+	repeated PBKKCEOCHEB PEOILIHAHJK = 12;
+	repeated GPCMGDAKOEM IJJLKLPAOAA = 9;
+}

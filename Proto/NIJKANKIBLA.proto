@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NIJKANKIBLA {
+	uint32 HLKDDNGCKJN = 6;
+}

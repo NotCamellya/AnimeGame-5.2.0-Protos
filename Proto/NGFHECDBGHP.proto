@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MPFODNPCFDI.proto";
+import "BMIDAFBCOMP.proto";
+
+message NGFHECDBGHP {
+	repeated MPFODNPCFDI LCPMKKBNBFB = 12;
+	BMIDAFBCOMP OPANIFFJCHE = 4;
+}

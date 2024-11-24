@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "CMGOOOMLAIA.proto";
+
+message OIOGCPAHKBL {
+	uint32 NHKDMGCHGKA = 5;
+	uint32 IMJENFJPGNP = 2;
+	uint32 DAJHKHFLNDJ = 4;
+	uint32 INLCEDPIFKI = 15;
+	CMGOOOMLAIA IMIOGMDOKCB = 9;
+}

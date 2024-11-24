@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CJEIMOKENAM.proto";
+
+message NGKGKPNCAIF {
+	repeated CJEIMOKENAM PJMIHEEDBDB = 5;
+}

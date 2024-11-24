@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NKKKNIPOKPM {
+	uint32 KLMDAPCLGAP = 2;
+}

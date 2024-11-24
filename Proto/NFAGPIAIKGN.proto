@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KNMPNCPBMMP.proto";
+import "CGACLDGEJJA.proto";
+
+message NFAGPIAIKGN {
+	KNMPNCPBMMP PBDCLALKDAB = 8;
+	CGACLDGEJJA GNEOLEOJLFE = 4;
+	uint32 HIJIIOLCKKI = 13;
+}

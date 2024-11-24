@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PNDLBAIFGIO {
+	string NKANJIJNIMC = 6;
+	uint32 DMJODFMIIDG = 3;
+	uint32 BILEKHIENED = 10;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DKIBLFIGLAP.proto";
+
+message ALNKHCIAIDK {
+	DKIBLFIGLAP JIOIGFOFFFF = 11;
+	uint32 AGIDBEEINDE = 15;
+}

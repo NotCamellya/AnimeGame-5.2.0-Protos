@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message OECOMGEAHBM {
+	repeated uint32 MEIKGBOLDGH = 7;
+	uint32 MPNJAOCKMAH = 8;
+	bool OMENIAMEDCE = 11;
+}

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "BIFEDDINLOD.proto";
+import "GMCJNDHELFG.proto";
+
+message MKBMDCGMIEO {
+	repeated BIFEDDINLOD OBHPOELIAPM = 3;
+	repeated GMCJNDHELFG BHMHDGKHBCE = 6;
+	repeated uint32 MFHKFMFACIN = 4;
+	repeated uint32 BIPADACDOFI = 12;
+	bool LAKINGCAKKD = 8;
+	uint32 OOIPGFEDJMN = 11;
+	uint32 IONHGHGAJGG = 1;
+	uint32 IEHPOBPFCBP = 14;
+	uint32 MBBKAENBCKD = 7;
+}

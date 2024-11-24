@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DBJBLIAECJD {
+	uint32 BMDCBKPECNG = 11;
+	bool HPOFOEMAEPD = 6;
+}

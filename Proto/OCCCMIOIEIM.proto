@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OCCCMIOIEIM {
+	int32 EJNINFFFKJP = 12;
+	uint32 ENIOGLNENNH = 3;
+	uint32 HGGONAEPOGD = 15;
+	uint32 AGIDBEEINDE = 4;
+}

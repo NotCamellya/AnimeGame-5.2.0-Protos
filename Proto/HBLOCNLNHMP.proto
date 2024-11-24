@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HBLOCNLNHMP {
+	uint32 GHLBJAHJEHF = 15;
+	uint32 OCKIBANLDMK = 4;
+}

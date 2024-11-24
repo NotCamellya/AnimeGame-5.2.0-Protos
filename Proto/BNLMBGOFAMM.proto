@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BNLMBGOFAMM {
+	map<uint32,uint32> PAPCKMPIPKP = 12;
+}

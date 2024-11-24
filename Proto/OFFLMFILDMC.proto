@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CKLEEGMPDGN.proto";
+import "HDMDABCDAHK.proto";
+
+message OFFLMFILDMC {
+	CKLEEGMPDGN AGMHMDHEFKD = 2;
+	HDMDABCDAHK IMIOGMDOKCB = 4;
+	uint32 NAJDGKJKPDP = 12;
+}

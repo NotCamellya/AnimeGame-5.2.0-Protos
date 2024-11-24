@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "JBFHHGEPHLJ.proto";
+
+message DLMFIPFADAM {
+	JBFHHGEPHLJ BBGIGHKHKDM = 2;
+	uint32 IGBDOEBPPHO = 11;
+	uint32 EFKNDDJEPLJ = 1;
+	int32 EJNINFFFKJP = 4;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CNHBKOCHGHK {
+	uint32 MKHENDMFLMF = 1;
+}

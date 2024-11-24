@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "GNDPPDJEIHI.proto";
+import "IPDFPEJJFJL.proto";
+import "OAMHDLMDFKP.proto";
+
+message CDMOBOLHBJL {
+	GNDPPDJEIHI BCLBHOBHBIM = 7;
+	IPDFPEJJFJL BFAFICCJAAA = 2;
+	OAMHDLMDFKP OCCDLHPHNIH = 4;
+}

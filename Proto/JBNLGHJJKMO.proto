@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NMCEGCNOBKI.proto";
+
+message JBNLGHJJKMO {
+	uint32 FINAHGLFHAG = 5;
+	uint32 JABGACILLEC = 1;
+	NMCEGCNOBKI bonus_info = 7;
+	uint32 LKOFKODPMGO = 14;
+	uint32 DNBEFLJLAMB = 15;
+	bool EJLGMDFFMOO = 12;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ACEKDEBFIMC.proto";
+
+message CHNDGMMBKDI {
+	repeated ACEKDEBFIMC NFMBFOGNCNL = 15;
+	repeated uint32 HGGJIHMNEBA = 13;
+	uint32 CDFIKAPILPF = 5;
+	uint32 MNCBKGJGGLL = 6;
+}

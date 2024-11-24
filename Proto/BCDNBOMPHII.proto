@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "OACPABJKLFG.proto";
+
+message BCDNBOMPHII {
+	repeated OACPABJKLFG PNDPNMBDOKF = 11;
+	bool AFKICPPFJDP = 13;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum JPPCDGDPDBM {
+	JPPCDGDPDBM_NONE = 0;
+	JPPCDGDPDBM_BY_KICK = 1;
+	JPPCDGDPDBM_QUIT = 2;
+}

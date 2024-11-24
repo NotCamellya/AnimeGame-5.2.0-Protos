@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum MOLEKLJMAKD {
+	MOLEKLJMAKD_NONE = 0;
+	MOLEKLJMAKD_OCEAN_CURRENT = 1;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FDIGDFDCNJC.proto";
+import "HJKIGLGDDON.proto";
+
+message CHGNHDCHNDD {
+	FDIGDFDCNJC AMBDAFCLIAG = 11;
+	uint32 DDIGGFPIFNB = 9;
+	HJKIGLGDDON PEMALBHPMKF = 14;
+}

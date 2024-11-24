@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GDEOMCCLABG {
+	uint32 MFHNFAOMIBA = 15;
+}

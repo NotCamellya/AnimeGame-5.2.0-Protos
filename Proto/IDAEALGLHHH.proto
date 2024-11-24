@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HBMMLDAACOA.proto";
+
+message IDAEALGLHHH {
+	HBMMLDAACOA CKCGBHBBDJE = 12;
+	HBMMLDAACOA HHLKIJLAPJD = 2;
+	uint32 IEJPGHNLIDB = 5;
+	uint32 MPNJAOCKMAH = 7;
+}

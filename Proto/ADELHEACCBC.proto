@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "BBIKBHKDNPI.proto";
+import "DDGPFNOPLFF.proto";
+import "HEBABGNPNLK.proto";
+import "EHHKCFAFJFD.proto";
+
+message ADELHEACCBC {
+	BBIKBHKDNPI OAMEBDNHEDB = 5;
+	repeated uint32 HOBAIDKKPLG = 6;
+	repeated DDGPFNOPLFF ELBCGLMHDIL = 1;
+	repeated HEBABGNPNLK LPCDPIIMLPO = 12;
+	repeated EHHKCFAFJFD JIECNLEMKBD = 3;
+	bool GIANJMCBAEC = 9;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message PLCFJAGCLLK {
+	uint32 MPNJAOCKMAH = 6;
+	uint32 JENAGOCPDKL = 7;
+	uint32 FJAMCDJDJOA = 4;
+	bool OMENIAMEDCE = 8;
+	bool OMIOCFGBLKC = 13;
+	uint32 ANBLHIACJIL = 15;
+	uint32 HGGEHLMHKMP = 9;
+}

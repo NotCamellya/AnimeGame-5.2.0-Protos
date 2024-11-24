@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LKOFCBNNOAM.proto";
+import "AIPIIHKMOGO.proto";
+import "AINAHDONFEO.proto";
+
+message MBAHAOFJNJN {
+	LKOFCBNNOAM KGFPCMBDPAJ = 10;
+	repeated uint32 MDCJIJLNKHL = 15;
+	AIPIIHKMOGO BLHDMDOKALP = 13;
+	AINAHDONFEO FBFDAKLPEFB = 9;
+}

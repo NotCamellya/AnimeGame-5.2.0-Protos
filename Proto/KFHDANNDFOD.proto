@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DJCIABFHKPM.proto";
+
+message KFHDANNDFOD {
+	repeated DJCIABFHKPM EIOKFKMBNEE = 11;
+}

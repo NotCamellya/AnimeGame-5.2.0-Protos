@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OIPNCINGENE {
+	uint32 OAJOOBGHAGM = 7;
+	uint32 BIEDPJIAHEE = 2;
+}

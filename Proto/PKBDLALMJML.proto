@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EPHALEJPIKM.proto";
+
+message PKBDLALMJML {
+	repeated uint32 KBGFIGBANGK = 13;
+	uint32 MBBKAENBCKD = 11;
+	bool FGLOHNKKPPG = 12;
+	EPHALEJPIKM IIGDIKAKPCC = 5;
+	uint32 PINGABDELME = 2;
+}

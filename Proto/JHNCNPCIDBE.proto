@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "GAIIAABDPNB.proto";
+
+message JHNCNPCIDBE {
+	repeated GAIIAABDPNB DAIGBJEHFFE = 5;
+}

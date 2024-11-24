@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message APIFBAEJICD {
+	int32 EJNINFFFKJP = 5;
+	uint32 HOLALICKCPE = 1;
+	uint32 LHKPDIDDCME = 11;
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "DJMOIAAEIEM.proto";
+
+message LOJIGCPMDMK {
+	repeated DJMOIAAEIEM EEKBGCNDECM = 11;
+	DJMOIAAEIEM PHCLJDCDCFP = 14;
+	uint32 CHEMKPMDEOA = 4;
+	uint32 FKBJJOPNOFB = 9;
+	uint32 NOABIPLPACE = 1;
+	uint32 MPNJAOCKMAH = 8;
+	uint32 DCAELJLAKHM = 5;
+	uint32 CGJLICKODNH = 10;
+	bool HGMKGFCDFBE = 7;
+	bool APJCIIKKIGM = 12;
+	bool KHDMIHPGHEM = 13;
+	bool PJJDJMGPNLE = 15;
+}

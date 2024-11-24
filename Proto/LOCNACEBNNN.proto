@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "IBOEPABCDMC.proto";
+import "FDNFFENOFKF.proto";
+import "JGCGFHPEIJM.proto";
+import "MCLPEEKLGMC.proto";
+import "EMEKKIANDLE.proto";
+
+message LOCNACEBNNN {
+	IBOEPABCDMC sorush_info = 740;
+	FDNFFENOFKF creator_info = 1074;
+	JGCGFHPEIJM camera_info = 776;
+	MCLPEEKLGMC thunder_bird_feather_info = 1278;
+	EMEKKIANDLE location_info = 30;
+	bool KJFPPJKHCAO = 386;
+}

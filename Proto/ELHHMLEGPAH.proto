@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HHMHOHIIJBB.proto";
+import "PFMMGANCPEF.proto";
+
+message ELHHMLEGPAH {
+	repeated HHMHOHIIJBB JHCGPLJOIFF = 12;
+	PFMMGANCPEF LGMMMEDPLGO = 10;
+}

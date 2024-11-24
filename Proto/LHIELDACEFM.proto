@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LHIELDACEFM {
+	repeated uint64 DOKAGAGPMCA = 12;
+}

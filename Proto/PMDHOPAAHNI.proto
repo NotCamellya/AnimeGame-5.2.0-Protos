@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PMDHOPAAHNI {
+	repeated uint32 CBFFBJNCPND = 6;
+}

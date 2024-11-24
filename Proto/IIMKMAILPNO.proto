@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IIMKMAILPNO {
+	uint32 AOEGKKAJEAN = 4;
+}

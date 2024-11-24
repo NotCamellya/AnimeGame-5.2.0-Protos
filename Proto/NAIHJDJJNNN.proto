@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JPPCDGDPDBM.proto";
+
+message NAIHJDJJNNN {
+	uint32 NCCPPHNNPBF = 10;
+	JPPCDGDPDBM IMIOGMDOKCB = 5;
+	uint32 FBNLOHMDNHD = 8;
+}

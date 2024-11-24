@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NLCBPNEFPLN {
+	repeated uint32 ONPGICEBPFJ = 14;
+	int32 EJNINFFFKJP = 11;
+	uint32 MBBKAENBCKD = 8;
+}

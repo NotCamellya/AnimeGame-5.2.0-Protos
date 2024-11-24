@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EGOCJGKCMGF.proto";
+
+message FBDPALCFGMI {
+	EGOCJGKCMGF FOFMCGLBFGL = 12;
+	int32 EJNINFFFKJP = 8;
+}

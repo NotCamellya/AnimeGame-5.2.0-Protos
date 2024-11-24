@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "NBJPCHJJCNJ.proto";
+import "PIMMBIDLDCL.proto";
+
+message JDENEDDIMAO {
+	repeated NBJPCHJJCNJ ONCFEKCFKMO = 12;
+	PIMMBIDLDCL KKPPJFKDDEP = 13;
+	uint32 MPNJAOCKMAH = 5;
+}

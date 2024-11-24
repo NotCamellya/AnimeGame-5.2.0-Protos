@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EMEPBGALGKI {
+	uint32 MBBKAENBCKD = 3;
+}

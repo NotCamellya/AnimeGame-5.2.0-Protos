@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "KCICAHCPBGB.proto";
+import "PMNPLDNDDIP.proto";
+import "PLNEFHEEEKB.proto";
+import "OLIFCHHIJAG.proto";
+
+message POKBDLIJMJG {
+	repeated KCICAHCPBGB AHKCIIMCBOJ = 8;
+	repeated PMNPLDNDDIP PLNNILADKMJ = 6;
+	repeated uint32 KPKMLCIGEMN = 12;
+	repeated uint32 EBEPPCGFEGA = 10;
+	repeated uint32 ELONHIAJPEG = 3;
+	repeated PLNEFHEEEKB KHCFDEEOMDF = 13;
+	repeated OLIFCHHIJAG KIADCANPEPM = 9;
+}

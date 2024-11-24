@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PAHOICKNMEP.proto";
+
+message JMHOGADNPCE {
+	repeated PAHOICKNMEP OENAHHEEFLG = 1;
+	uint32 MPNJAOCKMAH = 8;
+	uint32 EAIPGEMKNPO = 15;
+	uint32 JBFDOGPAKKC = 11;
+	uint32 AELJDIPLELM = 14;
+}

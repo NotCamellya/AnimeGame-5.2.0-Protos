@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FGMAALLADOE {
+	bool JDMPIANNMGK = 9;
+	uint32 CBPDGCPONHM = 15;
+}

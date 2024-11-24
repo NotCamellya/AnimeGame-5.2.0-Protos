@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "IBDNAOGMOFO.proto";
+import "OMBEIFNNEDF.proto";
+
+message HJIIIPEEIIM {
+	repeated uint32 CMIIEGLHFFL = 13;
+	repeated IBDNAOGMOFO DGHLOIEEMCG = 12;
+	repeated OMBEIFNNEDF IEJJAFIBEFP = 9;
+	repeated OMBEIFNNEDF GANAOAINDNG = 7;
+	uint32 LOJPODLLAIF = 15;
+	uint32 IBHDPGMKHHN = 2;
+	uint32 PIEAPGEPMLF = 5;
+	bool LAILPNOOAJC = 6;
+}

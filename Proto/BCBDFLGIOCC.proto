@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "GPIDAGCKPFO.proto";
+import "NAJEPFPOEDA.proto";
+import "JOKPHKNIFID.proto";
+
+message BCBDFLGIOCC {
+	repeated uint32 HBDGGIDECMD = 4;
+	GPIDAGCKPFO EDDADHKHEBI = 7;
+	NAJEPFPOEDA DBAIDABICMG = 8;
+	repeated JOKPHKNIFID KGMFMFGLLKA = 6;
+	bool IHIDIODDKFB = 5;
+	uint32 instanced_modifier_id = 2;
+	uint32 instanced_ability_id = 1;
+	uint32 KOFHAGBKGPD = 3;
+}

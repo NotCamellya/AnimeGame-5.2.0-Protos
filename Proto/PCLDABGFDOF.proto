@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AINAHDONFEO.proto";
+
+message PCLDABGFDOF {
+	AINAHDONFEO FBFDAKLPEFB = 6;
+	uint32 OAJOOBGHAGM = 1;
+	uint64 MCPPEKNBHFK = 2;
+}

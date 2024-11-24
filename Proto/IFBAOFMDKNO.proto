@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "GJBKFOPDCGK.proto";
+import "NBDHFHKMLFD.proto";
+import "PEELKMKJKPP.proto";
+
+message IFBAOFMDKNO {
+	repeated GJBKFOPDCGK HILLLCLAILE = 1;
+	NBDHFHKMLFD FHMDOPHEELD = 11;
+	PEELKMKJKPP IMIOGMDOKCB = 6;
+}

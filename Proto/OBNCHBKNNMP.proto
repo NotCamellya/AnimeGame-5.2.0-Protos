@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OBNCHBKNNMP {
+	uint32 MPNJAOCKMAH = 8;
+	uint32 LLBGOFEEMCL = 5;
+}

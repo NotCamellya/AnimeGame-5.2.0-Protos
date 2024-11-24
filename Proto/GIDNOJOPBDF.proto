@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LCFLJAAIBIO.proto";
+
+message GIDNOJOPBDF {
+	LCFLJAAIBIO LBBKKKBBFFP = 2;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "FNMJNFHDLFA.proto";
+import "DPOGEFJBHLG.proto";
+import "MJOGIGOMGJO.proto";
+
+message KPDDLJECBCJ {
+	FNMJNFHDLFA LCEJJHALMMJ = 8;
+	DPOGEFJBHLG KCBLAFECKCH = 2;
+	MJOGIGOMGJO BKNEEJGDLNO = 15;
+}

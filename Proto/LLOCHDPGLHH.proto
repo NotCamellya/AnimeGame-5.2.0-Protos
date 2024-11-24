@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MBLGAMKOLNH.proto";
+import "PDCHBPPHCIO.proto";
+import "KEPEDPMNKMH.proto";
+
+message LLOCHDPGLHH {
+	MBLGAMKOLNH LEPOCHAIDCI = 11;
+	PDCHBPPHCIO LAGHFECAPIM = 3;
+	KEPEDPMNKMH EJLJPGFDGDH = 8;
+}

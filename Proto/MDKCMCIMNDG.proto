@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "PKJMPCPEGGO.proto";
+
+message MDKCMCIMNDG {
+	string EFAJIHMNOBK = 15;
+	string MPMEJIBKJEO = 13;
+	PKJMPCPEGGO IANEBDKAMBM = 2;
+	uint32 ODCPAECONND = 8;
+	uint32 KKAJOFHLHJO = 6;
+	uint32 NCCPPHNNPBF = 4;
+	int32 FCPANCMAOIE = 7;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DOKKNIDHJOB {
+	uint32 PEMALBHPMKF = 6;
+	uint32 OFIPBEGGHCD = 10;
+}

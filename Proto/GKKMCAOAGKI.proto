@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GKKMCAOAGKI {
+	repeated uint32 CKBBAOIMLLA = 7;
+}

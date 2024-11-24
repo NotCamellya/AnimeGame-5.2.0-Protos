@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HDNFFPFFNDN.proto";
+
+message PCLLABLBNGA {
+	HDNFFPFFNDN NMLMHPPDLIB = 2;
+	int32 BDNKLFDGOHK = 1;
+}

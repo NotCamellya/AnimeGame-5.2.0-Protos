@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IGNBAHODBEE.proto";
+
+message JNPMCOCIGMN {
+	repeated int32 CBDKNDMEJJB = 5;
+	repeated IGNBAHODBEE DOPJDKEDCBN = 2;
+	int32 EJNINFFFKJP = 11;
+}

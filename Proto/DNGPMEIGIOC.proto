@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DNGPMEIGIOC {
+	uint32 DNBEFLJLAMB = 15;
+}

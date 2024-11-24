@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "OJIAIHBOABH.proto";
+
+message FDOCKHOIOBJ {
+	OJIAIHBOABH JNIOKOCNMLL = 11;
+	string EJHDNLGGGMD = 8;
+	uint32 NMAAPLDBBNI = 3;
+	uint32 BPBIGEAPBOK = 10;
+	uint32 FIKAHJGPNFF = 4;
+	uint32 HDGMIALKFMC = 13;
+	uint32 PJOCLCGMMHN = 9;
+	uint64 IHGJLFCGFIN = 15;
+	bool HLALMDGMPFM = 6;
+	bool LPJCHCADNPJ = 7;
+	bool BDBNKNGIJLP = 14;
+	bool ACBCEPMACIL = 2;
+	uint32 APGNPJBHHHG = 1;
+	uint32 ICHIOMNHINI = 12;
+	uint32 BGKOCHIAJCE = 5;
+}

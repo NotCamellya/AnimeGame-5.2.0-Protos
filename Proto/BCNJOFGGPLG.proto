@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "GANCJAOGHKJ.proto";
+
+message BCNJOFGGPLG {
+	GANCJAOGHKJ NGANCEICGHC = 12;
+	uint32 FFHPDCIBKOD = 3;
+}

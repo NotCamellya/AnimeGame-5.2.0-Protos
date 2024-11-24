@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OEBAGACLDPF {
+	string AMGIHOFOBNF = 2;
+	repeated uint64 OMKGPFGKFNB = 3;
+}

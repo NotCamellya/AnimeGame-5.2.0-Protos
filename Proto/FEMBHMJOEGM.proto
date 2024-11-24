@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KOGANDHHOCG.proto";
+
+message FEMBHMJOEGM {
+	repeated KOGANDHHOCG KABODNMEGEK = 1;
+	uint32 GHDCFEHNMNO = 6;
+	uint32 KICINEKPPJO = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message JGKEKOMDIIL {
+	float LNGHHDIABNK = 3;
+}

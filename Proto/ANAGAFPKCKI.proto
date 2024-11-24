@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ANAGAFPKCKI {
+	uint32 KBNDBJINABE = 6;
+	uint64 MEJLFKPFPGK = 8;
+}

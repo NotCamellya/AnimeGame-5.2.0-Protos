@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KNMPNCPBMMP.proto";
+
+message COEBEADNAIO {
+	KNMPNCPBMMP PBDCLALKDAB = 12;
+	uint32 HIJIIOLCKKI = 3;
+	uint32 KBNHDNPJJBH = 10;
+}

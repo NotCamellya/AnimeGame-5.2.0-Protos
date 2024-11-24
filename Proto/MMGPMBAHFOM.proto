@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MMGPMBAHFOM {
+	uint32 AINMDGNODNC = 11;
+	bool DOEJLMEKJEN = 12;
+}

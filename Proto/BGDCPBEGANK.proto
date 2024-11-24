@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message BGDCPBEGANK {
+	uint32 MNPILPANBIE = 5;
+	bool JMEAOPOJEPN = 15;
+	bool BDCBLNLCAGE = 2;
+	uint32 FCPECPMOGOJ = 4;
+}

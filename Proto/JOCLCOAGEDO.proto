@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JOCLCOAGEDO {
+	uint32 GHMEILNKHPF = 1;
+	uint32 DNBEFLJLAMB = 5;
+}

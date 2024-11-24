@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PKNOABHFFKO.proto";
+
+message BLFGKJCPJHO {
+	repeated PKNOABHFFKO JNCEPKPDICG = 8;
+	string IMLNHCHBMMD = 4;
+}

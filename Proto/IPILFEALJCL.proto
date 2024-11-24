@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JOEJJOFMCIB.proto";
+import "HCHCCIHILMH.proto";
+
+message IPILFEALJCL {
+	repeated JOEJJOFMCIB BAGJBBKNADL = 9;
+	repeated HCHCCIHILMH HGAIBENIOCI = 15;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LGNMGHIKIDB {
+	uint32 FCKGAEOKOID = 6;
+}

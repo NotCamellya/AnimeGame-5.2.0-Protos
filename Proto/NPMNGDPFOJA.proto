@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NGOFPEOLOPF.proto";
+import "MLOBECPAOCA.proto";
+
+message NPMNGDPFOJA {
+	repeated NGOFPEOLOPF DJMCHFPIFLM = 1;
+	repeated MLOBECPAOCA NDDOBGMDGLA = 11;
+	uint32 OFNOGJPGBNA = 4;
+	int32 EJNINFFFKJP = 2;
+}

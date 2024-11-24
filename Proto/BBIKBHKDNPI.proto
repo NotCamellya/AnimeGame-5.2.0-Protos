@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HOPIKHOIONP.proto";
+import "HIJLLEIHODA.proto";
+
+message BBIKBHKDNPI {
+	repeated HOPIKHOIONP KGAJIKDIHNI = 5;
+	repeated HIJLLEIHODA JOAHNCLHCBH = 3;
+	uint32 PAFLDBLJHFD = 14;
+}

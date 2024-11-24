@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AHPBNFDOIPM.proto";
+
+message GBFLKIJEKDF {
+	AHPBNFDOIPM PFJGLPFAAGA = 7;
+	uint32 AGIDBEEINDE = 2;
+	uint32 NPHDPDNODMO = 3;
+}

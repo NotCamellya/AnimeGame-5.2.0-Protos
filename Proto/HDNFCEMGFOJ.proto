@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HDNFCEMGFOJ {
+	map<uint32,uint32> CGCNGJNCPGH = 15;
+	map<uint32,uint32> ILGOCDGLHMJ = 7;
+}

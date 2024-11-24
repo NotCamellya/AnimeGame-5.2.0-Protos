@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EDAPKOEFNDA.proto";
+
+message MDOIJDEFFHJ {
+	repeated uint64 AFGNDKPPNGF = 9;
+	uint64 MEJLFKPFPGK = 15;
+	EDAPKOEFNDA FNBMMFBMKDO = 7;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OEBAGACLDPF.proto";
+
+message MNLDLLJPOKG {
+	map<uint32,OEBAGACLDPF> EBDMCGOEFHA = 6;
+	repeated uint64 PKIKNHAKPCA = 4;
+	repeated uint32 PBIOIIFOAPA = 14;
+	uint32 HCOJNHNBEBP = 12;
+}

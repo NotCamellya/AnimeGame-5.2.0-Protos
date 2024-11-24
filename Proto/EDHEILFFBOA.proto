@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OILDAMFJODC.proto";
+
+message EDHEILFFBOA {
+	OILDAMFJODC OGLJOMEDJFH = 12;
+}

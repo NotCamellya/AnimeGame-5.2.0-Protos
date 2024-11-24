@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LKOFCBNNOAM.proto";
+import "AINAHDONFEO.proto";
+
+message HHOMBFNBGPG {
+	LKOFCBNNOAM KGFPCMBDPAJ = 15;
+	map<uint32,uint32> KNCCAOOGNEE = 11;
+	AINAHDONFEO FBFDAKLPEFB = 13;
+	int32 EJNINFFFKJP = 2;
+}

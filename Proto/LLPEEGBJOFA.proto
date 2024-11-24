@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LCFCOCGNPOM.proto";
+
+message LLPEEGBJOFA {
+	repeated LCFCOCGNPOM MIEAFINBNDK = 15;
+	uint32 OELCNLOJHHE = 7;
+	uint32 IPEIHFLKPJI = 1;
+	bool CFLBHGMKAPA = 14;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BAENJDFENNH.proto";
+
+message CCNHOPFNDBG {
+	repeated BAENJDFENNH AMEHOKPOGLK = 11;
+	bool ILGPAHIAHIG = 2;
+	bool KKFHJLLLDEF = 1;
+	int32 EJNINFFFKJP = 10;
+	uint32 NIOPJAGDBNM = 14;
+	uint32 EIJPMMBMOHL = 3;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CFNACIJFODL {
+	repeated uint32 ALGPONNIHMJ = 14;
+}

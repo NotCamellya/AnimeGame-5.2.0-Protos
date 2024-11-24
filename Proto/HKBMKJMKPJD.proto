@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message HKBMKJMKPJD {
+	map<uint32,uint32> NGHJEEBKGEJ = 12;
+	map<uint32,uint32> PIFMPAMGPAE = 2;
+	uint64 MEJLFKPFPGK = 1;
+	int32 EJNINFFFKJP = 4;
+	uint32 LLHJGGDNLFD = 9;
+	uint64 AGHCICLCICK = 6;
+}

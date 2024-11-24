@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AKPKNOKALPE {
+	uint32 BDEFLCDKDBI = 2;
+	uint32 LMONMNGILND = 6;
+}

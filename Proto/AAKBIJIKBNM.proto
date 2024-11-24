@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AODEBPFBIML.proto";
+
+message AAKBIJIKBNM {
+	repeated AODEBPFBIML IALAGDBIKKD = 6;
+	repeated uint32 DHHFPPCCNED = 13;
+	uint32 EAIPGEMKNPO = 5;
+}

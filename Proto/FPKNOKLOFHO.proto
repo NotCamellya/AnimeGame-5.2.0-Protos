@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JIDJECIPKCP.proto";
+
+message FPKNOKLOFHO {
+	JIDJECIPKCP NGANCEICGHC = 14;
+	bool OMENIAMEDCE = 2;
+}

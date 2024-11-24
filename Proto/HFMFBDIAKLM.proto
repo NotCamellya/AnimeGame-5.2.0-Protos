@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HFMFBDIAKLM {
+	uint32 EHAEACFBOOL = 2;
+	uint32 EOOBHPAODNC = 3;
+}

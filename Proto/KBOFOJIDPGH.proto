@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LFJLGOJMKEH.proto";
+
+message KBOFOJIDPGH {
+	bool BDCBLNLCAGE = 5;
+	uint32 OELCNLOJHHE = 9;
+	uint32 PBPBIEHAAEJ = 8;
+	uint32 MPNJAOCKMAH = 2;
+	LFJLGOJMKEH IMIOGMDOKCB = 6;
+}

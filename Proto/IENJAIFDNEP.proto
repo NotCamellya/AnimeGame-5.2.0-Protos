@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PPBIOPOLEIB.proto";
+
+message IENJAIFDNEP {
+	repeated PPBIOPOLEIB OFMLNCIMAGH = 11;
+}

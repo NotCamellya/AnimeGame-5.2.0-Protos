@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JNKFGJMMHMA.proto";
+import "GHJFBLOBGPA.proto";
+
+message PDMPNOBCKPK {
+	repeated JNKFGJMMHMA BIPADACDOFI = 10;
+	GHJFBLOBGPA JIELCLOAEAA = 3;
+	uint32 KNGBDMDCNHK = 5;
+	int32 EJNINFFFKJP = 4;
+}

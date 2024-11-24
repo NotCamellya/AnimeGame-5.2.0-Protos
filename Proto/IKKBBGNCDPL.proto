@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "JJHOBJBAPEI.proto";
+
+message IKKBBGNCDPL {
+	JJHOBJBAPEI GAAKALGOBCF = 11;
+	bool EOGLFOGEKLA = 5;
+	uint32 AGIDBEEINDE = 12;
+	uint32 GJEBAJAJPII = 7;
+}

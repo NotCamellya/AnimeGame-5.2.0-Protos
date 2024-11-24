@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message DBOLCJJILGP {
+	uint32 EAIPGEMKNPO = 10;
+	uint32 KNNLINPAHNC = 11;
+	bool GLKNGDDNOCN = 1;
+	bool BDCBLNLCAGE = 7;
+	uint32 IEJPGHNLIDB = 9;
+}

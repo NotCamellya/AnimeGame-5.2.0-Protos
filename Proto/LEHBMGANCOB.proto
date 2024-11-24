@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LEHBMGANCOB {
+	repeated uint32 PKHPOBDCGOM = 8;
+}

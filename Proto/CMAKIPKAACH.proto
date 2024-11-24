@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HDMDABCDAHK.proto";
+
+message CMAKIPKAACH {
+	repeated uint32 MCICEHMKGMG = 3;
+	HDMDABCDAHK IMIOGMDOKCB = 7;
+	uint32 NEKECFNAHOM = 1;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CHPFHNDODJN {
+	repeated uint64 MNCHCGGMLPA = 3;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OBOLBJCGMGA.proto";
+
+message MMCGOMJHNHO {
+	OBOLBJCGMGA ODPNMGFHEOM = 11;
+}

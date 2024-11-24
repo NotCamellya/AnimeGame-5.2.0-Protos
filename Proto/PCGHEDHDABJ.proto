@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KPNCKGFNNIM.proto";
+
+message PCGHEDHDABJ {
+	repeated KPNCKGFNNIM MBGIONPOCAD = 3;
+}

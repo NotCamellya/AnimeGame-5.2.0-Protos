@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OFCLOOBNFGL.proto";
+
+message PFEOKHJBJMF {
+	repeated OFCLOOBNFGL IECBCFCICOJ = 15;
+	repeated uint32 IOGJLEAMHCA = 7;
+	uint32 EACIBINCAEI = 11;
+	bool PGDGNMGCEKM = 13;
+}

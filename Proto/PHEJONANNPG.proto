@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PHEJONANNPG {
+	uint32 FCPANCMAOIE = 11;
+	uint32 NCCPPHNNPBF = 6;
+}

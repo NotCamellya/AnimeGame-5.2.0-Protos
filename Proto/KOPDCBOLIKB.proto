@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KOPDCBOLIKB {
+	uint32 FHCJNHCKCOB = 1;
+	uint32 IGLGLDKMEDP = 2;
+}

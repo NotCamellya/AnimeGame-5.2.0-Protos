@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KLMHEGDBLPJ.proto";
+
+message APPMGOLILFD {
+	uint32 IPOBNGIHICN = 12;
+	KLMHEGDBLPJ LPLCOPEMGOF = 8;
+}

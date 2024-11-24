@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CEKJIGPMDIO {
+	uint32 FPBJLPALNPE = 2;
+}

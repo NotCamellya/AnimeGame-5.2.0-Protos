@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EPJOPBFFLFL.proto";
+import "BECBKBINEBD.proto";
+
+message KGEHAJDBBPG {
+	EPJOPBFFLFL DNKJOJHBJLD = 9;
+	repeated BECBKBINEBD ADONAEDIEBG = 10;
+	int32 EJNINFFFKJP = 7;
+}

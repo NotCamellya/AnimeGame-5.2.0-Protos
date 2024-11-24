@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IPMHAPBFBDM {
+	uint32 AEKAGEEBAAA = 15;
+}

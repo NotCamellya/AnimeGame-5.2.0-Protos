@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DNJMJFMEBML.proto";
+
+message IMBHBKOCAEI {
+	DNJMJFMEBML JMBHPBEMFFH = 14;
+}

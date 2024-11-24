@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HCJGIFNJPPJ.proto";
+
+message NMFLICIKEKF {
+	HCJGIFNJPPJ IBEAKHHNOHB = 2;
+	uint32 CJOKFLDEFMB = 11;
+}

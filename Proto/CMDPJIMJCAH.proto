@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ELEHHOOEDFN.proto";
+
+message CMDPJIMJCAH {
+	uint64 MCPPEKNBHFK = 2;
+	uint32 BOFFIDCGJEM = 6;
+	uint32 PPBIKOAEOHD = 14;
+	uint32 ODCMKOFFKKL = 8;
+	ELEHHOOEDFN POCIDNHBIAM = 12;
+}

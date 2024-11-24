@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NMCEGCNOBKI {
+	uint32 PFOBHCODJPO = 5;
+}

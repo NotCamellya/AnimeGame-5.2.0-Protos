@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "GMPKODPACGM.proto";
+import "GEEMAADBNJI.proto";
+import "DCBNAHFLEJC.proto";
+
+message PPDJHNJDEGM {
+	map<uint32,GMPKODPACGM> EANDOCEEMEJ = 2;
+	map<uint32,GEEMAADBNJI> PGGECBKBPNP = 13;
+	repeated DCBNAHFLEJC EMIPFNGKDPK = 6;
+	uint32 NGLMACPCOEL = 7;
+	bool MPFLDFDOGAI = 1;
+	bool OPCAGNIDAHI = 12;
+	uint32 NMIKCMLKNDM = 8;
+	uint32 IKAMMKHKKHI = 15;
+}

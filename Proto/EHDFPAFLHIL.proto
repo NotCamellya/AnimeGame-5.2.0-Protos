@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JCJCMAIBCAO.proto";
+
+message EHDFPAFLHIL {
+	JCJCMAIBCAO IIKBLHJBCIO = 10;
+	int32 EJNINFFFKJP = 8;
+}

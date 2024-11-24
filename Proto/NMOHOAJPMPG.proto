@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NMOHOAJPMPG {
+	uint32 NKEDFMOJOHL = 2;
+	uint32 AGIDBEEINDE = 1;
+}

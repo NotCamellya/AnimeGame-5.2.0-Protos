@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "CHOMFEMEHNL.proto";
+import "CBMCENPMIHI.proto";
+import "CDFINADPJAP.proto";
+import "IGCDEHPIIFM.proto";
+
+message DDOFEKCBIIC {
+	map<uint32,uint32> MJDAOHHPPPC = 15;
+	repeated int32 ALGJNHEGPNI = 7;
+	repeated CHOMFEMEHNL PCIBMJMPABH = 11;
+	repeated CBMCENPMIHI MKIFGEHEBLD = 10;
+	CDFINADPJAP KAPJLOMCDNG = 4;
+	repeated IGCDEHPIIFM GGDBALONGIN = 3;
+	uint64 PJGKHFMLCIN = 2;
+	uint32 MLGFPGIDGNO = 5;
+	bool KNFOKPOMCCK = 6;
+	bool PMJLLLFOPHK = 8;
+	bool IKPEPKAHABM = 13;
+	bool GHJAFBKDIDN = 12;
+	uint32 DBFGJNBBDKC = 14;
+	uint32 DIJCHGHPAEE = 1;
+	uint32 PKHKGDHGHPA = 9;
+}

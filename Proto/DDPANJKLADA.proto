@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message DDPANJKLADA {
+	int32 EJNINFFFKJP = 4;
+	uint32 LOHJECFLDMO = 3;
+	uint32 NKGDGKCIDJJ = 5;
+}

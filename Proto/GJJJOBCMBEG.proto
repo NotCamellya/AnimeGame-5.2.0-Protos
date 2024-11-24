@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message GJJJOBCMBEG {
+	uint32 NEKECFNAHOM = 3;
+	uint32 NCCPPHNNPBF = 7;
+	bool MOAELIBPHOI = 4;
+}

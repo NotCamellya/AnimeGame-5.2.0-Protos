@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FCHICPCAAGK.proto";
+
+message HKGKJOGDGIL {
+	repeated FCHICPCAAGK ODIJHNLAOJO = 4;
+	int32 EJNINFFFKJP = 2;
+	uint32 DNBEFLJLAMB = 13;
+}

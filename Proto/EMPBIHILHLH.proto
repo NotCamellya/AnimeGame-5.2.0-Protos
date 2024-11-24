@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EMPBIHILHLH {
+	uint32 OEOCPOEKCMJ = 6;
+}

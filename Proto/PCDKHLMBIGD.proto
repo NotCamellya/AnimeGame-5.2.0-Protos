@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PCDKHLMBIGD {
+	repeated uint32 DDBDIFLNHDG = 12;
+	uint32 MPNJAOCKMAH = 8;
+}

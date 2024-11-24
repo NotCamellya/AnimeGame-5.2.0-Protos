@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "EJOBMPBBBIA.proto";
+import "JNMHJONHLAG.proto";
+
+message OBJFJALGAOK {
+	EJOBMPBBBIA HHAAPMKKHOE = 2;
+	JNMHJONHLAG AMANMHAPIDG = 5;
+	uint64 MEJLFKPFPGK = 12;
+	uint64 MDFKDAJIGEM = 15;
+	uint32 OPLBKMAKNAG = 7;
+	uint32 BGIPNJAMKGM = 6;
+}

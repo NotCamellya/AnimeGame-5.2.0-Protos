@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "BPFBCCNHLFN.proto";
+
+message EJMPGPPFPJG {
+	repeated uint32 GAIBIDBIBLK = 3;
+	map<uint32,BPFBCCNHLFN> PPOEDCOJFAB = 5;
+	repeated uint32 AHHFCLEFKNE = 4;
+	uint32 KFPHEMBCEFN = 2;
+	uint32 JPLLDOBLMGD = 1;
+}

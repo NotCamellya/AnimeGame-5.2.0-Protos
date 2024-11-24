@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BFFALDPOKFE.proto";
+
+message KNAHEPNGEEF {
+	repeated BFFALDPOKFE PMJGJNILMBP = 15;
+}

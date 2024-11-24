@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KPFOBLALBLC.proto";
+
+message LAEPOMCCNFN {
+	bool HLALMDGMPFM = 3;
+	KPFOBLALBLC DAAKPCOABEP = 5;
+}

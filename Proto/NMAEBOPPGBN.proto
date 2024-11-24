@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "NIJKANKIBLA.proto";
+
+message NMAEBOPPGBN {
+	NIJKANKIBLA AKGOOIIBCOM = 8;
+}

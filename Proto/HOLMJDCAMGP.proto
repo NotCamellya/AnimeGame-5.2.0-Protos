@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message HOLMJDCAMGP {
+	uint32 IGBDOEBPPHO = 15;
+	uint32 EALJHPFDEHK = 4;
+	uint32 EMLJOJLLMAD = 10;
+	uint32 EHAEACFBOOL = 6;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FFIAMAKJODA.proto";
+
+message MACLKMPJDCG {
+	repeated FFIAMAKJODA KELMEMBFMFM = 13;
+	uint32 JFOCDFOOBEP = 4;
+	uint32 CDGBHMNPCLA = 2;
+	uint32 BKHLPHLGHDE = 12;
+}

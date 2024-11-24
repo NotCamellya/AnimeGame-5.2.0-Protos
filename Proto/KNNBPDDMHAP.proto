@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KNNBPDDMHAP {
+	uint32 FCPANCMAOIE = 14;
+	uint32 GFJPMHJOEFJ = 7;
+}

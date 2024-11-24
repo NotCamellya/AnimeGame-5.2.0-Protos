@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message JPKIPBNPLKD {
+	repeated uint32 FIEKPELIKLE = 15;
+}

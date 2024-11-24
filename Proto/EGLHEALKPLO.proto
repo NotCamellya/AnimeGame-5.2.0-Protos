@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EGLHEALKPLO {
+	uint32 DDMBGNHPHPC = 8;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IKMNCNBEMLA.proto";
+
+message CIPKALFKAOI {
+	repeated IKMNCNBEMLA KIKEOBNGPPO = 15;
+}

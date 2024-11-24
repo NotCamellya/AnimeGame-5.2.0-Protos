@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import "BNACFAENGGE.proto";
+import "NBNNIIGACNC.proto";
+import "CNACLMKNNLB.proto";
+
+message PFPOMOPLLNM {
+	repeated BNACFAENGGE DLHAKOKJINO = 3;
+	repeated uint32 HCHOJONKHOB = 9;
+	repeated NBNNIIGACNC IPNKKOAHIOE = 6;
+	repeated uint32 KOGMMCNPJLL = 11;
+	uint32 AEKAGEEBAAA = 8;
+	CNACLMKNNLB EBJCFMKMNMI = 10;
+	uint32 FMDNGADPLON = 12;
+	uint32 LNFEBGJKLJP = 7;
+	uint32 PAEBPIJCANP = 5;
+	uint32 GCAMLFOFAHO = 4;
+	uint32 LIHDCPPLBAN = 15;
+	uint32 CGAPFKEBEMF = 2;
+}

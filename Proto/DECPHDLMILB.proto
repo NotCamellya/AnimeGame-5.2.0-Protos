@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "KNMPNCPBMMP.proto";
+
+message DECPHDLMILB {
+	KNMPNCPBMMP HMLFALPADMC = 6;
+	uint32 GKNIKFALMCC = 2;
+	uint32 AGIDBEEINDE = 1;
+	uint32 GLPDDOJKFBG = 5;
+	uint32 KBNHDNPJJBH = 3;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JIELMAMPHLI {
+	uint32 NCCPPHNNPBF = 4;
+	uint32 OAFKLBDFLJG = 6;
+}

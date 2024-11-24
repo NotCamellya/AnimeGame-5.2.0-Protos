@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JOKPHKNIFID.proto";
+
+message MCIACAGLLJH {
+	repeated JOKPHKNIFID KGMFMFGLLKA = 10;
+	repeated int64 PGCKHIGJBFE = 9;
+	bool KCFDPKKBECP = 3;
+}

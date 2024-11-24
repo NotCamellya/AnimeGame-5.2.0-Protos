@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message IEDNLKLCOHA {
+	repeated uint32 BJIHLNAEJBE = 12;
+	uint32 KLEDMFEBMKI = 5;
+	int32 EJNINFFFKJP = 2;
+	uint32 DANGDBEHNFE = 6;
+}

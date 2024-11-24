@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CCNNIDMJLJN.proto";
+
+message ECLLGGPFAGL {
+	repeated CCNNIDMJLJN KIKEOBNGPPO = 4;
+	bool JHNBPLFCBAJ = 10;
+}

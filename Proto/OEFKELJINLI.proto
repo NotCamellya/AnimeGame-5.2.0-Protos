@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "AGFCMLMDKFD.proto";
+
+message OEFKELJINLI {
+	map<uint32,uint32> GIPGEPLIEGM = 13;
+	uint32 PADGINLBCMN = 2;
+	uint32 DLCBIJLGPAN = 12;
+	uint32 OMFMLFAFIGA = 14;
+	bool EFKPNBAOPAD = 8;
+	bool KHKOBCEFBBJ = 1;
+	uint32 BNBOHMBKNKE = 11;
+	AGFCMLMDKFD OPOOBJEOOKM = 4;
+	uint32 OALIOHAMLGN = 10;
+	uint32 LAOKDLOOJPJ = 5;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NJBIDPBMNLI {
+	uint32 CJOKFLDEFMB = 9;
+}

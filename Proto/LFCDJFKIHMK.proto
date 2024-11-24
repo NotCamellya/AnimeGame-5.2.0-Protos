@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LFOBKBCNFIC.proto";
+
+message LFCDJFKIHMK {
+	repeated uint32 BMOKGMFEELH = 8;
+	LFOBKBCNFIC MCDOGIALDKP = 1;
+	repeated uint32 FFAANBKLBKH = 7;
+	int32 EJNINFFFKJP = 9;
+}

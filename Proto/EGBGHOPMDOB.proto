@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PBHONEEKPMB.proto";
+
+message EGBGHOPMDOB {
+	repeated PBHONEEKPMB KABODNMEGEK = 5;
+	uint32 NEKECFNAHOM = 6;
+	uint32 MPNJAOCKMAH = 4;
+}

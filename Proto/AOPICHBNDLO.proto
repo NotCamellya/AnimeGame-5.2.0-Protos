@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "MDKGKHMHLMH.proto";
+import "HFFFCNEFIKM.proto";
+import "OJIIDHLAOCC.proto";
+
+message AOPICHBNDLO {
+	repeated MDKGKHMHLMH FIBBGLDJHJK = 11;
+	HFFFCNEFIKM NPFFLKNKFND = 1;
+	OJIIDHLAOCC IMHBPHFPABC = 5;
+	uint32 MPNJAOCKMAH = 3;
+	uint32 AGIDBEEINDE = 10;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OLNCPFJIEKM {
+	uint32 MIMEIGLBOPI = 14;
+	uint32 CCHOPBCADIG = 3;
+	uint64 MEJLFKPFPGK = 10;
+	float PGIIOIBNKKE = 8;
+}

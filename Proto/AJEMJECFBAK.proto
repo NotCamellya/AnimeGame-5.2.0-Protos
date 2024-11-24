@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NDJFLPJBAEJ.proto";
+
+message AJEMJECFBAK {
+	map<uint32,NDJFLPJBAEJ> HKPCCHJEOBL = 12;
+	uint32 LKOFKODPMGO = 15;
+}

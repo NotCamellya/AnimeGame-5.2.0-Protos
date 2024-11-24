@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "OCAABICBPNI.proto";
+import "FPAHDFLMHND.proto";
+
+message NFBMJKMEFLM {
+	repeated OCAABICBPNI COPAAFJHPGD = 15;
+	repeated FPAHDFLMHND KABODNMEGEK = 2;
+	uint32 MPNJAOCKMAH = 8;
+	uint32 NEKECFNAHOM = 4;
+}

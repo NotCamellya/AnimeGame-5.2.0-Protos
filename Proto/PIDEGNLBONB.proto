@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum PIDEGNLBONB {
+	PIDEGNLBONB_UNLOCK = 0;
+	PIDEGNLBONB_LOCK = 1;
+	PIDEGNLBONB_TAKEN = 2;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PKGOCLIMOIG.proto";
+
+message LNPHALCADEM {
+	repeated PKGOCLIMOIG MAOIJFFGIDE = 6;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PFPOMOPLLNM.proto";
+
+message JDLIDDKIPCN {
+	PFPOMOPLLNM MNPOIILNKOB = 10;
+}

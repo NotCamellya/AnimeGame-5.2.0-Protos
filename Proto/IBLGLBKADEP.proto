@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message IBLGLBKADEP {
+	uint32 GOFHGHOKEPN = 11;
+	uint32 KNGJHMLLCNP = 15;
+	uint32 OOPFLKKHHEL = 2;
+}

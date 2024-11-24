@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ICHHFONJDKJ.proto";
+import "MOEHMLAHHKD.proto";
+import "JBNAGIBEAIA.proto";
+
+message CGCCJDOOHMD {
+	ICHHFONJDKJ catch_seed = 10;
+	MOEHMLAHHKD refresh_seed = 12;
+	JBNAGIBEAIA add_signal = 6;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BEMNAIKEFON.proto";
+
+message EHMBOCGAOKN {
+	BEMNAIKEFON INEJFNCOOIL = 9;
+	uint32 LOLKPNAGEFI = 12;
+}

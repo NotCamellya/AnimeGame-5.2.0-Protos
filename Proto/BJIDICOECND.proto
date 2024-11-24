@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BJIDICOECND {
+	uint32 OACIPABKFNP = 8;
+	uint32 OAJOOBGHAGM = 4;
+}

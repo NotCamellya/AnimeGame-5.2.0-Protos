@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FDPMMPGALAD.proto";
+
+message FGDIPMPHKKG {
+	repeated FDPMMPGALAD BAGJBBKNADL = 7;
+}

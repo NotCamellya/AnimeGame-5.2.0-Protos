@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HKHGFIHOKNC.proto";
+
+message FAPGMOOJHEI {
+	repeated HKHGFIHOKNC EMFHFEGCJJB = 9;
+	int32 EJNINFFFKJP = 8;
+	bool HNJJLAANFLG = 10;
+	bool ILNBDDPAKHP = 12;
+}

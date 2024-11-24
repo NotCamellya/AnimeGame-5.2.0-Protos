@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message ILLMMCDPFAM {
+	repeated uint32 GGEGDEOHEIE = 5;
+	repeated uint32 OMPKOEJIOKN = 8;
+	repeated uint32 DHGJOAKPPOC = 1;
+	repeated uint32 OIHINGLBFCE = 3;
+	map<uint32,uint32> ONBFFAMKPPK = 6;
+	repeated uint32 DCGOEAEFEML = 7;
+	repeated uint32 JFKKMFFPNGI = 9;
+	map<uint32,uint32> BMMEJPDMMCH = 4;
+	map<uint32,uint32> JJEAODIEJCL = 2;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LAADOJLABDH.proto";
+import "PAGIAOELFBI.proto";
+import "ELENLLNEHNE.proto";
+
+message BONLFJGNBIB {
+	LAADOJLABDH NGANCEICGHC = 2;
+	PAGIAOELFBI EIMCFAMHHBJ = 3;
+	ELENLLNEHNE AMGMMKEDDMK = 11;
+	int32 EJNINFFFKJP = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MBOGAPKIECL {
+	uint32 PHBFOKPBFIL = 1;
+}

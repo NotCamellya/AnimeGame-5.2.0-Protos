@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LONBILCMOEH {
+	uint32 AGIDBEEINDE = 6;
+}

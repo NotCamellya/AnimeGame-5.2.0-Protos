@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GICCCPLAEKD {
+	uint32 DIGPDMKMGAF = 9;
+}

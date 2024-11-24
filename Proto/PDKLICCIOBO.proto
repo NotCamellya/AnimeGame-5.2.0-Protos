@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PDKLICCIOBO {
+	uint32 KFAADEEKLBJ = 7;
+	uint32 BMMBMCLKGMO = 2;
+}

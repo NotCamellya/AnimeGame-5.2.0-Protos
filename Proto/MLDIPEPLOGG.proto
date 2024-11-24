@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MLDIPEPLOGG {
+	uint32 CBPDGCPONHM = 6;
+}

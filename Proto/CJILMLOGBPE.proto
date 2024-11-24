@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CJILMLOGBPE {
+	uint32 OAJOOBGHAGM = 8;
+}

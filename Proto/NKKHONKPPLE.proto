@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "DCIHCIPIODA.proto";
+import "LMJBPCIGOBK.proto";
+
+message NKKHONKPPLE {
+	DCIHCIPIODA NCMGBIGFFLG = 2;
+	LMJBPCIGOBK BNGPKPJNMCG = 1;
+}

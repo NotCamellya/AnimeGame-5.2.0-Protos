@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "MLIIKOADNPE.proto";
+import "OHNBIGLKKHD.proto";
+
+message EGMNJIBCKCN {
+	repeated MLIIKOADNPE DFPJJIJGMPF = 11;
+	repeated OHNBIGLKKHD MFHDJFOBNLA = 4;
+	uint32 LCHBEAHGHEO = 1;
+	int32 EJNINFFFKJP = 13;
+	uint32 ACJCIEJIMLK = 2;
+	uint32 CMOKGPFLJEI = 15;
+	uint32 JBBCLAPJPOE = 14;
+	uint32 EAIPGEMKNPO = 8;
+	uint32 BNLHPFJKDIF = 7;
+}

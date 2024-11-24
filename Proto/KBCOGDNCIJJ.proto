@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EHGPILOEJJJ.proto";
+
+message KBCOGDNCIJJ {
+	bool AHBLFGAEMMF = 9;
+	EHGPILOEJJJ NPGFOLGPBAO = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OANPFJBJOBA {
+	repeated uint32 HLHLLFEOBJG = 5;
+}

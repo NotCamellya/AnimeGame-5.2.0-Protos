@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NDOEDPNDPBH.proto";
+import "OADJBKDJNPL.proto";
+
+message GPPNDKHNOBM {
+	NDOEDPNDPBH LJIDOHLADHC = 11;
+	OADJBKDJNPL EOMNMODEDFD = 9;
+	bool MJPEDPOIFLM = 6;
+	bool BJNIKAKPONA = 2;
+	uint32 AKJPODMJNEH = 13;
+}

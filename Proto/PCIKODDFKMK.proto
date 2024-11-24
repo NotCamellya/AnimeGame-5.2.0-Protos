@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PCIKODDFKMK {
+	uint32 KEFKHHANADM = 3;
+	uint32 DNNOCNMFONF = 7;
+	uint32 EOFEHCPKNBC = 12;
+}

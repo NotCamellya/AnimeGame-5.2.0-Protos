@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KDEKHINGCOG {
+	uint32 HBPLLHHBCPD = 7;
+}

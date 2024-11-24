@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MINMBINGDIH.proto";
+import "ICPGNILEJNN.proto";
+import "GGACHIHJIDH.proto";
+
+message JDPNPJBIHJI {
+	MINMBINGDIH HGPMBMKFJJL = 5;
+	ICPGNILEJNN OCOANEEALCG = 11;
+	GGACHIHJIDH ODPNMGFHEOM = 9;
+}

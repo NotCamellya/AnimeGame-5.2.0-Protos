@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KAAPGMMGPOF.proto";
+
+message LHHOMFPBFOE {
+	uint32 FJAMCDJDJOA = 10;
+	uint32 ABIMANELKOC = 7;
+	uint32 NHBHJKBJPFD = 9;
+	KAAPGMMGPOF IMIOGMDOKCB = 12;
+}

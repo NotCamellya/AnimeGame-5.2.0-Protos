@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DHHLCPEBHOP {
+	uint32 IACGOKEAOOB = 9;
+	uint32 MBBKAENBCKD = 15;
+}

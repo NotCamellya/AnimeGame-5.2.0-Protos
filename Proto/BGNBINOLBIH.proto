@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BGNBINOLBIH {
+	repeated uint32 HNEMPAAGMDN = 11;
+	uint32 CAKPDNKKGEN = 2;
+}

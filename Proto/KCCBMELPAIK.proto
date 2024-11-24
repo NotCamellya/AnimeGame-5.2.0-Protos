@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LIPHHIENHHK.proto";
+
+message KCCBMELPAIK {
+	LIPHHIENHHK GFMEKOGIHJN = 1;
+	uint32 AGIDBEEINDE = 3;
+}

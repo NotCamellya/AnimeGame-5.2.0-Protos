@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FIJDALPGDCN.proto";
+
+message DCLCJKJJJIM {
+	FIJDALPGDCN JJKIAJCOCPN = 4;
+	bool COOKMNEFHKF = 1;
+	uint32 IGBDOEBPPHO = 11;
+	int32 ECIFINMNLND = 6;
+}

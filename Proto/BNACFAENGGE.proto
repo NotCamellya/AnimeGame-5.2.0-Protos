@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "MLECMFLLOGC.proto";
+import "PKJMPCPEGGO.proto";
+
+message BNACFAENGGE {
+	string MPMEJIBKJEO = 13;
+	string EFAJIHMNOBK = 7;
+	repeated MLECMFLLOGC EIIBFFCNPOF = 10;
+	string IJLHLCLLENE = 5;
+	repeated uint32 MLCGLCOKKEG = 11;
+	PKJMPCPEGGO IANEBDKAMBM = 14;
+	repeated uint32 NFDKKMJKPHH = 2;
+	uint32 LLOMLFJHALG = 9;
+}

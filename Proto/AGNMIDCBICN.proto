@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AGNMIDCBICN {
+	int32 EJNINFFFKJP = 6;
+}

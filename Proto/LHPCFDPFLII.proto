@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LHPCFDPFLII {
+	map<uint32,float> GDJFODNLGJC = 10;
+	uint32 AGIDBEEINDE = 14;
+}

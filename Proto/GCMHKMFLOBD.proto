@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LKIAMJCJLAK.proto";
+import "DGLNFLCMPKN.proto";
+
+message GCMHKMFLOBD {
+	repeated LKIAMJCJLAK BIGKKEOICGL = 13;
+	repeated DGLNFLCMPKN EEOEDHCIEHA = 12;
+}

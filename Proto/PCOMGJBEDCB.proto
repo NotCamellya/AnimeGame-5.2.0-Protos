@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "DMDININEFDG.proto";
+import "EIEMABMNOLO.proto";
+
+message PCOMGJBEDCB {
+	string BFMMHKFPCJB = 2;
+	KDEHCGJAGFJ GJEBAJAJPII = 3;
+	uint32 PJABEFAJBGB = 7;
+	DMDININEFDG BIHHIKJCIAH = 6;
+	uint32 IGBDOEBPPHO = 1;
+	uint32 EALJHPFDEHK = 5;
+	EIEMABMNOLO JGCCKLNFEHE = 4;
+	uint32 FFOBIONLMOJ = 8;
+}

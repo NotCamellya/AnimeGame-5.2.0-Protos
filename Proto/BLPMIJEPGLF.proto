@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GINEHPHEFDB.proto";
+
+message BLPMIJEPGLF {
+	GINEHPHEFDB OCOLIGLOLNO = 12;
+	bool BKLGCIHIAPA = 4;
+	uint32 EAIPGEMKNPO = 8;
+}

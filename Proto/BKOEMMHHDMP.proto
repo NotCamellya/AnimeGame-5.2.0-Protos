@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DBGLAMEJMJM.proto";
+
+message BKOEMMHHDMP {
+	repeated DBGLAMEJMJM KKGFNMEGCED = 5;
+}

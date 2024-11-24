@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "DAIIGOPBCDD.proto";
+import "EKHMDFIDDOD.proto";
+import "NPPCMGNNKBG.proto";
+import "BCDNFNMFIJC.proto";
+import "BODJBNIMHEN.proto";
+import "NNMGCCBCFHA.proto";
+
+message AOEPJJADKGA {
+	repeated DAIIGOPBCDD MDKPLBDANEF = 11;
+	repeated EKHMDFIDDOD JJMKNFPEIJL = 8;
+	repeated NPPCMGNNKBG ALLOLIGMFHF = 7;
+	repeated BCDNFNMFIJC GKHGOKINCMF = 2;
+	repeated BODJBNIMHEN MEOBNIEOJDC = 14;
+	repeated NNMGCCBCFHA FKPALFLINEL = 5;
+}

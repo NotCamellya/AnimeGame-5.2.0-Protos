@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message LJAPPOBJNEH {
+	map<uint32,uint32> IJLFKCCOONM = 15;
+	uint32 NCCPPHNNPBF = 12;
+	uint32 DNBEFLJLAMB = 5;
+}

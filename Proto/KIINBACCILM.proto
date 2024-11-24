@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KIINBACCILM {
+	uint32 CMDBCGAECDP = 14;
+}

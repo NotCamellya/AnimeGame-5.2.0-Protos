@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message BDIMCFFEKON {
+	uint32 EHAEACFBOOL = 1;
+	uint32 PMMIBLAKGCP = 3;
+	uint32 IEHPOBPFCBP = 2;
+}

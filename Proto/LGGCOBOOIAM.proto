@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LGGCOBOOIAM {
+	uint32 EALJHPFDEHK = 6;
+}

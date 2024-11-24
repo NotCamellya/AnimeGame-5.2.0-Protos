@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CEPGFGMPKMK.proto";
+
+message CBIAGEKFJBB {
+	repeated CEPGFGMPKMK BAGJBBKNADL = 8;
+}

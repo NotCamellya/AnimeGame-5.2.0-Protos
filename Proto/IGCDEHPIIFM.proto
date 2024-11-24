@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message IGCDEHPIIFM {
+	uint32 DBPAIKAMKKG = 7;
+	uint32 CDBFPFOJBIJ = 8;
+	uint32 PJABEFAJBGB = 9;
+}

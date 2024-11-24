@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MNNDOAJBMDB {
+	uint32 CNAIFGICLDH = 11;
+}

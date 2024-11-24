@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DGDFIBCMHGJ.proto";
+
+message ODLFNCADHIG {
+	repeated DGDFIBCMHGJ HEIBOBLDEIP = 2;
+	int32 EJNINFFFKJP = 4;
+}

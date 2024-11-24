@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AHDFEIPACIH {
+	uint32 NEKECFNAHOM = 15;
+}

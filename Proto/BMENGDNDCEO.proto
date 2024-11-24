@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CGOIHCDFFEJ.proto";
+
+message BMENGDNDCEO {
+	repeated CGOIHCDFFEJ PMJGJNILMBP = 2;
+	int32 EJNINFFFKJP = 5;
+	uint32 MPNJAOCKMAH = 8;
+	uint32 HGGEHLMHKMP = 6;
+}

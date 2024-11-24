@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LLGCDCDHDPD.proto";
+
+message JICFAOMMMAG {
+	repeated LLGCDCDHDPD DJMCHFPIFLM = 3;
+	LLGCDCDHDPD BDALEDOAHFA = 13;
+	int32 EJNINFFFKJP = 11;
+	uint32 BHGDNCIOJDJ = 2;
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "OFBHCGGGGGN.proto";
+import "OAOPJBOCJJD.proto";
+
+message IBLOCCLJHLC {
+	map<uint32,OFBHCGGGGGN> FMIEBPKJJPJ = 8;
+	uint32 OJBEHPEBOEP = 2;
+	uint32 JAPEOEJLNPD = 13;
+	OAOPJBOCJJD LICEOCKLOGD = 7;
+	bool OMENIAMEDCE = 12;
+	bool HCJFDJHILAM = 15;
+	uint32 LCDDIDLJEDN = 1;
+	uint32 LJAIKBEHODC = 11;
+}

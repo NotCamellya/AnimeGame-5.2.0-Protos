@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "BGDCPBEGANK.proto";
+import "JLMIJCEGCOB.proto";
+
+message GPHNLHKIJFC {
+	repeated BGDCPBEGANK NEFMGJIDAAK = 11;
+	JLMIJCEGCOB NAJKBNDADMA = 6;
+	bool IPNGBHKJJFK = 1;
+	uint32 GCNJNBMHDAM = 12;
+	uint32 LDIILMAHHNG = 14;
+	uint32 MBOLNFOFNGA = 15;
+}

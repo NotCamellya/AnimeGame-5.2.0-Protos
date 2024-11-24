@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IALLEKKFHCL.proto";
+import "IFPNJPJLNOF.proto";
+
+message IPKBEIPJNCF {
+	IALLEKKFHCL FDGHGBMEJGM = 7;
+	IFPNJPJLNOF HCKDFMKEMCI = 5;
+	bool APGDCODHNLJ = 11;
+	uint32 JNLGDEFHNDG = 8;
+}

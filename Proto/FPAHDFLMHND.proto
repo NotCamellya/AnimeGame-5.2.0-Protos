@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FPAHDFLMHND {
+	string OMKNBNMEBIK = 14;
+	uint32 NCCPPHNNPBF = 5;
+}

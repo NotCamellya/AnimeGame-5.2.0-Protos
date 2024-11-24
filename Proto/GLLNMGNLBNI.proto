@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EJLNBCBFOGL.proto";
+import "OJNEPIECHHJ.proto";
+
+message GLLNMGNLBNI {
+	repeated EJLNBCBFOGL CNBKDMINMHD = 9;
+	uint32 FCPANCMAOIE = 4;
+	OJNEPIECHHJ NDHKABFFJPK = 7;
+}

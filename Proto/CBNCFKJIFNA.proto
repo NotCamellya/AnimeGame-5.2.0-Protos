@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NLCDHFNMHLD.proto";
+
+message CBNCFKJIFNA {
+	repeated int32 AGKPEKAANCA = 11;
+	repeated NLCDHFNMHLD GFCKAOEOLBL = 4;
+	repeated NLCDHFNMHLD JBPHCHJPDEM = 14;
+	repeated NLCDHFNMHLD EMPEJFOGNPA = 5;
+	int32 EJNINFFFKJP = 12;
+}

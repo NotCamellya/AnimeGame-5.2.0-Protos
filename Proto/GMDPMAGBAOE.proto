@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum GMDPMAGBAOE {
+	GMDPMAGBAOE_NONE = 0;
+	GMDPMAGBAOE_START = 1;
+	GMDPMAGBAOE_READ = 2;
+}

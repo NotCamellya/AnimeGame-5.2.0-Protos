@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BIBLAJJKDMB {
+	repeated uint64 JBPMEFJKLCN = 4;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FLDALOPDBCG.proto";
+
+message CHOMFEMEHNL {
+	repeated FLDALOPDBCG LIEPBJGJPGN = 4;
+	uint32 LDDCAJJPOAH = 11;
+}

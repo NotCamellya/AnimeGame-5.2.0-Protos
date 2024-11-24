@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PCPKMBJDJAK.proto";
+import "IACMANPJHJI.proto";
+
+message CODEPALICKP {
+	int32 EJNINFFFKJP = 4;
+	PCPKMBJDJAK GAAKALGOBCF = 7;
+	uint32 GHLBJAHJEHF = 9;
+	IACMANPJHJI KGCONLDGJPG = 11;
+	uint32 OCKIBANLDMK = 6;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MPEHMGIFBMM.proto";
+import "MBIMHNFDGHN.proto";
+
+message HBGBIPFOFGF {
+	MPEHMGIFBMM BKLGJMLHLGI = 15;
+	MBIMHNFDGHN BELACGKAHLM = 9;
+}

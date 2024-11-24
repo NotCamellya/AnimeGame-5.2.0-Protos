@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HEILBLKKOJO {
+	uint32 NBLHIGDNHAK = 3;
+}

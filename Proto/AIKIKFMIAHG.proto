@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MCFIEMOLICI.proto";
+
+message AIKIKFMIAHG {
+	string LKFGEAGBPGA = 2;
+	uint32 DICEGLMNCPD = 5;
+	uint32 KHGMNCCNOFP = 3;
+	MCFIEMOLICI MNJCLPFBBEC = 4;
+	bool GLKNGDDNOCN = 1;
+}

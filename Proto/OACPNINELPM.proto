@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OACPNINELPM {
+	string BMFKOONMMEE = 9;
+	int32 EJNINFFFKJP = 13;
+	bool IHKKICKGNHB = 2;
+	uint32 NCCPPHNNPBF = 6;
+}

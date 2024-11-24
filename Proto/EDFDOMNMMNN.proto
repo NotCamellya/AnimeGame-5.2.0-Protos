@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message EDFDOMNMMNN {
+	uint32 CDEFCJJPHJD = 5;
+	uint32 FBKEOFGNCPM = 11;
+	uint64 GANNOOPEADJ = 10;
+	uint64 JHBJEBBIIKF = 8;
+	uint32 ANBLHIACJIL = 9;
+}

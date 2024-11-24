@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "DINNMHNOCGD.proto";
+
+message FHNGMIFJPLG {
+	repeated DINNMHNOCGD EKDOKDOGPIB = 5;
+	int32 EJNINFFFKJP = 9;
+	uint32 HEPIBKMFGJI = 11;
+	uint32 JCCKKCMGFME = 8;
+	uint32 HGBBGLKPLFI = 1;
+	uint32 CJOKFLDEFMB = 7;
+}

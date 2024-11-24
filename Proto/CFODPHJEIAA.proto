@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MFPIODOEALK.proto";
+
+message CFODPHJEIAA {
+	repeated MFPIODOEALK AJCPNHFKAOO = 15;
+}

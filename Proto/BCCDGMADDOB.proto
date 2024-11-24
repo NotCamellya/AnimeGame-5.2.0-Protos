@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "LJCIAEFKOOA.proto";
+
+message BCCDGMADDOB {
+	repeated LJCIAEFKOOA BOLPFLHNIPI = 1;
+	uint32 GMDCMOCIJAB = 11;
+	uint32 POAOHGGJFEL = 8;
+	uint32 OALIOHAMLGN = 12;
+	bool APFDCPLLHEB = 9;
+	bool MPFLDFDOGAI = 15;
+	uint32 NMIKCMLKNDM = 7;
+}

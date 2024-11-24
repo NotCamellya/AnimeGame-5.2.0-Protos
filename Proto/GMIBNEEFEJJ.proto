@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ABPKOLENHAP.proto";
+
+message GMIBNEEFEJJ {
+	uint32 MPNJAOCKMAH = 12;
+	uint32 HLKDDNGCKJN = 3;
+	ABPKOLENHAP DHICFGHANOG = 5;
+	int32 EJNINFFFKJP = 9;
+}

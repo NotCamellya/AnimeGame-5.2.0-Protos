@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "MKKMACFGJBG.proto";
+import "MKDHKGKNKBO.proto";
+
+message JIGGIIPGFPI {
+	repeated MKKMACFGJBG LPKDBFNIJDA = 8;
+	MKDHKGKNKBO KBJBNEJOBNM = 1;
+	uint32 EHAEACFBOOL = 7;
+	uint32 NFICKLLNFGN = 13;
+	int32 EJNINFFFKJP = 5;
+}

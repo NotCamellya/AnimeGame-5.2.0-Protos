@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LOAACAFCPIF.proto";
+
+message MANLPKPNAOJ {
+	LOAACAFCPIF IGDCOEIOOCG = 6;
+	uint32 AGIDBEEINDE = 12;
+	uint32 KBNHDNPJJBH = 3;
+}

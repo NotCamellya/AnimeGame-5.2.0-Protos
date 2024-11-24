@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message OJFAILDJEIJ {
+	KDEHCGJAGFJ MKLGAECEKLC = 8;
+	KDEHCGJAGFJ HPOECKEKAFA = 9;
+	int32 NCCPPHNNPBF = 14;
+}

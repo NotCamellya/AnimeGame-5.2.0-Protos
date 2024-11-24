@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PGLOLMEDKEL {
+	uint32 AGIDBEEINDE = 9;
+	uint32 EAGCGDDJOLH = 8;
+}

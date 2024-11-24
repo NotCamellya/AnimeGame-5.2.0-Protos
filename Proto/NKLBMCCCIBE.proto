@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NKLBMCCCIBE {
+	uint32 MKHENDMFLMF = 15;
+	int32 EJNINFFFKJP = 9;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message JIEFOKIPOPM {
+	uint32 MLNMECIGDMH = 1;
+	uint32 GHAAADJPIHN = 4;
+	uint32 FCPHCOKALEB = 10;
+	uint32 MEJCENDJALC = 12;
+	uint32 HCGBLLDPPOK = 15;
+	uint32 LGGANNDJEOI = 5;
+	uint32 GJMPFKECFKB = 14;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FHMGALGBBPI {
+	uint32 KBNDBJINABE = 12;
+}

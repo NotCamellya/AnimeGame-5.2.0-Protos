@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HOPFEEIPGJP.proto";
+
+message BODJBNIMHEN {
+	HOPFEEIPGJP AKGOOIIBCOM = 14;
+	repeated uint32 HLONPPLIDCL = 7;
+	repeated uint32 DMAGPFEPMPG = 1;
+	repeated uint32 JCGHNBAEONB = 13;
+	repeated uint32 IFJMFOCLOJO = 3;
+}

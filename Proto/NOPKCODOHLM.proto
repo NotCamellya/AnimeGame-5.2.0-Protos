@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NOPKCODOHLM {
+	bool MOAELIBPHOI = 11;
+	uint32 EHHBAAEJFGL = 1;
+}

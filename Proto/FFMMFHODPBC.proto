@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IHKLGMIFGMN.proto";
+
+message FFMMFHODPBC {
+	repeated uint32 CHPONMFHCFE = 12;
+	map<uint32,IHKLGMIFGMN> MODJGAJFAJL = 4;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CJGPOAMEDNG.proto";
+
+message OACPABJKLFG {
+	repeated CJGPOAMEDNG BAGJBBKNADL = 10;
+	bool MEAILAOFHPB = 1;
+	uint32 EAIPGEMKNPO = 2;
+}

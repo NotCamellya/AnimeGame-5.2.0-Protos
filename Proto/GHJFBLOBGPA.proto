@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum GHJFBLOBGPA {
+	GHJFBLOBGPA_ATTACH = 0;
+	GHJFBLOBGPA_DETACH = 1;
+}

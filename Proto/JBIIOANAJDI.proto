@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message JBIIOANAJDI {
+	uint32 FFFJDPHLCJE = 14;
+	bool GLKNGDDNOCN = 8;
+	uint32 BDEFLCDKDBI = 7;
+	uint32 IEJPGHNLIDB = 4;
+	uint32 LJBCGMADOLK = 6;
+}

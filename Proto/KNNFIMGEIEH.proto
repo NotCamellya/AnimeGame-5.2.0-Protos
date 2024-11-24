@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GFIGAPGGLPI.proto";
+
+message KNNFIMGEIEH {
+	repeated GFIGAPGGLPI HCLIEMDGGGC = 8;
+	bool MPFLDFDOGAI = 7;
+	uint32 EPPPBOLKBAC = 2;
+}

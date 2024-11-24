@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NMNIIGCMAMD {
+	repeated uint32 OBNHGEFFBGO = 9;
+}

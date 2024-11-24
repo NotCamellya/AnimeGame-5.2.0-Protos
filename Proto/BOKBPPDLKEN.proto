@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MAJEEOHEBAB.proto";
+
+message BOKBPPDLKEN {
+	repeated MAJEEOHEBAB DLHAKOKJINO = 15;
+	float DAGOFMOGOPN = 9;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "DHDEBBIPIIF.proto";
+
+message BEMJPLAOLLE {
+	DHDEBBIPIIF CKEHABLGHNN = 13;
+	uint32 MPNJAOCKMAH = 9;
+	uint32 FINAHGLFHAG = 7;
+}

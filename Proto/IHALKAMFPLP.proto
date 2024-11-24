@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message IHALKAMFPLP {
+	string KOLACOJOMFH = 2;
+	uint32 MNDBNJHOAEE = 5;
+	uint32 ADELHEPCNEB = 4;
+}

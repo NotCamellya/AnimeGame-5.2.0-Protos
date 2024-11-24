@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MJDIPGBPOGL {
+	map<uint32,uint32> HKPEBMBAONL = 4;
+}

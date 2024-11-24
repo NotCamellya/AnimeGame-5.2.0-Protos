@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HDCFBPPBPLF.proto";
+
+message ODBBHKMEONI {
+	repeated HDCFBPPBPLF PMJGJNILMBP = 2;
+	uint32 EAIPGEMKNPO = 3;
+	uint32 BODIEJCLGMB = 10;
+}

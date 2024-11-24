@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MPCBGINJKKD.proto";
+
+message BFFALDPOKFE {
+	repeated uint32 NKICBOBIDAF = 3;
+	repeated MPCBGINJKKD EFCDELGMMKG = 11;
+}

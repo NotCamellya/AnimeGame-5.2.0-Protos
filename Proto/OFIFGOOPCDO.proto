@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DAAELFAMFEA.proto";
+
+message OFIFGOOPCDO {
+	repeated uint32 DHPCLKCHDIM = 12;
+	repeated DAAELFAMFEA EFCDELGMMKG = 7;
+}

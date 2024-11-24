@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LCICBCBFPLC {
+	bool PKGGNCGLPPN = 14;
+}

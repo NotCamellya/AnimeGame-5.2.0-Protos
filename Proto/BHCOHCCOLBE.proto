@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PCLLABLBNGA.proto";
+
+message BHCOHCCOLBE {
+	PCLLABLBNGA MDMMNLEEMDF = 1;
+}

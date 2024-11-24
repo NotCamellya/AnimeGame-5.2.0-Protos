@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DDLCCIFIIMC {
+	uint32 DAJHKHFLNDJ = 11;
+}

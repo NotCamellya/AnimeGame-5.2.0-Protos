@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IHKLGMIFGMN.proto";
+
+message ADBLDCHBAPI {
+	map<uint32,IHKLGMIFGMN> MODJGAJFAJL = 14;
+	uint32 FBABMDIBFKD = 1;
+	int32 EJNINFFFKJP = 7;
+}

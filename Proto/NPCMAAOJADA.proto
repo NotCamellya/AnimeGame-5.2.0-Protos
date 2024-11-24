@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NPCMAAOJADA {
+	uint32 MPNJAOCKMAH = 7;
+	uint32 BODIEJCLGMB = 4;
+	bool KEPLHHEHOLE = 10;
+}

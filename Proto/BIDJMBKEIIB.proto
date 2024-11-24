@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import "GMJKGJHNCBL.proto";
+import "MILLGCOHBJI.proto";
+import "MMNOCKPJAOB.proto";
+import "PJPLLJJMEED.proto";
+import "FODHEIFHDJB.proto";
+import "BKJKCHOKLKG.proto";
+import "LEJDFPGEIKO.proto";
+import "GILGDMKHMAJ.proto";
+import "OHAPEBODAPG.proto";
+
+message BIDJMBKEIIB {
+	repeated GMJKGJHNCBL CNLOCGCMNNM = 2;
+	repeated MILLGCOHBJI MBCHKMGALNF = 1;
+	repeated MMNOCKPJAOB KHEGOEEGNNJ = 3;
+	repeated PJPLLJJMEED LNFOMLLACKE = 11;
+	repeated FODHEIFHDJB MHDJCLKGHOA = 15;
+	repeated BKJKCHOKLKG CADALMEJAGH = 5;
+	repeated LEJDFPGEIKO FGKKMIJPAPJ = 8;
+	repeated BKJKCHOKLKG BIAJHKFKCKN = 7;
+	repeated GILGDMKHMAJ MFIKHDNPNBP = 12;
+	repeated OHAPEBODAPG AAEHPGKINOP = 14;
+	bool HPMJINLNNCP = 9;
+	uint32 FMOIOMLDAJK = 4;
+	uint32 OBBGJELHIBG = 10;
+}

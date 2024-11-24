@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "DCHONJFDDDO.proto";
+
+message KBCOIMHABOI {
+	DCHONJFDDDO CDBFPFOJBIJ = 8;
+	uint32 FAGPPHACNBJ = 13;
+	uint32 NKGEKOMLLNG = 12;
+	uint32 KHPFGEILJBH = 14;
+	uint32 PIGDGCOJMGL = 10;
+}

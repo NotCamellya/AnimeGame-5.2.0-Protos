@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LKDPHEFMBFM.proto";
+
+message MBPGLBMEFMM {
+	repeated LKDPHEFMBFM ILJHOELIJPF = 11;
+	uint32 EOJICCEHGAL = 14;
+}

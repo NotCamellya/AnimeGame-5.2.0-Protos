@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JEKGEGJBGLF.proto";
+
+message CFBPHNMCPNE {
+	uint32 EAIPGEMKNPO = 15;
+	bool GLKNGDDNOCN = 8;
+	JEKGEGJBGLF HDNBCJCKKFL = 4;
+	uint32 CCENFGCDLNP = 2;
+	uint32 JABGACILLEC = 13;
+}

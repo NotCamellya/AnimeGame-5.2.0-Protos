@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message EEOIOGPEODJ {
+	uint32 bgm_id = 1566;
+	uint32 red_point = 1753;
+	bool is_show_brief_card_event_case = 391;
+	bool is_show_animation = 541;
+	bool is_show_detail_build = 1130;
+}

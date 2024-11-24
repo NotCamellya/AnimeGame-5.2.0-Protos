@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LHDNOHDMIMO {
+	uint32 MLNMECIGDMH = 4;
+	uint32 GGIGCLLHEFM = 6;
+}

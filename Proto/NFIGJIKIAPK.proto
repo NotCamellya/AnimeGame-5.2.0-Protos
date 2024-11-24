@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MLECMFLLOGC.proto";
+
+message NFIGJIKIAPK {
+	repeated MLECMFLLOGC MDKPLBDANEF = 1;
+	repeated uint32 ALPFBHGHFHK = 3;
+	repeated uint32 KOGMMCNPJLL = 15;
+	uint32 LLADMBNFOAM = 10;
+}

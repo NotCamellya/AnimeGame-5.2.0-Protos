@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LPMGMFINCCH {
+	uint32 IGBDOEBPPHO = 12;
+	uint32 CFFMDKNINHD = 3;
+}

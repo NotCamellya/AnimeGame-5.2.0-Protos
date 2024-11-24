@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BKJKCHOKLKG.proto";
+
+message PJPLLJJMEED {
+	repeated BKJKCHOKLKG LOIHNGEDHEA = 15;
+	uint32 EKEACKKIEGH = 2;
+}

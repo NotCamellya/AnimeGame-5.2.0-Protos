@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KDCICHFFIOG {
+	uint32 MPNJAOCKMAH = 8;
+}

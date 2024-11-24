@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+import "JNMHJONHLAG.proto";
+import "JGCFLHEDIHI.proto";
+import "JNKEECKNOML.proto";
+import "CCACIDNDCCG.proto";
+import "JLEPAAJFICN.proto";
+
+message PJIFOJFADLG {
+	repeated JNMHJONHLAG GMCBENMCOKN = 4;
+	map<uint32,uint32> CBPAGDLIMIJ = 10;
+	repeated uint32 LJCDEEFBFML = 6;
+	JGCFLHEDIHI PMAPHNFNCPK = 18;
+	uint32 EALJHPFDEHK = 1;
+	uint32 EHAEACFBOOL = 2;
+	uint32 HLKDDNGCKJN = 3;
+	uint32 GHGOAAGEINH = 21;
+	uint32 JBMEBKOANNI = 8;
+	uint32 FMOIOMLDAJK = 13;
+	uint32 GOPNNJPCJPL = 19;
+	bool GNIDOHFPMJF = 7;
+	bool BGOJIMJJCMD = 22;
+	uint32 FDOGNIGLFLI = 17;
+	JNKEECKNOML fish_info = 50;
+	CCACIDNDCCG fishtank_fish_info = 51;
+	uint32 HPPJPFPAGMF = 20;
+	uint32 HDHDDMPKLJH = 9;
+	JLEPAAJFICN BNGPKPJNMCG = 12;
+	uint32 OHCHPMIFDHG = 14;
+	uint32 JFEKDNOGNKO = 15;
+	uint32 KBNHDNPJJBH = 5;
+	uint32 IAEOLKGPEOE = 16;
+	uint32 AJDEBOBKBDE = 11;
+}

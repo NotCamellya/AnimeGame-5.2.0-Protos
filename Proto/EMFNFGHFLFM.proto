@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "BGAPIEAKHEC.proto";
+import "LKPCLFANOFB.proto";
+import "CKLEEGMPDGN.proto";
+
+message EMFNFGHFLFM {
+	BGAPIEAKHEC OCPPPLDKFED = 11;
+	LKPCLFANOFB FCACNBKBDNP = 1;
+	uint32 LENJLOINPFF = 8;
+	uint32 NAJDGKJKPDP = 7;
+	uint32 EHHBAAEJFGL = 4;
+	CKLEEGMPDGN AGMHMDHEFKD = 6;
+	uint32 OAJOOBGHAGM = 2;
+}

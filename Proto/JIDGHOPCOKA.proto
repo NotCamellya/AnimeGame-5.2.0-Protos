@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OFOFFIDHIAN.proto";
+
+message JIDGHOPCOKA {
+	OFOFFIDHIAN DBDNMHCJFOC = 11;
+}

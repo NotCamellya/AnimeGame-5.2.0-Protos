@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message APCLCMAMKNI {
+	repeated uint32 IHFLGBGNAJE = 6;
+}

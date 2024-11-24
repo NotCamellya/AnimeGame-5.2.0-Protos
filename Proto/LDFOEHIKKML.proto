@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "EFPCNOOEDLC.proto";
+import "HJMPMBGECAE.proto";
+import "NCCNCMFILPA.proto";
+import "EKIAMHKEMOO.proto";
+
+message LDFOEHIKKML {
+	EFPCNOOEDLC monster_group_deactive = 7;
+	HJMPMBGECAE monster_wave_deactive = 2;
+	NCCNCMFILPA gadget_state_change = 3;
+	EKIAMHKEMOO gadget_deactive = 8;
+	uint32 HLKDDNGCKJN = 1;
+}

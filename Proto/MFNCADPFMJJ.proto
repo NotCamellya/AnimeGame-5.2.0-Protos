@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "LHDNOHDMIMO.proto";
+import "DOKKNIDHJOB.proto";
+
+message MFNCADPFMJJ {
+	repeated LHDNOHDMIMO NEHPGMLDKMF = 5;
+	repeated DOKKNIDHJOB LKKKDNOHCIG = 12;
+	uint32 AMLIJKENIIN = 4;
+	uint32 ONKGKHGAFHJ = 9;
+	uint32 NJPJCGCNEDO = 2;
+	uint32 MPNJAOCKMAH = 7;
+	uint32 MONEJDBPOLB = 8;
+	bool NCPPELGEFPN = 11;
+	bool HCJFDJHILAM = 15;
+}

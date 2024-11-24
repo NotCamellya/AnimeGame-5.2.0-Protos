@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NPGCDCGCIFM {
+	uint32 KDJIFCPBGEN = 10;
+}

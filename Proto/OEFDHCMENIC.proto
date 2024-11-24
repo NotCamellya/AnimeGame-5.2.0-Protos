@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OEFDHCMENIC {
+	uint32 FNKMGAGEDAH = 9;
+	bool MOAELIBPHOI = 15;
+}

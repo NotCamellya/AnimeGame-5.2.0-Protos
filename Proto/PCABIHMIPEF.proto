@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PCABIHMIPEF {
+	repeated uint32 GFAFIPANHPP = 8;
+	repeated uint32 PNGPJJKMKON = 6;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JAACHOEFMPD.proto";
+import "MBIMHNFDGHN.proto";
+
+message HAEIEAMIEPD {
+	JAACHOEFMPD LPJHFOGDAIL = 9;
+	MBIMHNFDGHN BELACGKAHLM = 7;
+}

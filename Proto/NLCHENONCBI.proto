@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NLCHENONCBI {
+	bool OMENIAMEDCE = 15;
+	uint32 MONEJDBPOLB = 3;
+}

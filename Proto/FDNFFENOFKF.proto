@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EMEKKIANDLE.proto";
+import "INOOIEHHKLI.proto";
+
+message FDNFFENOFKF {
+	EMEKKIANDLE ALDIPFFJEOI = 4;
+	INOOIEHHKLI KGCONLDGJPG = 8;
+	uint32 AGIDBEEINDE = 2;
+}

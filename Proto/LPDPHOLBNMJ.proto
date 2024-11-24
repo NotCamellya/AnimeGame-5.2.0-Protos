@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LPDPHOLBNMJ {
+	uint32 DEHADAMGGJP = 6;
+}

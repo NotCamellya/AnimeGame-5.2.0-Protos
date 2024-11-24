@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HLFCANLLPBI {
+	repeated uint32 PGEJGJMGGOG = 5;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NCAOKALKAOF {
+	repeated uint32 GIPEPNIONAK = 12;
+	int32 EJNINFFFKJP = 4;
+}

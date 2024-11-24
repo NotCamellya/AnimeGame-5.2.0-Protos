@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NAHMOAOLMPL.proto";
+
+message AJMIMBMCABE {
+	repeated NAHMOAOLMPL EFCDELGMMKG = 10;
+	repeated uint32 MFHKFMFACIN = 9;
+}

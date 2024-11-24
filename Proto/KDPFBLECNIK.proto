@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+
+message KDPFBLECNIK {
+	repeated JICKPPDLOHC LLDHCGBALEA = 11;
+	repeated JICKPPDLOHC DGAPPIJFOEP = 14;
+	uint32 NCCPPHNNPBF = 1;
+}

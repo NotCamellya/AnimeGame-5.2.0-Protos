@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CCPNCDLOMBB {
+	uint32 MPNJAOCKMAH = 4;
+	uint32 EDKMHLPPLGH = 13;
+}

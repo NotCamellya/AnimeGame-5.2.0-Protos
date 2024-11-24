@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LLOMJFEPOAI {
+	uint32 FEBCIDHDJED = 11;
+}

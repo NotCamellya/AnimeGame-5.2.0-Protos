@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BLFGKJCPJHO.proto";
+
+message OBIBPANEHCO {
+	BLFGKJCPJHO OLKACABNMFP = 5;
+}

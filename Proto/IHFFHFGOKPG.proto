@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "GKFGINKLNCH.proto";
+
+message IHFFHFGOKPG {
+	repeated GKFGINKLNCH INDFGANKPPO = 7;
+	uint32 AGIDBEEINDE = 10;
+}

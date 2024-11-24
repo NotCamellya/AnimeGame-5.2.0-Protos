@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PNAMELDJJFE {
+	uint32 MPNJAOCKMAH = 11;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FEEMCGMMDCI.proto";
+
+message JODOFEJCJKP {
+	FEEMCGMMDCI PFELDFFPKLP = 9;
+	int32 ECIFINMNLND = 15;
+	int32 EJNINFFFKJP = 10;
+}

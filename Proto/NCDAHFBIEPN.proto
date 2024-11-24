@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "EIKAMCKBFDF.proto";
+
+message NCDAHFBIEPN {
+	repeated EIKAMCKBFDF HJOMKFNMLCH = 1;
+	repeated uint32 PDHEKMEMBLG = 12;
+	bool EDOJGAFAKDA = 6;
+	uint32 MPNJAOCKMAH = 7;
+	uint32 JIMELGDJMLF = 4;
+	uint32 NEKECFNAHOM = 11;
+}

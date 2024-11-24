@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "IOFLIBIGGBM.proto";
+
+message HFADMABNMJB {
+	repeated IOFLIBIGGBM OLFLNGKOAJK = 14;
+	bool HCJFDJHILAM = 15;
+	uint32 EHAEACFBOOL = 9;
+	uint32 JIOGPOKKGAG = 11;
+	uint32 JIMELGDJMLF = 6;
+	uint64 NKCOLNAJDCA = 5;
+	uint32 LMOFDCCBKOI = 3;
+	uint32 IFHGKOPEKPM = 12;
+}

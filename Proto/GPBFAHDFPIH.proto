@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KPFOBLALBLC.proto";
+
+message GPBFAHDFPIH {
+	KPFOBLALBLC DAAKPCOABEP = 5;
+	int32 EJNINFFFKJP = 1;
+	bool HLALMDGMPFM = 2;
+}

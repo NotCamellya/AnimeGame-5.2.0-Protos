@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FAMDMPNCKJB.proto";
+
+message BGAPIEAKHEC {
+	repeated FAMDMPNCKJB OPHEJHKGDGJ = 11;
+	uint32 GGBMEEMGMID = 10;
+	uint32 NEKECFNAHOM = 7;
+}

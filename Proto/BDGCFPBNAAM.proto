@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IMGPEMFGOPF.proto";
+
+message BDGCFPBNAAM {
+	IMGPEMFGOPF COKCGKDPPEM = 2;
+	uint32 OAJOOBGHAGM = 9;
+}

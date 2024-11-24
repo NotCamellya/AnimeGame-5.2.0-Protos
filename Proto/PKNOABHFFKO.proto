@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PKNOABHFFKO {
+	map<string,string> BFILFABKEKI = 6;
+}

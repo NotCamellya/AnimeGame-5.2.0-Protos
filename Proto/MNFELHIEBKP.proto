@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "HFHJKHOPLMN.proto";
+import "OLHEKLKENDN.proto";
+
+message MNFELHIEBKP {
+	map<uint32,uint32> NGDJFLNNFIH = 15;
+	repeated HFHJKHOPLMN JAHPPELNEDF = 10;
+	OLHEKLKENDN FGAEINCCKDK = 4;
+	uint32 KLGLHAIOHNA = 14;
+	uint32 CEBBLOPIJEC = 8;
+	uint32 LJJBHMHMJFI = 12;
+	uint32 ODCMKOFFKKL = 6;
+	uint32 IGLNPCKDMPJ = 13;
+	float IEMNNDFMMKJ = 7;
+}

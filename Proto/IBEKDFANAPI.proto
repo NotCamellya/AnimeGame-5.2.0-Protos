@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "FGNHPFIDPCB.proto";
+import "IMGPEMFGOPF.proto";
+
+message IBEKDFANAPI {
+	FGNHPFIDPCB CAINBBIBGEB = 11;
+	uint32 AMOHEAPPLCA = 8;
+	IMGPEMFGOPF COKCGKDPPEM = 5;
+	uint32 HIACPELKDMP = 1;
+}

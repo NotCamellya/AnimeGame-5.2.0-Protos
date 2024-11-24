@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ABGMHAICMOL {
+	uint32 PKAKCBKJNLM = 2;
+}

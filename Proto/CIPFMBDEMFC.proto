@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message CIPFMBDEMFC {
+	repeated KDEHCGJAGFJ OCNAEJFMCAG = 12;
+	int32 EJNINFFFKJP = 11;
+	int32 ECIFINMNLND = 15;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DOLPAANHLHK {
+	uint32 MBBKAENBCKD = 8;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message MIIICKILLOI {
+	KDEHCGJAGFJ FGFLJIAEMLJ = 10;
+	int32 EJNINFFFKJP = 14;
+	bool PNKLLAOJDMK = 4;
+}

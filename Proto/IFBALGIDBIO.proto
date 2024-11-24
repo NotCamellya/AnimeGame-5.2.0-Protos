@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "KOPDCBOLIKB.proto";
+
+message IFBALGIDBIO {
+	KOPDCBOLIKB BILMBAOJDPK = 4;
+	map<uint32,uint32> CGCNGJNCPGH = 6;
+	map<uint32,uint32> KKAPOFHCPIB = 5;
+	map<uint32,uint32> ILGOCDGLHMJ = 3;
+	bool NMGBKJNIAOC = 8;
+	uint32 EAGCGDDJOLH = 7;
+}

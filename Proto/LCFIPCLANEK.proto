@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message LCFIPCLANEK {
+	repeated uint32 GAIBIDBIBLK = 3;
+	repeated uint32 AHHFCLEFKNE = 2;
+	uint32 KFPHEMBCEFN = 1;
+	uint32 LBGLLPJCDOG = 6;
+	uint32 DDNKDJJNNCI = 4;
+	uint32 KADKNCLIKAO = 5;
+}

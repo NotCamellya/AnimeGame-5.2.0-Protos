@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CNMFHFMFOLO {
+	repeated uint32 CCHGPJGOEHB = 12;
+}

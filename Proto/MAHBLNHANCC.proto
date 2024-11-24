@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PMNBPEPIJIK.proto";
+
+message MAHBLNHANCC {
+	repeated PMNBPEPIJIK OIIPLHCBIOK = 5;
+	uint32 CPHMIDONIPH = 15;
+	uint32 BKPHJKHILOD = 10;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum JKBBEKKCCEE {
+	JKBBEKKCCEE_NONE = 0;
+	JKBBEKKCCEE_DUNGEON = 1;
+	JKBBEKKCCEE_ROOM = 2;
+}

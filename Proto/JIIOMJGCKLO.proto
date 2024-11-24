@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "EJHEHFMNOFF.proto";
+import "OGJJMCGAADD.proto";
+import "HFKKLIDEBFB.proto";
+import "FLMADEMMJJH.proto";
+
+message JIIOMJGCKLO {
+	map<uint32,EJHEHFMNOFF> DNGAMNKCAFE = 2;
+	OGJJMCGAADD FDIKGKICEAA = 13;
+	repeated uint32 JBHKKDAHFNP = 7;
+	map<uint32,uint32> KIDPCOPALNE = 8;
+	map<uint32,float> GDJFODNLGJC = 4;
+	map<uint32,uint32> KCMKGAHODHG = 9;
+	HFKKLIDEBFB IHFEPJEDHHE = 11;
+	repeated FLMADEMMJJH OLEMDMJPAKA = 10;
+	repeated uint32 APEENIIPONC = 3;
+	uint32 KBNDBJINABE = 12;
+	uint32 IHDOCBIENJH = 6;
+	uint32 MCKDBJLDCNF = 5;
+	uint32 DEHADAMGGJP = 1;
+}

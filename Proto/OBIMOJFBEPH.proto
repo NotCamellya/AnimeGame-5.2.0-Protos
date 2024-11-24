@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message OBIMOJFBEPH {
+	uint32 AGIDBEEINDE = 1;
+	int32 EJNINFFFKJP = 3;
+	uint32 JDLENEDGLFL = 6;
+}

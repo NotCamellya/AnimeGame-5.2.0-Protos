@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MHOEKDKDLOD {
+	uint32 EHAEACFBOOL = 1;
+}

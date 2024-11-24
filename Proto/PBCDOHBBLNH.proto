@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "ALGFPDOAAFA.proto";
+import "CKKGDKCKLKH.proto";
+
+message PBCDOHBBLNH {
+	KDEHCGJAGFJ FGAFONOJIPA = 1;
+	float ABNHMHDLOKH = 2;
+	bool FKDNDPILLJM = 3;
+	float velocity = 11;
+	float time = 12;
+	ALGFPDOAAFA JGCCKLNFEHE = 24;
+	CKKGDKCKLKH axis_speed = 23;
+	KDEHCGJAGFJ rotation = 21;
+	CKKGDKCKLKH rotation_speed = 22;
+}

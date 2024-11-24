@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LIBNNJIADME.proto";
+import "ACJBAFCALIN.proto";
+
+message GBGADBFFGOO {
+	LIBNNJIADME quest_param = 14;
+	uint32 level = 8;
+	uint32 chapter_id = 10;
+	ACJBAFCALIN NBKBEFDEOBP = 15;
+	uint32 MLIOFJEOKLG = 1;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CPAJAFHANAK.proto";
+
+message HDGJJAJDECO {
+	CPAJAFHANAK NGANCEICGHC = 15;
+	bool OMENIAMEDCE = 13;
+}

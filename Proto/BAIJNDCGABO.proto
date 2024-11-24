@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "JBIIOANAJDI.proto";
+
+message BAIJNDCGABO {
+	repeated JBIIOANAJDI EMIPFNGKDPK = 9;
+	bool MPFLDFDOGAI = 11;
+	uint32 MMNAEJCMFLO = 4;
+	uint32 AKFCOFEOIPO = 10;
+	uint32 IFIDPCCCDIM = 14;
+	uint32 JKKHPNPHGEA = 1;
+	uint32 NJIODKGIEJN = 7;
+}

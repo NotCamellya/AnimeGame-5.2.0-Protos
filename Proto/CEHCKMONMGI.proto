@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CEHCKMONMGI {
+	repeated uint64 MNCHCGGMLPA = 11;
+}

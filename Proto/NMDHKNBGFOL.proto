@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NMDHKNBGFOL {
+	uint32 BDEFLCDKDBI = 15;
+}

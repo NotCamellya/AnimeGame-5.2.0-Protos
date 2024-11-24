@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ABENCJFJIFL.proto";
+
+message PICINPEFGLA {
+	ABENCJFJIFL NGANCEICGHC = 5;
+	uint32 FFHPDCIBKOD = 9;
+	bool OMENIAMEDCE = 1;
+	uint32 LHMDBBFAIFM = 10;
+}

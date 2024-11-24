@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AFAPLAEFBIL.proto";
+
+message LOJADOADKGD {
+	uint32 APLPJPOKLAG = 7;
+	AFAPLAEFBIL OPOOBJEOOKM = 6;
+	uint32 KLJCAGKGILP = 12;
+	uint32 HPODKDCCIKJ = 8;
+	uint32 MBBKAENBCKD = 13;
+}

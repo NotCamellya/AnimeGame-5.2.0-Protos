@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LDKJNPENPHG.proto";
+
+message FGDKJKFIDBJ {
+	repeated LDKJNPENPHG JJBLBLMDPHC = 15;
+	bool IPMCKCJNBMA = 12;
+	uint32 AGIDBEEINDE = 10;
+}

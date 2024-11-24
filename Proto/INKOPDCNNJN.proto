@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message INKOPDCNNJN {
+	uint32 NBAAJIDHGBN = 1;
+	uint32 EGEPGIOGIKJ = 13;
+	int32 EJNINFFFKJP = 7;
+}

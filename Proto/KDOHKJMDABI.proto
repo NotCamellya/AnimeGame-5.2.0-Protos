@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message KDOHKJMDABI {
+	uint32 MANNNCHDAAJ = 1;
+	uint32 CPPDGNJDDMO = 14;
+	uint32 OGBEPLGEEFF = 8;
+	uint32 MPNJAOCKMAH = 6;
+	uint32 AFJGHPEGKFO = 9;
+	uint32 KNGJHMLLCNP = 7;
+	bool OMENIAMEDCE = 15;
+	uint32 BOCOFCNBKIH = 3;
+	uint32 AMABMINFJJI = 12;
+}

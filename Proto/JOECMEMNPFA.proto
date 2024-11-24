@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message JOECMEMNPFA {
+	repeated uint32 LOACLKKMDFM = 1;
+}

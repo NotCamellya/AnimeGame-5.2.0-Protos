@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "DPGCPIMLKLH.proto";
+import "KLLNPGCMDBN.proto";
+import "OEBAGACLDPF.proto";
+
+message ACINMBOHEEN {
+	repeated uint32 CPEAJKCGPIO = 14;
+	repeated uint32 PBIOIIFOAPA = 10;
+	repeated DPGCPIMLKLH DBHOEEGLBBK = 11;
+	repeated KLLNPGCMDBN DAIGBJEHFFE = 2;
+	repeated uint64 PKIKNHAKPCA = 12;
+	repeated uint32 OPHDOKOFIHO = 1;
+	repeated uint32 KPIGEEJAMHM = 3;
+	map<uint32,OEBAGACLDPF> EBDMCGOEFHA = 15;
+	uint64 GDGPHIHEDCF = 13;
+	uint32 HCOJNHNBEBP = 5;
+}

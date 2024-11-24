@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "MIFDFAIHDDA.proto";
+import "DHNBIHGAEJB.proto";
+import "GGJNMDCOEHI.proto";
+
+message IGGNCAELHII {
+	repeated MIFDFAIHDDA MBDHJJOHCKO = 2;
+	DHNBIHGAEJB NPMJPLLMFBN = 15;
+	map<uint32,GGJNMDCOEHI> CMPMHDGCFKH = 4;
+	repeated uint32 FMFEECNJNMO = 1;
+	uint32 JPDBMDLEEEC = 12;
+	uint32 HKEGEBJNJJD = 6;
+	uint32 DHHJAJJNCOI = 13;
+	uint32 KDJIFCPBGEN = 9;
+	uint32 MEMEFFOINGB = 7;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BKACBKCPENM {
+	string JFAAMLFPKNM = 8;
+}

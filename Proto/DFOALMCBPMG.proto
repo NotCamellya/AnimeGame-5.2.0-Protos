@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message DFOALMCBPMG {
+	uint32 FIDDPFBIMIF = 1;
+	bool MIHHKDPFLNB = 4;
+	uint32 AOEJECPCIND = 13;
+}

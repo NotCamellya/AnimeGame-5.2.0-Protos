@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LDCECHMBPFH.proto";
+import "CJCEKNNABGI.proto";
+
+message CDPDJDCDNJF {
+	repeated LDCECHMBPFH PEEBJAOIKFC = 3;
+	CJCEKNNABGI HOLKPJJEEIM = 10;
+	uint64 IEHPOBPFCBP = 14;
+	bool NKLKDPABDGI = 13;
+	bool HPFCCAFCHDH = 2;
+}

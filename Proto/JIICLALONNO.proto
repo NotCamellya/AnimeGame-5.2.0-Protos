@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DECPHDLMILB.proto";
+
+message JIICLALONNO {
+	repeated DECPHDLMILB ELEOLJDIADF = 3;
+	uint32 IGBDOEBPPHO = 10;
+}

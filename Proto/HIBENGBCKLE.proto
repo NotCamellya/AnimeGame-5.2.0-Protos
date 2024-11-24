@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OFIFGOOPCDO.proto";
+
+message HIBENGBCKLE {
+	repeated OFIFGOOPCDO PMJGJNILMBP = 6;
+	uint32 EAIPGEMKNPO = 7;
+	uint32 BODIEJCLGMB = 4;
+}

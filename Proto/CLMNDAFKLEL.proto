@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AKKLOINFCPM.proto";
+
+message CLMNDAFKLEL {
+	repeated AKKLOINFCPM LCFAEHIBKFB = 9;
+	bool GLKNGDDNOCN = 3;
+	bool BDCBLNLCAGE = 12;
+	uint32 MPNJAOCKMAH = 5;
+	uint32 ODCMKOFFKKL = 7;
+}

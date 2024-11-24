@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CLIIGMPCIDH {
+	uint32 MCKDBJLDCNF = 8;
+}

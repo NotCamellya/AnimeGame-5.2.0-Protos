@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HICNAACDFGC {
+	repeated uint32 KBGFIGBANGK = 11;
+	uint32 IGBDOEBPPHO = 13;
+}

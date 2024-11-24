@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NHMFJDAAGDP {
+	uint32 HDMADEGNEIO = 4;
+}

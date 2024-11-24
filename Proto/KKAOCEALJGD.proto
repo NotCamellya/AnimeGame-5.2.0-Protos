@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KKAOCEALJGD {
+	uint32 DEHADAMGGJP = 15;
+	int32 EJNINFFFKJP = 11;
+}

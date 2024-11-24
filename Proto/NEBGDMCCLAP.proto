@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BBLAMELIPGM.proto";
+
+message NEBGDMCCLAP {
+	repeated uint32 MDIFAMPDNHD = 9;
+	int32 EJNINFFFKJP = 10;
+	BBLAMELIPGM IMIOGMDOKCB = 11;
+}

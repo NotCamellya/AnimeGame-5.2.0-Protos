@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DGBKPBINNJE.proto";
+
+message EBPBOJINPGP {
+	repeated DGBKPBINNJE PNDPNMBDOKF = 10;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OAMHIHBHIKN.proto";
+
+message PKPHFOKCNPJ {
+	uint32 KCNGBCBOGJE = 4;
+	uint32 FCPECPMOGOJ = 13;
+	OAMHIHBHIKN HMPMOJAHBMH = 1;
+}

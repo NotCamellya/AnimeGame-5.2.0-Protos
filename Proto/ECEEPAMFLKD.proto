@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ECEEPAMFLKD {
+	string OCNIKCMDDPI = 15;
+}

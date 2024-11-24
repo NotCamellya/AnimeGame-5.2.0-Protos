@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HCJGIFNJPPJ.proto";
+
+message KPDDNDODKCJ {
+	HCJGIFNJPPJ IBEAKHHNOHB = 2;
+}

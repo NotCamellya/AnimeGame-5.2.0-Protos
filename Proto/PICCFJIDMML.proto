@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LMPINLNNPBD.proto";
+
+message PICCFJIDMML {
+	repeated uint32 KKPKGGPFPIM = 10;
+	repeated LMPINLNNPBD NIDHJMLJJII = 2;
+	uint32 NMIPKMFLACP = 14;
+	uint32 FCLOHOMHHHO = 6;
+	uint32 MHJHGIMLHLN = 12;
+	uint32 HKEGEBJNJJD = 4;
+}

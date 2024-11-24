@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KEINCDAMKEM.proto";
+
+message FMEPIODJFPI {
+	KEINCDAMKEM OBNAOPIEHPG = 5;
+}

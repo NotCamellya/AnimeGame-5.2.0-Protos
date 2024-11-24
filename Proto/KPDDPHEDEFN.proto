@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KPDDPHEDEFN {
+	uint32 AGIDBEEINDE = 10;
+}

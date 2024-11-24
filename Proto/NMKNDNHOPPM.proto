@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AJMIMBMCABE.proto";
+
+message NMKNDNHOPPM {
+	repeated AJMIMBMCABE BBOPFHAODOP = 15;
+	uint32 NMAAPLDBBNI = 14;
+	bool GLKNGDDNOCN = 5;
+	uint32 EAIPGEMKNPO = 11;
+	uint32 IEJPGHNLIDB = 13;
+}

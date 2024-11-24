@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PBCDOHBBLNH.proto";
+
+message JGCFLHEDIHI {
+	repeated PBCDOHBBLNH DHILGECCJDK = 1;
+	bool GJAIFGLOAAJ = 6;
+	bool MNIFAHPFIKO = 5;
+	uint32 KMGLDKLANFJ = 3;
+	uint32 FMBBPNHCCIA = 2;
+	float ABNHMHDLOKH = 4;
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "FABGOAPPDAO.proto";
+
+message GMEAKPMBHMG {
+	map<uint32,uint32> JLIJIJMOHHH = 2;
+	repeated FABGOAPPDAO FEBAIKFCOOB = 1;
+	float DNIDCKPPOKG = 15;
+	uint32 PKGNLEECMJJ = 11;
+	float NNMFNFDLKAF = 5;
+	uint32 AGIDBEEINDE = 3;
+	float OEEMPADNHAO = 6;
+	uint32 HNHNKBLHBCP = 8;
+	uint32 FGGBAFBEKCA = 10;
+	uint32 FDOGNIGLFLI = 4;
+	uint32 NDCDFFNIHJM = 13;
+	float DMGOJDBKCIH = 7;
+}

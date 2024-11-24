@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NMKNDNHOPPM.proto";
+
+message MDDAGBICMKE {
+	map<uint32,NMKNDNHOPPM> HAJOLEIPGNP = 2;
+	uint32 HGGEHLMHKMP = 1;
+	uint32 IBCPGOOAJKG = 9;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FIBIKEELCEN {
+	uint32 GGAANCBKCBF = 11;
+	uint32 MPNJAOCKMAH = 3;
+}

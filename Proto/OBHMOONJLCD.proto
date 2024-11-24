@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message OBHMOONJLCD {
+	uint32 DMNLIGDADGB = 1;
+	uint32 GLPDDOJKFBG = 9;
+	uint32 EHAEACFBOOL = 8;
+}

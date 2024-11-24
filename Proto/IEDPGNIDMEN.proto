@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message IEDPGNIDMEN {
+	uint32 KNGJHMLLCNP = 11;
+	uint32 MPNJAOCKMAH = 1;
+	bool KODNAAGLJDL = 13;
+	bool BDOCFFKIAHH = 5;
+}

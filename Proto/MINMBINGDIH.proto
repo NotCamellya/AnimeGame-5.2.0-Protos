@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IGEEMLENJPH.proto";
+
+message MINMBINGDIH {
+	repeated IGEEMLENJPH BAGJBBKNADL = 12;
+}

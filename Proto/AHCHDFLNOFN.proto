@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AHCHDFLNOFN {
+	repeated uint32 PBFKCFDMJDB = 3;
+	repeated uint32 GAMEBFGEKHL = 15;
+}

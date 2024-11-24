@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OPBILCEFEJM.proto";
+
+message OCBBJCJMCIN {
+	repeated OPBILCEFEJM GJCFLJPMNAD = 11;
+}

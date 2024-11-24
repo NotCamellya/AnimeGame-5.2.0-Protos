@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "PKJMPCPEGGO.proto";
+
+message FCHICPCAAGK {
+	string OMKNBNMEBIK = 1;
+	PKJMPCPEGGO IANEBDKAMBM = 10;
+	map<uint32,uint32> HBKGBNKKCBG = 13;
+	uint32 NCCPPHNNPBF = 3;
+}

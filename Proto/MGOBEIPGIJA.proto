@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum MGOBEIPGIJA {
+	MGOBEIPGIJA_RECEIVE_OUTPUT = 0;
+	MGOBEIPGIJA_STOP_FORGE = 1;
+}

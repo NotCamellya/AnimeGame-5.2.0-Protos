@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FHLIIEGOLEO {
+	uint32 EAIPGEMKNPO = 10;
+}

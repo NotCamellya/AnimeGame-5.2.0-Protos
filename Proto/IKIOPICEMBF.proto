@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message IKIOPICEMBF {
+	uint32 MLNMECIGDMH = 9;
+	bool NHNPLCPPLOC = 5;
+	uint32 CBPDGCPONHM = 1;
+}

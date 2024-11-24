@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GAOIAPPLJKE {
+	uint32 FFHPDCIBKOD = 1;
+}

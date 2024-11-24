@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message OMPLNABNNCH {
+	repeated uint64 GBGMOOBDGFL = 12;
+	uint32 EMDNGLBBFAD = 4;
+	uint64 AGHCICLCICK = 15;
+}

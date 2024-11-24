@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "GDMLPOEDPJO.proto";
+import "KPFOBLALBLC.proto";
+import "OOKJDBINGHA.proto";
+
+message HHCFGHAFFLE {
+	GDMLPOEDPJO music_brief_info = 760;
+	uint32 DNBEFLJLAMB = 15;
+	KPFOBLALBLC DAAKPCOABEP = 11;
+	OOKJDBINGHA music_record = 5;
+}

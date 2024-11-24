@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "GPEIBBJNHDA.proto";
+import "PLCGIEAONLG.proto";
+
+message IKCPOOKPIGL {
+	map<uint32,GPEIBBJNHDA> PJKJCBDHMFH = 7;
+	repeated uint32 ONOGCEHFHFP = 13;
+	repeated PLCGIEAONLG DAIGBJEHFFE = 11;
+	uint32 OAJOOBGHAGM = 2;
+	uint32 AGMHMDHEFKD = 4;
+}

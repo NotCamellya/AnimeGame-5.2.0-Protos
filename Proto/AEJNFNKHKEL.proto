@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OLHEKLKENDN.proto";
+
+message AEJNFNKHKEL {
+	OLHEKLKENDN NNPMLGAPAAN = 7;
+	uint32 LDIBALOPGKB = 10;
+	uint32 OOHMHDDMOIA = 12;
+	bool OEJCJAIEKHH = 9;
+}

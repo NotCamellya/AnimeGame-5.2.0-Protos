@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "DEIGILFODBD.proto";
+
+message PCFAFNDHBEH {
+	DEIGILFODBD HGDGJJFBFND = 3;
+	uint32 AGIDBEEINDE = 8;
+	int32 EJNINFFFKJP = 7;
+}

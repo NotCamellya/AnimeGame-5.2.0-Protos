@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message JILMFEILIGG {
+	uint32 NMAAPLDBBNI = 3;
+	uint32 MPNJAOCKMAH = 1;
+	bool GLKNGDDNOCN = 5;
+}

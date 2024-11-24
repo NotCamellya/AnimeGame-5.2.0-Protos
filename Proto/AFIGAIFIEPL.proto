@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KBDONBEEIFA.proto";
+
+message AFIGAIFIEPL {
+	repeated uint32 LPAGGIOGCJK = 11;
+	KBDONBEEIFA EDKMCBOBEFP = 5;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PIOLMFIPHAB {
+	repeated uint32 IHFLGBGNAJE = 8;
+}

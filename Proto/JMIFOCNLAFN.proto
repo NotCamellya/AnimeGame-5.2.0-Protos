@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "JMBLHDBAOOD.proto";
+import "LFJNDJLGPHF.proto";
+import "JGBHHLONIJJ.proto";
+import "AEJDJAEPHAM.proto";
+
+message JMIFOCNLAFN {
+	JMBLHDBAOOD OPDEHNCONID = 7;
+	LFJNDJLGPHF PLFKPDNHHMK = 6;
+	JGBHHLONIJJ FNEIDKDPGNJ = 1;
+	AEJDJAEPHAM KPCHLICHJHI = 5;
+}

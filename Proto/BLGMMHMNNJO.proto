@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ILLMMCDPFAM.proto";
+
+message BLGMMHMNNJO {
+	ILLMMCDPFAM NCKECKMMKDK = 10;
+	uint32 PJABEFAJBGB = 11;
+	int32 EJNINFFFKJP = 15;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JPBMHLIJINP.proto";
+
+message KOGANDHHOCG {
+	uint32 NCCPPHNNPBF = 10;
+	JPBMHLIJINP CDBFPFOJBIJ = 8;
+}

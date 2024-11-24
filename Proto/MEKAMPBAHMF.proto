@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message MEKAMPBAHMF {
+	repeated uint32 KEGIGLEINKL = 14;
+	map<uint32,uint32> JNNLEBGECDL = 1;
+	int32 EJNINFFFKJP = 8;
+}

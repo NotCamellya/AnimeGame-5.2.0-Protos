@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CLPBKEMPLNM.proto";
+
+message EAOLKAFMALM {
+	repeated CLPBKEMPLNM PNDPNMBDOKF = 15;
+}

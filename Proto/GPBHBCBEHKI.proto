@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EKGHDLKKKPO.proto";
+import "HPBCMBFEKGO.proto";
+import "LJDOIFMJABA.proto";
+
+message GPBHBCBEHKI {
+	EKGHDLKKKPO EMDKFPHKAHC = 8;
+	HPBCMBFEKGO ELFDJMAFEMP = 9;
+	LJDOIFMJABA DBBBAKDKDNC = 7;
+}

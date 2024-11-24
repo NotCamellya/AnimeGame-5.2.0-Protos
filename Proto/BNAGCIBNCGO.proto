@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "BJGHDOCNFNB.proto";
+import "PKFABBKAPPA.proto";
+
+message BNAGCIBNCGO {
+	repeated BJGHDOCNFNB INOPFNJGMGG = 15;
+	repeated PKFABBKAPPA HPIFLHEFLNG = 5;
+	uint32 KMLIGBJPNEJ = 13;
+	uint32 PCCHFPHGCJB = 11;
+	uint32 LCNPGPKFEIO = 2;
+	uint32 BLFOIDKFGGF = 9;
+	uint32 GMDCMOCIJAB = 4;
+	bool NMFPPOMDCAC = 1;
+	uint32 EPPPBOLKBAC = 7;
+}

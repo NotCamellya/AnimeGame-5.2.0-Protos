@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CKBMKLICBBO.proto";
+
+message GLIEDEHAIMN {
+	repeated CKBMKLICBBO IFLIBBIFJCC = 3;
+}

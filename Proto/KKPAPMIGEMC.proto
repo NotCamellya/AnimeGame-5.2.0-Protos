@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JDNCHHPCNMD.proto";
+
+message KKPAPMIGEMC {
+	JDNCHHPCNMD KPNDJLKLKFO = 2;
+	uint32 OFIPBEGGHCD = 1;
+}

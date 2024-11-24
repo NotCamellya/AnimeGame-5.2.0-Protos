@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum ALGFPDOAAFA {
+	ALGFPDOAAFA_DEFAULT_VALUE = 0;
+	ALGFPDOAAFA__1 = 1;
+	ALGFPDOAAFA__2 = 2;
+	ALGFPDOAAFA__3 = 3;
+}

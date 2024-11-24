@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "LFJLGOJMKEH.proto";
+
+message ALNENEDPLFI {
+	uint32 EBOBHMKPOHB = 1;
+	uint32 MMABHBCILDG = 7;
+	LFJLGOJMKEH IMIOGMDOKCB = 2;
+	uint32 FJAMCDJDJOA = 14;
+	bool MHMGFFONICI = 10;
+	bool OMENIAMEDCE = 8;
+	uint32 CLPEMKJIJGD = 3;
+	uint32 FJOECIDPMGJ = 6;
+}

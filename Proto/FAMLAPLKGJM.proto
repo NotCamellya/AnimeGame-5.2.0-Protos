@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message FAMLAPLKGJM {
+	uint32 BGMDLPABEFA = 4;
+	bool OPLMJPAALNF = 2;
+	bool GCEHEPCEAKH = 1;
+	uint32 JCMCHGNNLMJ = 12;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ALKBANNMCBH.proto";
+import "PAGIAOELFBI.proto";
+
+message BBOHNOAEKEO {
+	repeated ALKBANNMCBH KIINDLKBNPD = 13;
+	PAGIAOELFBI EIMCFAMHHBJ = 5;
+	uint32 FCPANCMAOIE = 3;
+	uint32 IADFGKJCIDE = 11;
+}

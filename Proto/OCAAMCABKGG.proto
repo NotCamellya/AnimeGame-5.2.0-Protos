@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HIPGPMNCMBP.proto";
+
+message OCAAMCABKGG {
+	repeated uint32 EEKFELFANGN = 13;
+	uint32 FGOLICDLFKG = 1;
+	HIPGPMNCMBP ENBNEMMEFBN = 8;
+	uint32 LKOFKODPMGO = 7;
+	uint32 FHAIHPBKOBI = 15;
+}

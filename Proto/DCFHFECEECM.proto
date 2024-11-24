@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "ALGFOHHNNOD.proto";
+import "MIFIKPOHMNG.proto";
+import "OPLPJLCPJDO.proto";
+import "DDAPMCMNFCD.proto";
+
+message DCFHFECEECM {
+	ALGFOHHNNOD KPLGKJKFJDN = 4;
+	repeated MIFIKPOHMNG ABGCDBHMOJL = 13;
+	OPLPJLCPJDO HDJFKPNLNJH = 14;
+	DDAPMCMNFCD HMECAECDCJN = 7;
+}

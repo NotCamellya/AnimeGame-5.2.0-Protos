@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "KOKDNEPGGBH.proto";
+import "GAGHIFFFHOI.proto";
+
+message KCICAHCPBGB {
+	repeated KOKDNEPGGBH CFMGHCAKEAE = 1;
+	repeated GAGHIFFFHOI GIDLEKLAHAP = 3;
+	repeated uint32 HGGKGCHKCFB = 13;
+	repeated uint32 PHNIDOPEBAH = 14;
+	uint32 JKPCJABBGJB = 12;
+	uint32 MMABHBCILDG = 15;
+	uint32 OAJOOBGHAGM = 2;
+}

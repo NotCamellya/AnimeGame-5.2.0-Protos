@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KMENACEHKLA {
+	uint32 LEKKMFGEJIM = 12;
+	uint32 GCNDADECCLF = 8;
+	int32 EJNINFFFKJP = 5;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LGIDOEBEPCL.proto";
+
+message GPPOMEGKDFI {
+	repeated uint32 HOBAIDKKPLG = 3;
+	repeated LGIDOEBEPCL PNMCKBOBBHA = 5;
+	bool HHNBGONEIHH = 10;
+	bool BGICAKMCBMH = 11;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EJHEHFMNOFF.proto";
+
+message HIPFMJICMNG {
+	map<uint32,EJHEHFMNOFF> ILMGJBLMJEE = 13;
+}

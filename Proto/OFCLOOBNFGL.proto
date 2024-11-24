@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import "LGPPBGENJBN.proto";
+import "MGAIJNJIOJK.proto";
+import "LHIOAJDDIPL.proto";
+import "DFIPJEPBGPI.proto";
+
+message OFCLOOBNFGL {
+	repeated uint32 HLOHGJIBKJI = 13;
+	map<uint32,uint32> FKJPHKIHBMD = 2;
+	repeated uint32 CMGHNOODLIG = 9;
+	repeated LGPPBGENJBN EEBOKMCFEPE = 15;
+	repeated uint32 LALOFCFEJGG = 7;
+	repeated MGAIJNJIOJK FCLHDJMAOPL = 3;
+	repeated LHIOAJDDIPL PGLOENAGAFI = 12;
+	uint32 DBCJOJCLNAD = 10;
+	uint32 EINPPDEKDHB = 4;
+	DFIPJEPBGPI CDBFPFOJBIJ = 5;
+	uint32 MBBKAENBCKD = 1;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KMBIDDMGIAE {
+	int32 EJNINFFFKJP = 2;
+}

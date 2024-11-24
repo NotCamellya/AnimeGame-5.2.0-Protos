@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EKOGBOAGEIN {
+	int32 EJNINFFFKJP = 13;
+}

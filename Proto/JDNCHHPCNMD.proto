@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "KLKICBNNANF.proto";
+import "JKHPMJDMPJC.proto";
+import "OIGOIMJIDLA.proto";
+
+message JDNCHHPCNMD {
+	bool ALBHAJPGLOE = 1;
+	KLKICBNNANF date_delete = 3;
+	JKHPMJDMPJC count_down_delete = 2;
+	OIGOIMJIDLA delay_week_count_down_delete = 4;
+}

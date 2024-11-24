@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "HOPFEEIPGJP.proto";
+import "EFHIGEKEJJO.proto";
+import "BOGMLIEEDGC.proto";
+
+message NNMGCCBCFHA {
+	HOPFEEIPGJP AKGOOIIBCOM = 3;
+	uint32 HMFFAPHMBGC = 4;
+	bool HHDNNMNHNCI = 10;
+	EFHIGEKEJJO chest_info = 7;
+	BOGMLIEEDGC shop_info = 9;
+}

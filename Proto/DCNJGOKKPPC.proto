@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "CJONIADFAOC.proto";
+
+message DCNJGOKKPPC {
+	CJONIADFAOC AJCGKKPCCGD = 2;
+	bool LKICAOGDMCB = 8;
+	uint32 JEIEDFBEGIP = 7;
+	uint32 BIABFNLMMFE = 1;
+	uint32 DFJIIKEDNIG = 4;
+	uint32 CFFMDKNINHD = 6;
+}

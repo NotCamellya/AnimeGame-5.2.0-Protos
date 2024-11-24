@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message FEPJAEHJDIC {
+	repeated uint32 MDFMDEHCDFP = 8;
+	repeated uint32 GICJOFMFPIB = 7;
+	map<uint32,uint32> KBDNNJFODDG = 14;
+	repeated uint32 FNAHIHOCNOC = 9;
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "NLCDHFNMHLD.proto";
+
+message NMPODKOMAGD {
+	KDEHCGJAGFJ FGAFONOJIPA = 11;
+	repeated NLCDHFNMHLD JHCGPLJOIFF = 1;
+	repeated NLCDHFNMHLD OLAELJFCMMN = 7;
+	bool KIFDLGCOHEN = 10;
+	bool DACDKGBNBFM = 4;
+	bool BAPGGIKNLLH = 2;
+	uint32 PJABEFAJBGB = 5;
+	uint32 IMIOGMDOKCB = 3;
+}

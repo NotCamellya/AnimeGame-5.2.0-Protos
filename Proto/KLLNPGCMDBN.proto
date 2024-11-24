@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+import "IJJPJMEEPFI.proto";
+import "EJHEHFMNOFF.proto";
+import "FDGGMMBNANB.proto";
+import "OGJJMCGAADD.proto";
+import "PMADCMLHHBF.proto";
+import "DNACFCMENOA.proto";
+import "HFKKLIDEBFB.proto";
+import "CKLHCGJEICC.proto";
+
+message KLLNPGCMDBN {
+	repeated uint32 BGFOLAACFIE = 20;
+	IJJPJMEEPFI HKEPBGNEHCN = 28;
+	map<uint32,EJHEHFMNOFF> DNGAMNKCAFE = 3;
+	map<uint32,uint32> KCMKGAHODHG = 17;
+	map<uint32,uint32> KIDPCOPALNE = 15;
+	FDGGMMBNANB DLHHPAJEOBB = 9;
+	map<uint32,float> GDJFODNLGJC = 7;
+	OGJJMCGAADD FDIKGKICEAA = 26;
+	repeated uint32 APEENIIPONC = 6;
+	repeated uint64 AFGNDKPPNGF = 5;
+	repeated PMADCMLHHBF HABCADJCNLB = 22;
+	map<uint32,DNACFCMENOA> CFOGEFNMJOK = 10;
+	HFKKLIDEBFB IHFEPJEDHHE = 12;
+	repeated uint32 JBHKKDAHFNP = 14;
+	repeated uint32 CPBFAAMCFOO = 24;
+	bool MPDCKLAGFNA = 18;
+	uint32 PIHJHGKFCLH = 29;
+	uint64 IEHPOBPFCBP = 2;
+	CKLHCGJEICC OEHGCCODEBO = 16;
+	uint32 BPAOMOPBMHK = 23;
+	uint32 IHDOCBIENJH = 13;
+	uint32 KBNDBJINABE = 25;
+	uint32 DFKGPHPNHCN = 27;
+	uint32 HNFOINHGJKG = 21;
+	uint32 EHFPPNBAGAD = 4;
+	uint32 DPMAABPLGDP = 31;
+	uint32 MFMIPHLGDFL = 30;
+	uint32 MCKDBJLDCNF = 11;
+	uint32 HFLMEKNAJIE = 19;
+	uint32 DEHADAMGGJP = 1;
+}

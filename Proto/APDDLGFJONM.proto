@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JMHMLJLEAIK.proto";
+
+message APDDLGFJONM {
+	repeated JMHMLJLEAIK BAGJBBKNADL = 14;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FMBEGBMCCBC.proto";
+
+message OAODPGJOMPF {
+	FMBEGBMCCBC IADFGKJCIDE = 7;
+	uint32 MDMMNLEEMDF = 9;
+}

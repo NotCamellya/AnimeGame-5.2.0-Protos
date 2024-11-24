@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PCLLABLBNGA.proto";
+
+message AOIBIJLDFPK {
+	repeated PCLLABLBNGA JEILNPELIAB = 9;
+	uint32 AGIDBEEINDE = 14;
+}

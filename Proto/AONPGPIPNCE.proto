@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "FBONNIGMEIP.proto";
+import "AJLCOMMPDIC.proto";
+
+message AONPGPIPNCE {
+	string LKFGEAGBPGA = 7;
+	string NIHANLGJPLA = 14;
+	FBONNIGMEIP IMIOGMDOKCB = 2;
+	uint32 JJDJDFCEFCK = 9;
+	uint32 EBLJFMCMDGD = 12;
+	AJLCOMMPDIC OALFNNIOHCM = 15;
+}

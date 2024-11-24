@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OLHEKLKENDN.proto";
+
+message DGPMLDPPECJ {
+	OLHEKLKENDN NNPMLGAPAAN = 15;
+	bool OEJCJAIEKHH = 5;
+	uint32 LDIBALOPGKB = 2;
+}

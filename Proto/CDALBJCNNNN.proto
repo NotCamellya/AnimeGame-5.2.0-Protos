@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DEBENKFIGJP.proto";
+
+message CDALBJCNNNN {
+	repeated DEBENKFIGJP FOOKDBCNGAL = 4;
+}

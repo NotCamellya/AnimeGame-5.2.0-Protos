@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ECNCMBDMAGD.proto";
+
+message MIJLIJEKDKH {
+	uint32 FGBJNGHBGIA = 12;
+	ECNCMBDMAGD CDBFPFOJBIJ = 1;
+}

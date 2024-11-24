@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "OMBEIFNNEDF.proto";
+
+message ENLAFOLMIOG {
+	repeated OMBEIFNNEDF LAPNPEIACNL = 3;
+	uint32 EPFCIDIKLKG = 12;
+}

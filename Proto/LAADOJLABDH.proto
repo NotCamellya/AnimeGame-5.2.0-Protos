@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "OKFHJLFOJEP.proto";
+import "DENADBADMPH.proto";
+
+message LAADOJLABDH {
+	OKFHJLFOJEP PEMOIGKJAGH = 5;
+	map<uint32,DENADBADMPH> IOEEMCMLFHC = 12;
+	DENADBADMPH FANIILAGPEA = 3;
+	uint32 CDINGKPEACK = 4;
+	bool JIJLDGMDIPF = 15;
+	uint32 GLJELGNBEOJ = 2;
+}

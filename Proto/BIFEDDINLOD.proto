@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BIFEDDINLOD {
+	uint32 DDKFGHONPDC = 1;
+	uint32 MDMMNLEEMDF = 2;
+}

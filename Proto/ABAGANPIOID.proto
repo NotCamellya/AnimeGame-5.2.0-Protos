@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message ABAGANPIOID {
+	string BFMMHKFPCJB = 8;
+	repeated uint32 JAHPPELNEDF = 3;
+	repeated uint32 NPMPJINGPOF = 13;
+	bool GHAJNBEHEEJ = 12;
+	uint32 MBBKAENBCKD = 14;
+	uint32 FIGBKBNADGL = 1;
+	uint32 PIJFDBIKFKB = 9;
+	uint32 BPAPPFHMKMK = 15;
+}

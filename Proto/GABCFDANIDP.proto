@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GABCFDANIDP {
+	int32 OAJOOBGHAGM = 10;
+}

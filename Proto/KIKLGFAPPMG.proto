@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "IACMANPJHJI.proto";
+import "IEBMAHKGIPD.proto";
+
+message KIKLGFAPPMG {
+	bool CKLJMDGLIHF = 4;
+	uint32 MOFIPIHBEKB = 1;
+	uint32 GHLBJAHJEHF = 5;
+	IACMANPJHJI KGCONLDGJPG = 3;
+	uint32 OCKIBANLDMK = 11;
+	IEBMAHKGIPD HKBDFPJIOLC = 8;
+	uint32 DDJFGLFNGJC = 15;
+}

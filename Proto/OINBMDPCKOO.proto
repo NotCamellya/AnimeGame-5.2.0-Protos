@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OINBMDPCKOO {
+	uint32 ANBLHIACJIL = 3;
+	uint32 FFHPDCIBKOD = 9;
+	uint32 ODCMKOFFKKL = 4;
+	uint32 JENAGOCPDKL = 5;
+}

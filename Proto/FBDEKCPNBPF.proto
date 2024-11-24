@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CMOPDDPMIAO.proto";
+
+message FBDEKCPNBPF {
+	CMOPDDPMIAO MGLFBICADEC = 6;
+	uint32 JBBNJEHICAF = 5;
+	uint32 JIPEIMNPJLA = 13;
+}

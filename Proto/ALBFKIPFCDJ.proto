@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PAECEABMFNO.proto";
+
+message ALBFKIPFCDJ {
+	repeated PAECEABMFNO HKJFPOEIKOB = 9;
+}

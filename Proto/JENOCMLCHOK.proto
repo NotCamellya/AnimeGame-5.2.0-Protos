@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message JENOCMLCHOK {
+	uint32 IDGFDIGPLDD = 2;
+	uint32 GLMELCIGMAG = 13;
+	uint32 IMJENFJPGNP = 7;
+}

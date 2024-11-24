@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DINONCLFBLJ {
+	repeated uint32 OGEDLBMHNIM = 1;
+	repeated uint32 LHEBDOBKEMJ = 9;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message NKINHKIECJI {
+	uint32 GGCFIEHANKK = 1;
+	int32 EJNINFFFKJP = 15;
+	bool OMENIAMEDCE = 11;
+	bool JEMMGILNBPA = 14;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KNOPLGAAHFB {
+	uint32 DICAGNBIAFI = 14;
+}

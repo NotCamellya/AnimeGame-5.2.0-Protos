@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "CAEIKHMPLFF.proto";
+import "LBMJMDNOOBO.proto";
+
+message LHPCCEMPKBB {
+	repeated CAEIKHMPLFF PFNDPOBLJFO = 1;
+	repeated CAEIKHMPLFF JCPBDGAJLEL = 10;
+	repeated LBMJMDNOOBO PNDPNMBDOKF = 15;
+	map<uint32,uint32> NOODCGKINAL = 2;
+}

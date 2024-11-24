@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BHDNHBGEAEH.proto";
+
+message PNPKJDMLBLP {
+	map<uint32,BHDNHBGEAEH> IDDOABLMBLP = 8;
+}

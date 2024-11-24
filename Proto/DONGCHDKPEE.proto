@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message DONGCHDKPEE {
+	uint32 KLMDAPCLGAP = 4;
+	int32 EJNINFFFKJP = 9;
+	bool JBBKFMAPHOE = 5;
+	uint64 MCPPEKNBHFK = 8;
+}

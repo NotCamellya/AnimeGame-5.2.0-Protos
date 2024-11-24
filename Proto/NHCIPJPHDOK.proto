@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EHBHODNNOCC.proto";
+import "PBKKCEOCHEB.proto";
+
+message NHCIPJPHDOK {
+	repeated EHBHODNNOCC LANNAGNEIDJ = 2;
+	repeated PBKKCEOCHEB PEOILIHAHJK = 8;
+	uint32 IGBDOEBPPHO = 14;
+}

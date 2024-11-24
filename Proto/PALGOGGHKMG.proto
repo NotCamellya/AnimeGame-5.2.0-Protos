@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PALGOGGHKMG {
+	map<uint32,string> PNGLGNLNBNM = 11;
+	uint32 JOFKNLDPGCH = 5;
+}

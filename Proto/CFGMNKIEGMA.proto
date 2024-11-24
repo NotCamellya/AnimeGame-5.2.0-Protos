@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HFKKLIDEBFB.proto";
+
+message CFGMNKIEGMA {
+	map<uint64,HFKKLIDEBFB> LJJFHEAJDHA = 6;
+}

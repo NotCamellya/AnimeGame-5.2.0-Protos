@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message NPJPIOOLOKO {
+	uint32 JCMCHGNNLMJ = 2;
+	uint32 KCCPEHFDKJG = 11;
+	bool PMJLLLFOPHK = 3;
+	uint32 AOIKHJCANFC = 7;
+	uint32 LJBCGMADOLK = 5;
+}

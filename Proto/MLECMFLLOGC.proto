@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message MLECMFLLOGC {
+	uint32 AGGFENMFAIB = 7;
+	uint32 HHKOGNNMKHL = 5;
+	uint32 IEHPOBPFCBP = 8;
+	uint32 GCPOHINJPEJ = 15;
+	uint32 EPFCIDIKLKG = 14;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OFNIGDFJLCD.proto";
+
+message ONFGBCCGCPM {
+	OFNIGDFJLCD FGAEINCCKDK = 10;
+}

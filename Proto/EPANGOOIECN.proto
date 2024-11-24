@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "OEEDNCHKHAD.proto";
+
+message EPANGOOIECN {
+	OEEDNCHKHAD HAEFDCKNFOI = 7;
+	repeated uint32 NPMPJINGPOF = 13;
+	uint32 MMBHKCEJKIC = 8;
+	uint32 COEBNIJNNNE = 14;
+	uint32 EHLBBPBBNDL = 9;
+	uint32 DNBEFLJLAMB = 15;
+	uint32 CEPEGIMLIOC = 2;
+	uint32 KBONBBHOLPF = 5;
+	uint32 ODAMLCMEJBK = 10;
+	bool KJPFBJCHLCI = 12;
+}

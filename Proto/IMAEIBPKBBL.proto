@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MPOLDIBFEMM.proto";
+
+message IMAEIBPKBBL {
+	repeated MPOLDIBFEMM HLOHMMHKFFP = 15;
+}

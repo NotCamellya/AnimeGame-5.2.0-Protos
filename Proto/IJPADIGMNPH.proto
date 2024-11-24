@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IJPADIGMNPH {
+	float DAKLCDHEFNK = 1;
+	float MGGNBHNMEDB = 2;
+}

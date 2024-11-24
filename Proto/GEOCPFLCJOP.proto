@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MKKMACFGJBG.proto";
+
+message GEOCPFLCJOP {
+	repeated MKKMACFGJBG KIHKADFPGPP = 1;
+	uint32 EHAEACFBOOL = 2;
+	int32 EJNINFFFKJP = 12;
+	uint32 NFICKLLNFGN = 13;
+}

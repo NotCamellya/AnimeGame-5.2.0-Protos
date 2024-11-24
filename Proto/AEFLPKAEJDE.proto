@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HLBNLHGCPFC.proto";
+import "JDEHFAEIDON.proto";
+
+message AEFLPKAEJDE {
+	repeated HLBNLHGCPFC FGEFHBEPFAA = 6;
+	repeated JDEHFAEIDON LEBKPFCAKFL = 13;
+	uint32 PJLONIBLAAE = 15;
+	uint32 HDBCHCEMAJC = 10;
+	bool MPFLDFDOGAI = 5;
+}

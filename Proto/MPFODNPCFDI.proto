@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message MPFODNPCFDI {
+	string str_param = 1;
+	float flt_param = 11;
+	uint32 int_param = 5;
+}

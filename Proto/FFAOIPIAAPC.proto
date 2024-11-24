@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message FFAOIPIAAPC {
+	uint32 OIKAFCINPHN = 3;
+	uint32 OLNIMDHKAFF = 13;
+	uint32 MPNJAOCKMAH = 2;
+	bool OMENIAMEDCE = 4;
+	uint32 OCFOIJCFJAK = 14;
+	uint32 PGICHLHDGJP = 12;
+}

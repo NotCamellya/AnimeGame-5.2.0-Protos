@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message FNCLCGANPOM {
+	uint32 DNBEFLJLAMB = 2;
+	uint32 EHAEACFBOOL = 4;
+	int32 EJNINFFFKJP = 12;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AMBNEDAKHFP.proto";
+
+message EBCPGAGHAIB {
+	AMBNEDAKHFP FGAEINCCKDK = 8;
+	uint32 MONEJDBPOLB = 10;
+	uint32 LLADMBNFOAM = 12;
+}

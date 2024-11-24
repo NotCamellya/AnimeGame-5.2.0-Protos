@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BCDOMHBDHAJ.proto";
+import "MNHBEHENECP.proto";
+
+message BFMAJBBMIOH {
+	bool BNACCMFLPKO = 11;
+	uint32 ICIDPJHBDJI = 13;
+	BCDOMHBDHAJ score_challenge_info = 6;
+	MNHBEHENECP bundle_info = 5;
+	uint32 boss_challenge_id = 15;
+}

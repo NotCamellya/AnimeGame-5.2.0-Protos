@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LINCBKJPOLL.proto";
+
+message FPHKAOPDEHN {
+	uint32 JCMCHGNNLMJ = 14;
+	uint32 HBPLLHHBCPD = 5;
+	LINCBKJPOLL FBDOBGJGNBF = 3;
+	uint32 GGEMJKEMJPK = 11;
+}

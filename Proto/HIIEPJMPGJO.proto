@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FNLOEBIAJIE.proto";
+
+message HIIEPJMPGJO {
+	FNLOEBIAJIE FCIIBBAJIBK = 4;
+	uint32 JNLGDEFHNDG = 13;
+}

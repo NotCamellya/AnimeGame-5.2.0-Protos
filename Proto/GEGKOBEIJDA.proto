@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "CBGHNFJJJOD.proto";
+import "GNIMGOIHNMC.proto";
+import "MINGGPMEDIA.proto";
+import "LKHDONHBJAG.proto";
+import "CLIIGMPCIDH.proto";
+import "KMHHOEPHMJO.proto";
+import "PHPOHEGGIMP.proto";
+
+message GEGKOBEIJDA {
+	uint32 IADFGKJCIDE = 6;
+	uint32 DEHADAMGGJP = 12;
+	CBGHNFJJJOD reliquary_set_request = 478;
+	GNIMGOIHNMC element_reliquary_set_request = 200;
+	MINGGPMEDIA weapon_request = 1095;
+	LKHDONHBJAG element_reliquary_request = 1745;
+	CLIIGMPCIDH skill_request = 475;
+	KMHHOEPHMJO reliquary_request = 598;
+	PHPOHEGGIMP element_weapon_request = 1182;
+}

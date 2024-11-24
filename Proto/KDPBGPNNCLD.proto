@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KDPBGPNNCLD {
+	uint32 FCPECPMOGOJ = 7;
+	uint32 FALCGIKEENO = 6;
+}

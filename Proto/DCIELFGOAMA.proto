@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DCIELFGOAMA {
+	float POPMDIHFNPC = 2;
+	float BHCBJAKGPOI = 1;
+}

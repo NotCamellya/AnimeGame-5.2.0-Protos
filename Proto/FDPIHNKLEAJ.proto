@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "NNFDIHPAGHC.proto";
+import "MHOJPFGMMHL.proto";
+import "DBOLCJJILGP.proto";
+import "CKBFJJMAKCD.proto";
+import "HOFLBHDIPII.proto";
+
+message FDPIHNKLEAJ {
+	map<uint32,NNFDIHPAGHC> GCJJEHICMHA = 14;
+	map<uint32,MHOJPFGMMHL> IHGKAECKDIB = 2;
+	map<uint32,DBOLCJJILGP> GJOFKDGPKHN = 7;
+	CKBFJJMAKCD KCLFFKGNLBD = 6;
+	HOFLBHDIPII JEGBAICFCIG = 5;
+	bool MPFLDFDOGAI = 15;
+}

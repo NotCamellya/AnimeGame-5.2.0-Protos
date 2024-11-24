@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EICIMOKGOOK {
+	repeated uint32 NPMPJINGPOF = 15;
+	uint32 CJHDMKLLKPA = 11;
+}

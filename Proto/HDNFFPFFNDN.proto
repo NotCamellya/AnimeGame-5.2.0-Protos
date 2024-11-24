@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message HDNFFPFFNDN {
+	int32 int_val = 2;
+	bool bool_val = 4;
+	float float_val = 3;
+	uint32 KCCDHKHHAGK = 1;
+}

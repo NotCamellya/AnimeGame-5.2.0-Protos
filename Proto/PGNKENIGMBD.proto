@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JNEBBAFFGPJ.proto";
+
+message PGNKENIGMBD {
+	JNEBBAFFGPJ JIELCLOAEAA = 12;
+	uint32 LIHHCNJJAJA = 10;
+	uint32 APHIBLJMPCC = 1;
+}

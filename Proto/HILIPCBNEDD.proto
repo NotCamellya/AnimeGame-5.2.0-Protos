@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NGHMHJBALKH.proto";
+
+message HILIPCBNEDD {
+	repeated NGHMHJBALKH PIBMJCLEIBH = 12;
+	repeated NGHMHJBALKH BDGLEGKAEGJ = 1;
+	uint32 BDDCJKHOLIB = 15;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HPCCMBDADFI.proto";
+import "EBPBOJINPGP.proto";
+import "IEBKHMDMHII.proto";
+
+message IKOPLPGJPJE {
+	HPCCMBDADFI GAFMCJBMFAE = 7;
+	EBPBOJINPGP ADDHBJKMOIM = 10;
+	IEBKHMDMHII PIKPHKJINIB = 12;
+}

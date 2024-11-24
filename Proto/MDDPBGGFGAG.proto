@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ELLDEPILOFC.proto";
+
+message MDDPBGGFGAG {
+	ELLDEPILOFC MBOGPBBOIEH = 2;
+	uint32 HHOGHBECPNP = 5;
+}

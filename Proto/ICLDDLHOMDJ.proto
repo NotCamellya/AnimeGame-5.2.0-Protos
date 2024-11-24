@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BJIKPODAMDA.proto";
+
+message ICLDDLHOMDJ {
+	BJIKPODAMDA CABGIFFBCNC = 4;
+}

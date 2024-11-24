@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message APLLCNOHJON {
+	uint32 BIKOAKJLPBE = 9;
+}

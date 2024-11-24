@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message MFGBNJMIBCE {
+	int32 EJNINFFFKJP = 2;
+	uint32 FIKLBLMACIB = 6;
+	uint64 JBFHAEJBGDK = 12;
+}

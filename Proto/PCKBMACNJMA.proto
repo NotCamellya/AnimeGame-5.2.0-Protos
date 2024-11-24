@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message PCKBMACNJMA {
+	int32 EJNINFFFKJP = 5;
+	uint32 JJDJDFCEFCK = 13;
+	uint32 LDOMPJCLOCO = 6;
+	uint32 JPBAJGLAFGE = 12;
+}

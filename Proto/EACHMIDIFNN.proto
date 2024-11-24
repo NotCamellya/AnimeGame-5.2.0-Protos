@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message EACHMIDIFNN {
+	uint32 MIOLBJEPFGP = 7;
+	bool PPEEOLNAOBO = 8;
+	uint32 BJLLGBAPJKP = 1;
+}

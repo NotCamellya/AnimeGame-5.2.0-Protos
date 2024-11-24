@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message MOHPADGLAMB {
+	repeated uint32 KNCBEIJEFII = 3;
+	repeated uint32 GMPNCFJLPAB = 7;
+	uint32 KNGJHMLLCNP = 15;
+	bool OMENIAMEDCE = 5;
+	uint32 HGGEHLMHKMP = 12;
+	uint32 HKIDJBFGPFP = 13;
+}

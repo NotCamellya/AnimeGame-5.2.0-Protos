@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IDAEALGLHHH.proto";
+
+message OPLPJLCPJDO {
+	repeated IDAEALGLHHH GEIAGFPMLOF = 2;
+	bool GLKNGDDNOCN = 1;
+}

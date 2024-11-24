@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JILMFEILIGG.proto";
+
+message LANFEMMHKNB {
+	repeated JILMFEILIGG JJIKCEBEDPO = 3;
+}

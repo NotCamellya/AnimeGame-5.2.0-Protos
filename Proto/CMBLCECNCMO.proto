@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CMBLCECNCMO {
+	uint32 BDNKLFDGOHK = 10;
+	uint32 FHCPCKFNJAL = 9;
+}

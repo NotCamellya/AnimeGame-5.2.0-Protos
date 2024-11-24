@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message HDPPPMDMBKC {
+	string BFMMHKFPCJB = 13;
+	bool NKJBDCLKOGP = 9;
+	uint32 CNAIFGICLDH = 11;
+}

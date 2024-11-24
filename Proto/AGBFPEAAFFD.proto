@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AGBFPEAAFFD {
+	map<uint32,uint32> BMANEJIIMAH = 15;
+}

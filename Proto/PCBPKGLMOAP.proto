@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HIJDFNGDBNG.proto";
+
+message PCBPKGLMOAP {
+	repeated HIJDFNGDBNG BAGJBBKNADL = 12;
+}

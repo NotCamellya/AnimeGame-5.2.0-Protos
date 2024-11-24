@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message CLJNAPNHBLO {
+	repeated uint32 FOOHNBBIHNB = 12;
+	KDEHCGJAGFJ BKBNBIPFBCF = 6;
+	uint32 IEJPGHNLIDB = 3;
+	bool BDCBLNLCAGE = 14;
+	bool GLKNGDDNOCN = 11;
+	uint32 IGBDOEBPPHO = 5;
+	float OBCLCJEJIML = 2;
+	uint32 MPNJAOCKMAH = 10;
+}

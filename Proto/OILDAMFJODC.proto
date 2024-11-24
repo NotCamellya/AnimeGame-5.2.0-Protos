@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "IOAHICPMIEB.proto";
+
+message OILDAMFJODC {
+	repeated uint32 DJPDELLJHJF = 3;
+	repeated uint32 AOPGDGMGKIA = 7;
+	repeated uint32 DKEFLELLNCK = 5;
+	repeated uint32 JEPOOMPBGLN = 4;
+	repeated uint32 BFJAHDAHEML = 2;
+	repeated IOAHICPMIEB LEDDHCIFLBC = 1;
+	repeated uint32 BGJFEMOACPL = 6;
+}

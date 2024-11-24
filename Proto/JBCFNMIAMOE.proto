@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "FKHEIDFJKDO.proto";
+
+message JBCFNMIAMOE {
+	map<uint32,FKHEIDFJKDO> JENACEPCGOF = 1;
+	repeated uint32 LPGMAEHCBOB = 2;
+	bool HAEAOOFAJNG = 10;
+	uint32 IKDAJELLEAI = 4;
+	uint32 DOMBDIMFFII = 7;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IMBAIDCLBLP {
+	uint32 GCNDADECCLF = 9;
+	uint32 LEKKMFGEJIM = 13;
+}

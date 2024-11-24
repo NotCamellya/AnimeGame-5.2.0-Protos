@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GPEOKCDBGLL {
+	map<uint32,uint32> MOOPCJCEHLD = 10;
+}

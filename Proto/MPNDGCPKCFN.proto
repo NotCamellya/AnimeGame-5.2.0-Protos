@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message MPNDGCPKCFN {
+	uint32 LCDDIDLJEDN = 4;
+	uint32 ICIDPJHBDJI = 1;
+	uint32 LCHBEAHGHEO = 12;
+	bool IMMDNDDNOPG = 5;
+	bool HCJFDJHILAM = 6;
+}

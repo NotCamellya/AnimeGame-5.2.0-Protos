@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CFIOPPCGFLN {
+	uint32 MPNJAOCKMAH = 6;
+}

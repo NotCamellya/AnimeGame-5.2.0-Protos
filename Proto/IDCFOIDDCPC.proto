@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IDCFOIDDCPC {
+	uint32 CNKPOOJGOKB = 9;
+	uint32 GNOJCAFHFCH = 15;
+}

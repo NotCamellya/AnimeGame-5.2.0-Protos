@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BGPAHBMKBAG.proto";
+
+message KILDMBIANGC {
+	repeated BGPAHBMKBAG IFIPFMLJPGC = 5;
+	int32 EJNINFFFKJP = 6;
+}

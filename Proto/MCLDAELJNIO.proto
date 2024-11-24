@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MALKBOBPBGG.proto";
+
+message MCLDAELJNIO {
+	repeated MALKBOBPBGG IFLIBBIFJCC = 11;
+}

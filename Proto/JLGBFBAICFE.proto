@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message JLGBFBAICFE {
+	uint32 BDFAILBENGN = 13;
+}

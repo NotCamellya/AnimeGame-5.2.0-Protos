@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "OMDEFNFDGCF.proto";
+import "HMFFLJOGOIA.proto";
+
+message CAHHBEHNCGL {
+	KDEHCGJAGFJ GJEBAJAJPII = 1;
+	uint32 MCJNLBADFIN = 4;
+	float sphere_radius = 2014;
+	OMDEFNFDGCF cylinder_size = 1335;
+	KDEHCGJAGFJ cubic_size = 1363;
+	HMFFLJOGOIA polygon_size = 1096;
+	uint32 EHAEACFBOOL = 6;
+	uint32 HLKDDNGCKJN = 14;
+}

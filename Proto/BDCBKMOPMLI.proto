@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LCCNNIPFKNE.proto";
+
+message BDCBKMOPMLI {
+	LCCNNIPFKNE JEAOFAGMKOF = 9;
+}

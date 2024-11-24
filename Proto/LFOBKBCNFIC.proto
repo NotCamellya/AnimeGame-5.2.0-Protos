@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message LFOBKBCNFIC {
+	repeated uint32 DCMMNMAHACO = 6;
+	uint32 DFDNFDDCCPB = 14;
+	uint32 PAJKKMDPFFA = 15;
+	uint32 HLKDDNGCKJN = 11;
+}

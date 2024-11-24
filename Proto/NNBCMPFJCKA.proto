@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KHBDLLKPLFG.proto";
+
+message NNBCMPFJCKA {
+	KHBDLLKPLFG HFLMEKNAJIE = 4;
+	uint32 BBPGIJFJHEN = 2;
+	uint32 DEHADAMGGJP = 5;
+	uint32 KBNDBJINABE = 3;
+}

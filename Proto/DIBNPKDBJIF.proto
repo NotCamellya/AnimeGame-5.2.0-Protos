@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NCDNMMMMKAF.proto";
+import "NEBCILHOAHF.proto";
+
+message DIBNPKDBJIF {
+	NCDNMMMMKAF MFAIOELAMEC = 11;
+	NEBCILHOAHF HAEFDCKNFOI = 6;
+	uint32 BJEIPHDHNHO = 15;
+	uint32 GEMAGMEFCCG = 3;
+	uint32 NEFCDAAILEO = 14;
+}

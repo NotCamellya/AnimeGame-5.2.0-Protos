@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EOABCGEOJHI.proto";
+
+message DGBKPBINNJE {
+	repeated EOABCGEOJHI BAGJBBKNADL = 1;
+	uint32 EAIPGEMKNPO = 6;
+	bool GLKNGDDNOCN = 10;
+}

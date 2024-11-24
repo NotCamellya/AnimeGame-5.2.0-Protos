@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FOFMFCDCKIP {
+	uint32 EJKIANCMDPF = 15;
+	uint32 EPLDGLECANO = 4;
+}

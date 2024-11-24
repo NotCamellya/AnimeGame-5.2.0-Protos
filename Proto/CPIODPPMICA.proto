@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CPIODPPMICA {
+	uint32 CJOKFLDEFMB = 15;
+}

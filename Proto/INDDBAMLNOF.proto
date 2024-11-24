@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message INDDBAMLNOF {
+	repeated uint32 HNEMPAAGMDN = 7;
+	uint32 CAKPDNKKGEN = 15;
+	int32 EJNINFFFKJP = 3;
+}

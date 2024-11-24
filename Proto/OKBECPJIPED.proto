@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OKBECPJIPED {
+	uint32 FINAHGLFHAG = 1;
+}

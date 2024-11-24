@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "CACGLIBJIIE.proto";
+import "GDMLPOEDPJO.proto";
+import "OAODPGJOMPF.proto";
+
+message AFCMCKHFILO {
+	repeated CACGLIBJIIE CBAKCKLKJHJ = 15;
+	repeated GDMLPOEDPJO CJGOFEODNAH = 7;
+	repeated GDMLPOEDPJO PJEEOONMMDK = 9;
+	repeated OAODPGJOMPF CIDMBDPHCHJ = 6;
+}

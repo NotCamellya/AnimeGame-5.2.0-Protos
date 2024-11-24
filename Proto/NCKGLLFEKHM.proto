@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MGOAEAIGBOK.proto";
+import "CMBDNHPIFCH.proto";
+
+message NCKGLLFEKHM {
+	repeated uint32 LHEBDOBKEMJ = 13;
+	repeated MGOAEAIGBOK NGLGKLAEAFK = 3;
+	repeated uint32 OGEDLBMHNIM = 4;
+	repeated CMBDNHPIFCH FEOGJLNKGHA = 2;
+}

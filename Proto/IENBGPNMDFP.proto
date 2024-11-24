@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LONMFJNLDAE.proto";
+
+message IENBGPNMDFP {
+	repeated LONMFJNLDAE FALCMEDIKOJ = 3;
+}

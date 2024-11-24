@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FOGEJOFFJPP {
+	repeated uint32 GGHBCJJFBAG = 8;
+}

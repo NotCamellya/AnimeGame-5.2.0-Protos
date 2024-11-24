@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message NPNJINMABLF {
+	bool EEMKOELPGBA = 14;
+	uint32 rent_avatar_id = 13;
+	uint32 avatar_id = 8;
+	uint32 trial_config_id = 7;
+}

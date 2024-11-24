@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FLMMANLPMNB.proto";
+import "APLFHDMBKHC.proto";
+
+message ICHLHCPPADJ {
+	string JOFCOMOMBDO = 9;
+	FLMMANLPMNB IBIPCGCOIFG = 14;
+	APLFHDMBKHC AMGKAOJAKGM = 4;
+}

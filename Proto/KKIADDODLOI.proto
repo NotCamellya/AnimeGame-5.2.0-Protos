@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message KKIADDODLOI {
+	uint32 IDKEILCENFK = 11;
+	uint32 PHDCILAGDOJ = 6;
+	uint32 LLOMLFJHALG = 3;
+	uint32 FNMNPILHPGL = 14;
+}

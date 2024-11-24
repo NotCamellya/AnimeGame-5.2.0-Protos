@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "GIIBEFAJGBK.proto";
+import "ELNAJEHAMJL.proto";
+import "BJKFJPJDMIC.proto";
+import "ENLAFOLMIOG.proto";
+
+message HEKGHBFOMII {
+	repeated uint32 DKIMEEMCDIO = 12;
+	repeated GIIBEFAJGBK MNFCNBIEPNH = 3;
+	repeated uint32 LFAPMGLGGBG = 13;
+	repeated ELNAJEHAMJL CJBJINIEICP = 2;
+	repeated uint32 HJEHLPBGNIM = 10;
+	repeated BJKFJPJDMIC INDIMDAICCE = 11;
+	repeated ENLAFOLMIOG BJKBOPGGPJM = 15;
+	bool IPDBKMDEOMF = 6;
+}

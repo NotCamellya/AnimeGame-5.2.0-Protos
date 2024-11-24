@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message HOKPLCMBLKC {
+	uint32 MHGLDBMEGEG = 5;
+	int32 CJDIMMAIMHO = 9;
+	uint64 MIGNCCKKJAF = 2;
+	uint32 NOLDHJNLGNN = 8;
+	uint32 PIEAPGEPMLF = 7;
+	uint32 FFHPDCIBKOD = 15;
+}

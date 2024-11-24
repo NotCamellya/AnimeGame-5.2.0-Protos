@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LGNOEBMGBOB.proto";
+
+message AHPPBJIAKAI {
+	map<uint32,LGNOEBMGBOB> JPJLOCPLIHL = 15;
+}

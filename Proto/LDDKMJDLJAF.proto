@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CHGNHDCHNDD.proto";
+
+message LDDKMJDLJAF {
+	repeated CHGNHDCHNDD GMCBENMCOKN = 14;
+	uint32 JDGLALAAHIG = 1;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IKDFPLIKJCP.proto";
+import "BLCAPEBDFDM.proto";
+
+message BECBKBINEBD {
+	repeated IKDFPLIKJCP GIKJPJGMPAM = 12;
+	uint32 BENPELLBBJC = 8;
+	uint32 OOIPGFEDJMN = 1;
+	BLCAPEBDFDM DFOPEDHMDFK = 3;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JOECDAOLNFD.proto";
+import "IDLAEJGILNL.proto";
+import "HFILDBLLMOP.proto";
+
+message EKGJKEOBKBK {
+	JOECDAOLNFD KFIIICLOLKG = 4;
+	IDLAEJGILNL NABHBHGBPON = 1;
+	HFILDBLLMOP GAFMCJBMFAE = 12;
+}

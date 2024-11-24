@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message HIBOMPKIPIN {
+	map<uint32,uint32> OGLBNKAEEMI = 3;
+	map<uint32,uint32> AJKPLBPKCAB = 10;
+	uint32 HPMNAOJDHME = 5;
+	uint32 OALIOHAMLGN = 13;
+	bool MPFLDFDOGAI = 12;
+	bool APCKFLANKIL = 7;
+}

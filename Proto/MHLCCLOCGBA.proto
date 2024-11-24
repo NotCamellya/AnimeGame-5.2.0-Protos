@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MJPKECMOIGA.proto";
+
+message MHLCCLOCGBA {
+	repeated MJPKECMOIGA FHKNGCBGDJL = 2;
+	bool FDDEHDHBABM = 6;
+}

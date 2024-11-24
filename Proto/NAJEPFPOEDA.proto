@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "HGJDNCCKHAE.proto";
+import "BBHEKPLKMFG.proto";
+import "GAODDBPPALA.proto";
+import "OJNLFFGJCFI.proto";
+
+message NAJEPFPOEDA {
+	HGJDNCCKHAE GMDJEGFEMJK = 10;
+	repeated uint32 OOIFLCPPMFP = 6;
+	repeated BBHEKPLKMFG CNBKDMINMHD = 3;
+	repeated GAODDBPPALA GFKMHAGGHLP = 4;
+	repeated OJNLFFGJCFI KABODNMEGEK = 8;
+	int32 OINEPOIHIGB = 11;
+	int32 AKGGIFABDKN = 7;
+	bool BDCBLNLCAGE = 5;
+	uint64 OEMMLAKCANN = 2;
+	int32 CDDDHHKFMDF = 9;
+	int32 ICHDDDNLGHF = 12;
+	uint64 NHCJGIFPGII = 1;
+}

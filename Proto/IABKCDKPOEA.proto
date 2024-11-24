@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IABKCDKPOEA {
+	repeated uint32 IPIGAFHMPFH = 1;
+}

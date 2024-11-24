@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message FMOKBEJLKEM {
+	repeated uint32 PMEDEININBJ = 13;
+	string HEBPMHDICOD = 3;
+	KDEHCGJAGFJ OIPCDLONDGP = 1;
+	float NPMHILMHGIO = 11;
+	uint32 AGIDBEEINDE = 2;
+	int32 GBPIPBCJCHJ = 15;
+	bool DOGGIKKPBMF = 4;
+	bool HADPELLMAOK = 7;
+	float GABGBNNDMMP = 14;
+	float CGJNMMHDJGP = 9;
+	float DHGHLAFOCGO = 10;
+	float NBAENAJIEFG = 12;
+	float LICIDPGEIAJ = 5;
+}

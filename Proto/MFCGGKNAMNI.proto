@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MFCGGKNAMNI {
+	uint32 MPNJAOCKMAH = 8;
+}

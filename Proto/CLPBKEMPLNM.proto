@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message CLPBKEMPLNM {
+	uint32 IEJPGHNLIDB = 11;
+	uint32 EAIPGEMKNPO = 9;
+	bool GLKNGDDNOCN = 8;
+}

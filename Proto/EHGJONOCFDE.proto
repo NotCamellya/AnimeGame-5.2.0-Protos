@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EJHEHFMNOFF.proto";
+
+message EHGJONOCFDE {
+	EJHEHFMNOFF DCJIMBILOGP = 2;
+	uint32 IADFGKJCIDE = 1;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "PIMEINBAJFB.proto";
+
+message GBNFEJHLLJH {
+	repeated uint32 FIDFLABLFMO = 6;
+	repeated PIMEINBAJFB KPNBOHHNKHE = 5;
+	uint32 CJOKFLDEFMB = 7;
+	int32 EJNINFFFKJP = 11;
+}

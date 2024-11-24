@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IKDANDKMINO.proto";
+
+message ANNJKELGKML {
+	repeated IKDANDKMINO CDFLGIIDFEF = 5;
+	bool EDOJGAFAKDA = 4;
+	uint32 NEKECFNAHOM = 14;
+	uint32 MPNJAOCKMAH = 13;
+}

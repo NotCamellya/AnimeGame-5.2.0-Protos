@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+import "NNDLCNDEKFH.proto";
+import "NAKLNGMFLHF.proto";
+import "OFELNADBNKC.proto";
+import "KMHNIKBIOEE.proto";
+
+message PMEONDCIOPO {
+	repeated NNDLCNDEKFH MDKPLBDANEF = 12;
+	repeated NAKLNGMFLHF OPHEJHKGDGJ = 4;
+	repeated uint32 OHLNFPHIEGI = 472;
+	repeated OFELNADBNKC LAEADEAFGKM = 6;
+	repeated OFELNADBNKC MALLFFAJNBM = 3;
+	repeated uint32 DPNELNAFKBD = 952;
+	uint32 HKEGEBJNJJD = 9;
+	uint32 CHPHEAEDCJL = 13;
+	uint64 JELHBKNKNKA = 8;
+	KMHNIKBIOEE IIEILNHPCJI = 5;
+	uint32 JPDBMDLEEEC = 15;
+	uint32 FKLADMOLANA = 10;
+	uint32 FCKGAEOKOID = 7;
+	uint64 PKBJKJEJNAK = 1;
+	uint32 GDNJAMHMAFH = 14;
+	uint32 BEIDDFKNAPE = 2;
+	uint64 NNPGPKKBLIH = 11;
+}

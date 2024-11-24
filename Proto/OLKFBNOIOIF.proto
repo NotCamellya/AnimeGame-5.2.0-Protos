@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "DHDEBBIPIIF.proto";
+import "PODKLCCMDID.proto";
+import "NPPKGKLHLOD.proto";
+import "NLCHENONCBI.proto";
+import "OAAFLEBINLN.proto";
+import "LLPEEGBJOFA.proto";
+import "GDMJGBFBFHP.proto";
+import "GKNMALEJKHN.proto";
+
+message OLKFBNOIOIF {
+	DHDEBBIPIIF CKEHABLGHNN = 15;
+	uint32 MPNJAOCKMAH = 3;
+	PODKLCCMDID fairy_tales_flyppy_hat_info = 1285;
+	NPPKGKLHLOD bird_ball_client_info = 1200;
+	NLCHENONCBI ceremony_doodle_info = 192;
+	OAAFLEBINLN catcafe_info = 875;
+	LLPEEGBJOFA great_festival_v2_sheet_restore_info = 750;
+	GDMJGBFBFHP float_toy_info = 971;
+	GKNMALEJKHN cook_game_info = 1102;
+	uint32 FINAHGLFHAG = 5;
+	bool JCHHJFLDLGA = 2;
+}

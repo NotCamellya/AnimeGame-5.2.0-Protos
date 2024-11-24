@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "COFDGBNBMFE.proto";
+
+message BMIFPGPMFEE {
+	repeated COFDGBNBMFE PNGLALIOCNN = 3;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HPKNPBFCPPD.proto";
+import "HBLKLJKHKOO.proto";
+
+message JKBIKPKNBIE {
+	HPKNPBFCPPD GPGMGLNANIB = 13;
+	map<uint32,HBLKLJKHKOO> DDPFMKJFPAK = 5;
+	bool MPFLDFDOGAI = 11;
+	uint32 NMIKCMLKNDM = 7;
+}

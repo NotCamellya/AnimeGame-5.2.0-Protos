@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IBCBPJIEAAF.proto";
+
+message GGMACIFDEBM {
+	repeated IBCBPJIEAAF HGKBEDPKPNA = 12;
+	bool KEPLHHEHOLE = 13;
+	bool GLKNGDDNOCN = 14;
+	uint32 MPNJAOCKMAH = 11;
+}

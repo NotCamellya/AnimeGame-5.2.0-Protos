@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JMBBABGJLAM.proto";
+
+message CHJGFPKKKNM {
+	JMBBABGJLAM IMIOGMDOKCB = 12;
+	uint32 GKNIKFALMCC = 13;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EINAPLINOFB.proto";
+
+message PIKDLMGGINC {
+	repeated EINAPLINOFB CLKEHKJIINL = 2;
+	bool MPFLDFDOGAI = 13;
+	uint32 HENIIKDCDPK = 15;
+}

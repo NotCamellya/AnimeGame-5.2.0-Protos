@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CFCOOGNBDOP {
+	int32 EJNINFFFKJP = 6;
+	uint32 PIEIMACPKOL = 3;
+}

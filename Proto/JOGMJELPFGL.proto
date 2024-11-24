@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message JOGMJELPFGL {
+	uint32 DNHLMKMLPPB = 15;
+	uint32 KHHINALFLHP = 1;
+	uint32 PENJGIIJFPG = 7;
+	uint32 PDEIHLEKAPJ = 8;
+	bool HCJFDJHILAM = 2;
+	bool CCJPKBGBIIA = 14;
+	uint32 OHDENGDFNDP = 3;
+}

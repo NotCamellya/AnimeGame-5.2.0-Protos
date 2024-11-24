@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KLLNPGCMDBN.proto";
+import "GAIOBFEADPD.proto";
+
+message PLCGIEAONLG {
+	KLLNPGCMDBN NOLBCHIACJI = 9;
+	GAIOBFEADPD ugc_avatar_info = 1055;
+	uint32 GKNIKFALMCC = 10;
+}

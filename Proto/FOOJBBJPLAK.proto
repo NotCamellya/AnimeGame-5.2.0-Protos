@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HBFBKIMOOGD.proto";
+
+message FOOJBBJPLAK {
+	map<uint32,uint32> HGNKFIJPJAA = 15;
+	repeated HBFBKIMOOGD PGEJGJMGGOG = 12;
+	bool DIKJLILLNCC = 8;
+	uint32 HDBFKNJHBOO = 3;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "KLLNPGCMDBN.proto";
+
+message MPNAEDEKKJO {
+	repeated KLLNPGCMDBN DAIGBJEHFFE = 12;
+}

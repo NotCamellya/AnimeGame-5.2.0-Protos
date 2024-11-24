@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "GCAAPKLDDNE.proto";
+
+message JNNMDOJAKNJ {
+	map<uint32,GCAAPKLDDNE> HHPLJCPFNKF = 5;
+	uint32 FFHPDCIBKOD = 12;
+}

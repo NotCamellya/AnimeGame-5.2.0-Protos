@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "ENFMOPIEEMA.proto";
+import "JBJFCEKCLGE.proto";
+import "JAEPBKGEDDL.proto";
+
+message GEEMAADBNJI {
+	uint32 GODOGIJJJIA = 8;
+	bool GLKNGDDNOCN = 10;
+	ENFMOPIEEMA music_info = 13;
+	JBJFCEKCLGE balloon_info = 11;
+	JAEPBKGEDDL fall_info = 3;
+	uint32 IEJPGHNLIDB = 5;
+}

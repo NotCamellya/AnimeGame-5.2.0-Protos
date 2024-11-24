@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DPGCPIMLKLH.proto";
+
+message CAJBOKCILLE {
+	repeated DPGCPIMLKLH DBHOEEGLBBK = 9;
+}

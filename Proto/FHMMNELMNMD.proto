@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "MMGPMBAHFOM.proto";
+
+message FHMMNELMNMD {
+	map<uint32,uint32> KJHMPFCNAEE = 2;
+	repeated uint32 CGGMEDEICFL = 14;
+	uint32 DIGPDMKMGAF = 13;
+	uint32 HBPLLHHBCPD = 10;
+	MMGPMBAHFOM offering_pari_detail_data = 1729;
+	bool KCJGPLKNPCL = 15;
+	bool PFKAFIIAPKN = 7;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "GOOOCKGEEFH.proto";
+
+message LAMEAODOJID {
+	repeated GOOOCKGEEFH DAIGBJEHFFE = 14;
+	uint32 POKHDGJNLMF = 7;
+	uint32 BGHKLCFCJCP = 12;
+	uint32 FMOONPCGHDB = 10;
+}

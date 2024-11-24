@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "HFHJKHOPLMN.proto";
+import "LLCCBEANIFC.proto";
+import "LFJLGOJMKEH.proto";
+
+message HHLNOFACOCA {
+	repeated HFHJKHOPLMN MEIKGBOLDGH = 5;
+	repeated LLCCBEANIFC FAGJDJIGLON = 9;
+	uint32 ABIMANELKOC = 4;
+	LFJLGOJMKEH IMIOGMDOKCB = 11;
+	bool OMENIAMEDCE = 1;
+}

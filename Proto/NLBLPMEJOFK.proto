@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ODFNOHDICEC.proto";
+
+message NLBLPMEJOFK {
+	repeated ODFNOHDICEC LFIJOMFAAGJ = 3;
+	bool KKPIDNFHGCJ = 8;
+	bool LDGNPKGAMFJ = 10;
+	uint32 PFBMHAFNGBM = 2;
+}

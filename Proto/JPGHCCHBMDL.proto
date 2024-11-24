@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JPGHCCHBMDL {
+	bool HCINOCNLHCB = 9;
+	uint32 FNKMGAGEDAH = 7;
+}

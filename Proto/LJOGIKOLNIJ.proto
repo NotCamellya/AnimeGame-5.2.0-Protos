@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LJOGIKOLNIJ {
+	uint32 FINAHGLFHAG = 4;
+	uint32 DNBEFLJLAMB = 6;
+}

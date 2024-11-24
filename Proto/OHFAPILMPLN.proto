@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message OHFAPILMPLN {
+	repeated uint32 GOHAGOHHGLK = 6;
+	uint64 MEJLFKPFPGK = 10;
+	uint32 MCKDBJLDCNF = 8;
+	uint32 AGIDBEEINDE = 4;
+}

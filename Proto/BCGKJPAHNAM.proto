@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ACEKDEBFIMC.proto";
+
+message BCGKJPAHNAM {
+	repeated ACEKDEBFIMC NFMBFOGNCNL = 4;
+}

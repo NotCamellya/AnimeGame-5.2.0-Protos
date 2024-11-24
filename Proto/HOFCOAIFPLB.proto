@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message HOFCOAIFPLB {
+	uint32 CAJPBMIMDNG = 7;
+	bool BNACCMFLPKO = 1;
+	uint32 NMAAPLDBBNI = 8;
+}

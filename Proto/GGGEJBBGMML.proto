@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HPIIMHEOGNI.proto";
+
+message GGGEJBBGMML {
+	HPIIMHEOGNI IMIOGMDOKCB = 2;
+}

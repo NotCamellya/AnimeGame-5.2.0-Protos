@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NBGCKGBPLAL.proto";
+
+message KANGAOCOAOD {
+	NBGCKGBPLAL IENMPNLKPMH = 11;
+	int32 EJNINFFFKJP = 6;
+	uint32 LNBGBLBMADJ = 8;
+}

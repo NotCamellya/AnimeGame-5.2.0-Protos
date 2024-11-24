@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NPJPIOOLOKO.proto";
+
+message FCFJDPGCOMN {
+	repeated NPJPIOOLOKO GNBHBGOILFP = 9;
+	uint32 HNMJKBEPNML = 3;
+	uint32 ANHDIMEGDLN = 2;
+}

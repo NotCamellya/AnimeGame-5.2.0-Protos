@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IKOKLHAICDC {
+	uint32 EHAEACFBOOL = 8;
+}

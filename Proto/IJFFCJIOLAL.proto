@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BPGLMDCKBCP.proto";
+
+message IJFFCJIOLAL {
+	repeated BPGLMDCKBCP CGIELIFMPLC = 7;
+}

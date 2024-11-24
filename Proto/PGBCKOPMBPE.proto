@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PGBCKOPMBPE {
+	bool KAHMIGBKAIO = 10;
+}

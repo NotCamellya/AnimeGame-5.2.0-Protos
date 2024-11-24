@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AMAPMAGFLCB {
+	repeated uint32 GMPNCFJLPAB = 1;
+	uint32 HGGEHLMHKMP = 12;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FIFPJPAGGOD.proto";
+
+message CKJCCHIPMDC {
+	repeated FIFPJPAGGOD PNDPNMBDOKF = 6;
+}

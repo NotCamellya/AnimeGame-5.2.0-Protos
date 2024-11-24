@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IJPADIGMNPH.proto";
+
+message NEDLFHJJONK {
+	IJPADIGMNPH HPOECKEKAFA = 8;
+	uint32 FFOBIONLMOJ = 11;
+	uint32 IGBDOEBPPHO = 15;
+	float CCKJPDCHOBJ = 9;
+	uint32 KLMMAMBHJDM = 12;
+}

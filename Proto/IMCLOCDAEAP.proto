@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IMCLOCDAEAP {
+	uint32 IPDOBHBAHCN = 15;
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "OMBEIFNNEDF.proto";
+import "HJPEIAODCBK.proto";
+import "NLOBHEMPBEM.proto";
+
+message DPDMGOJJJLE {
+	repeated OMBEIFNNEDF KDOJKDMIAOM = 4;
+	repeated HJPEIAODCBK DNGFFHFBBKL = 3;
+	uint32 COJOBIKFHOD = 14;
+	uint32 EOFHLOIMPMK = 1;
+	uint32 OOIPGFEDJMN = 2;
+	uint32 KONANKACIEM = 8;
+	NLOBHEMPBEM IGCFEKLJNMJ = 7;
+	uint32 MBBKAENBCKD = 11;
+	bool MNCDPPBPPFA = 5;
+	uint32 MHJHGIMLHLN = 9;
+}

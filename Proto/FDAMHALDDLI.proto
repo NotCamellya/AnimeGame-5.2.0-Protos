@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "HGMNLAGDFDC.proto";
+import "HFHJKHOPLMN.proto";
+import "PKJMPCPEGGO.proto";
+import "DMAJHDNKEDI.proto";
+
+message FDAMHALDDLI {
+	string EFAJIHMNOBK = 15;
+	HGMNLAGDFDC FGAEINCCKDK = 10;
+	string OMKNBNMEBIK = 1;
+	repeated HFHJKHOPLMN HCEJPKIAJAP = 6;
+	PKJMPCPEGGO IANEBDKAMBM = 12;
+	DMAJHDNKEDI AMLIJKENIIN = 8;
+	bool KNJPPIFOFME = 4;
+	bool OMENIAMEDCE = 11;
+	uint32 EDNALCKIJPG = 14;
+	uint32 DPBDBMIIOMP = 7;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CLEKKNMLMCD.proto";
+
+message CDCIJNCNEEE {
+	repeated CLEKKNMLMCD CCHALMBOFIE = 5;
+	int32 EJNINFFFKJP = 15;
+}

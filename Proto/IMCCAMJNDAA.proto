@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IMCCAMJNDAA {
+	uint32 PMLDNFNNJAM = 2;
+	bool HCJFDJHILAM = 1;
+}

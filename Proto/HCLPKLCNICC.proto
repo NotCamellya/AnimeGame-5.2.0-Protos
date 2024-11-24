@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MLCLBOEKHNE.proto";
+
+message HCLPKLCNICC {
+	MLCLBOEKHNE EILNENALNFD = 11;
+}

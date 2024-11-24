@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LAKOMEBANBF {
+	string DKHHPAJBJIF = 5;
+}

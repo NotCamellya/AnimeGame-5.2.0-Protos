@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ELENLLNEHNE.proto";
+
+message IHIAJBAAEAE {
+	uint32 BLJGCONGPKK = 15;
+	uint32 HMDBGGKHHJL = 10;
+	ELENLLNEHNE AMGMMKEDDMK = 6;
+}

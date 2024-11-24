@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AJPKFJDOKFH.proto";
+
+message OMLHFLOECMD {
+	repeated AJPKFJDOKFH OIKKLPFPKFD = 4;
+	uint32 JDGLALAAHIG = 5;
+	uint32 OPLBKMAKNAG = 15;
+}

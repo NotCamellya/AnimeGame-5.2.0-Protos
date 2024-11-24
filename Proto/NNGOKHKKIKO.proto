@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NBGCKGBPLAL.proto";
+
+message NNGOKHKKIKO {
+	NBGCKGBPLAL IENMPNLKPMH = 1;
+	string HGLNCCJIEAG = 3;
+	bool BGIJEBOFFHH = 5;
+	int32 EJNINFFFKJP = 6;
+	uint32 LNBGBLBMADJ = 2;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "GJDJPCPPHIC.proto";
+import "EFEGIIMAOMI.proto";
+
+message LPOHNNDNOLL {
+	GJDJPCPPHIC EPNDBDPKLEP = 6;
+	EFEGIIMAOMI KPCPNEHCMEJ = 12;
+	uint32 FBFDAKLPEFB = 15;
+	uint32 HMOGLLBDGJM = 10;
+	uint32 MNDHNPJNNGP = 4;
+	uint32 PIEAPGEPMLF = 9;
+}

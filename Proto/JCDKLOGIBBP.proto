@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message JCDKLOGIBBP {
+	uint32 JAMAAKMPHFG = 3;
+	uint32 HIIACIFPNEE = 5;
+	uint32 AGIDBEEINDE = 13;
+}

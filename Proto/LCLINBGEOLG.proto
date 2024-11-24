@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CJNEHMHBAMO.proto";
+
+message LCLINBGEOLG {
+	CJNEHMHBAMO GGBAKEKGLNF = 7;
+	int32 EJNINFFFKJP = 2;
+}

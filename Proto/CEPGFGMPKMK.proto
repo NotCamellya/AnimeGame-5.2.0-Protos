@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message CEPGFGMPKMK {
+	uint32 MPNJAOCKMAH = 6;
+	uint32 HFALECCDFIF = 10;
+	bool GLKNGDDNOCN = 13;
+	uint32 BCIKFEDKCEA = 8;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PLPIOJGLNDB {
+	uint32 AGIDBEEINDE = 4;
+	float HNECOEKKPAC = 9;
+}

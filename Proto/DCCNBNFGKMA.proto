@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IGODKMGOCFI.proto";
+
+message DCCNBNFGKMA {
+	repeated IGODKMGOCFI BAGJBBKNADL = 1;
+}

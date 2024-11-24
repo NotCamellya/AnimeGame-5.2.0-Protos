@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message NBHHIAKNANM {
+	KDEHCGJAGFJ GJEBAJAJPII = 3;
+	uint32 MBBKAENBCKD = 7;
+	uint32 NMAAPLDBBNI = 4;
+	uint32 IEJPGHNLIDB = 12;
+}

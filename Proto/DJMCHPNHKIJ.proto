@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "KLGPDDIJGJM.proto";
+import "JKOBEFDEMME.proto";
+
+message DJMCHPNHKIJ {
+	uint32 DCCCHKBIGHP = 11;
+	uint32 GIJEEFLMJFE = 3;
+	KLGPDDIJGJM IIEILNHPCJI = 1;
+	uint32 NCAFICHELEE = 5;
+	uint32 FIGJPNCNOCJ = 2;
+	JKOBEFDEMME AIDPDNKDDNF = 13;
+	uint32 ILABDGBNJDP = 14;
+}

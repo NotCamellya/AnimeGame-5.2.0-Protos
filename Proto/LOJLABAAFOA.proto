@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JCMLPBAEMDC.proto";
+
+message LOJLABAAFOA {
+	repeated JCMLPBAEMDC CNAJAFLIBED = 14;
+	uint32 EAIPGEMKNPO = 5;
+	bool GLKNGDDNOCN = 6;
+}

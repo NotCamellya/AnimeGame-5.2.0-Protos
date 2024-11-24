@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ABLNMOIECLB.proto";
+
+message APHPNJHGNOL {
+	ABLNMOIECLB INHBOHMOBJD = 5;
+	int32 EJNINFFFKJP = 8;
+}

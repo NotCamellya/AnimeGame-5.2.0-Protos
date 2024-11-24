@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "ANBHHDKCDEN.proto";
+import "JMDIPFDJIAI.proto";
+
+message ECKACOBPKBL {
+	KDEHCGJAGFJ GJEBAJAJPII = 4;
+	ANBHHDKCDEN suite_data = 7;
+	JMDIPFDJIAI npc_data = 6;
+	uint32 PCFIAAJEOIJ = 3;
+	uint32 OEGJAILDLBK = 2;
+	uint32 IEHPOBPFCBP = 1;
+}

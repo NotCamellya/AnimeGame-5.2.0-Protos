@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GLAPLFPDGCN {
+	repeated uint32 NPMPJINGPOF = 12;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HCJGIFNJPPJ.proto";
+import "KDEHCGJAGFJ.proto";
+
+message LGJOKMNCNNK {
+	HCJGIFNJPPJ IBEAKHHNOHB = 9;
+	KDEHCGJAGFJ MFIGIDKAJBD = 1;
+	uint32 OFGJOIOLMPH = 12;
+	uint32 NGIHOKCIBPE = 2;
+}

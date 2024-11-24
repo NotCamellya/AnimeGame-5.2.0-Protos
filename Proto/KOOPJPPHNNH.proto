@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MOBCEMCKPJD.proto";
+
+message KOOPJPPHNNH {
+	MOBCEMCKPJD HCHLHFCGIIO = 8;
+}

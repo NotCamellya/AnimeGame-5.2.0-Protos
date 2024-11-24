@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KCMBIPCNBDP {
+	map<uint32,uint32> PAPPMADOEMA = 2;
+	uint32 FINAHGLFHAG = 14;
+	uint32 DNBEFLJLAMB = 8;
+}

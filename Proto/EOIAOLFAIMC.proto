@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message EOIAOLFAIMC {
+	int32 KAIHCACFCGE = 9;
+	uint32 NOLDHJNLGNN = 5;
+	uint32 PFFFGKNKIEF = 7;
+	uint32 APFGKDDHNFB = 11;
+	uint32 GADEFEPHLIM = 12;
+}

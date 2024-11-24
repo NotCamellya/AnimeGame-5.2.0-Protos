@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BPJBCJMIAPI {
+	uint32 MPNJAOCKMAH = 9;
+	bool FNJEGAACABO = 2;
+}

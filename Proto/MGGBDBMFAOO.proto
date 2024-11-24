@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CGHBPGPBEMP.proto";
+import "MBIMHNFDGHN.proto";
+
+message MGGBDBMFAOO {
+	bytes NFEMCDJECDB = 8;
+	CGHBPGPBEMP OMNBFGPNDKK = 1;
+	MBIMHNFDGHN BELACGKAHLM = 7;
+}

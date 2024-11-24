@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "FGNHPFIDPCB.proto";
+
+message ECGPILDGAKP {
+	FGNHPFIDPCB CHHGPNNNNLP = 8;
+	repeated string OHMKBGAMEIM = 6;
+	string MPPCKLOHOAD = 10;
+	int32 OCJEEEEFPJM = 1;
+	uint32 CEJKBIKGFBO = 9;
+	uint32 LKNPJAHAILB = 7;
+	int32 AEGNLDMDKJL = 4;
+	int32 NIMMILCCDOO = 14;
+}

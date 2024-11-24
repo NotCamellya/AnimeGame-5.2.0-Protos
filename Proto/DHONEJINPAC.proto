@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DHONEJINPAC {
+	uint32 DDKFGHONPDC = 10;
+	uint32 MDMMNLEEMDF = 5;
+}

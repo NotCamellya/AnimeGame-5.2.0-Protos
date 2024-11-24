@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message IMCLKILFINE {
+	repeated float AGHNEJINBFJ = 7;
+	repeated uint32 FHCNHPKKONG = 1;
+	repeated string KKPEPKJACEF = 6;
+	uint32 NMAHOMOGPHC = 2;
+	int32 IADFGKJCIDE = 12;
+}

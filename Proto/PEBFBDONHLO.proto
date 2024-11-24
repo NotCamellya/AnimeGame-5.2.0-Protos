@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NFONHFAMDNE.proto";
+
+message PEBFBDONHLO {
+	repeated NFONHFAMDNE ANCFLFIPDEI = 3;
+	repeated uint32 JHLBPPFGGPG = 9;
+}

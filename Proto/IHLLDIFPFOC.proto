@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LIOFFOGFCGC.proto";
+
+message IHLLDIFPFOC {
+	LIOFFOGFCGC KEHKBEPDNBD = 7;
+}

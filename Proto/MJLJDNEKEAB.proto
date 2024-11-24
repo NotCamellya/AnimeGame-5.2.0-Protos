@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JPMFMBPMDFN.proto";
+
+message MJLJDNEKEAB {
+	repeated JPMFMBPMDFN KBGDFDEEMJI = 11;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CGAIDECBEHG {
+	uint32 LABIGNDNLMA = 10;
+	uint32 FMBKCABLALG = 13;
+}

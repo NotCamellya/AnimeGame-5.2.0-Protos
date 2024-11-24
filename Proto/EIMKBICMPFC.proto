@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "AJKILGIEHIM.proto";
+
+message EIMKBICMPFC {
+	AJKILGIEHIM FGAEINCCKDK = 13;
+}

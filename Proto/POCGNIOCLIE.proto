@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message POCGNIOCLIE {
+	repeated uint32 JAHPPELNEDF = 8;
+}

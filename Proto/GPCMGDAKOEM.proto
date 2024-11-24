@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PBKKCEOCHEB.proto";
+
+message GPCMGDAKOEM {
+	PBKKCEOCHEB MCJCFHAIJAJ = 11;
+	uint32 IGBDOEBPPHO = 9;
+}

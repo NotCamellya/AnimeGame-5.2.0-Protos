@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PLIELHLGADJ.proto";
+
+message LCFPCBJAFDD {
+	repeated PLIELHLGADJ OCLMGGOLIEE = 3;
+	int32 EJNINFFFKJP = 14;
+}

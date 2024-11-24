@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EKBDEHFIAHF.proto";
+
+message MBNFMJMGDMN {
+	EKBDEHFIAHF NGANCEICGHC = 5;
+	uint32 FFHPDCIBKOD = 11;
+	bool OMENIAMEDCE = 3;
+	uint32 EAIPGEMKNPO = 14;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "DJCGMLCFKLC.proto";
+import "DGBLPHDFCBI.proto";
+import "JKLPNOGHIOI.proto";
+
+message AEMBKBPMAPB {
+	repeated DJCGMLCFKLC DCLKHFDNIFN = 9;
+	repeated uint32 DMBCGDCNJJP = 14;
+	repeated DGBLPHDFCBI KCKEPCMLIHI = 6;
+	repeated JKLPNOGHIOI CKICLLDGHGH = 3;
+	uint32 KFPHMNGHBFG = 8;
+}

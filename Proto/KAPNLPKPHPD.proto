@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KAPNLPKPHPD {
+	map<uint32,uint32> BMANEJIIMAH = 13;
+	bool DDHIPEJAMBC = 3;
+}

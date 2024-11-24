@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CBMCENPMIHI.proto";
+
+message CLCEGDJOFCG {
+	repeated CBMCENPMIHI MKIFGEHEBLD = 7;
+	uint32 DBFGJNBBDKC = 6;
+}

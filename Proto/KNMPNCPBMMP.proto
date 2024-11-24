@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "BHNJIKABAOK.proto";
+import "HNNAAANKING.proto";
+import "IJFNLMOGGLK.proto";
+import "BCBDFLGIOCC.proto";
+
+message KNMPNCPBMMP {
+	repeated BHNJIKABAOK NMMHPMHIAPF = 2;
+	repeated HNNAAANKING FFDIPJHIPCK = 4;
+	repeated IJFNLMOGGLK MCIPDHGDFKO = 3;
+	repeated BHNJIKABAOK MHBJPOKCIBB = 6;
+	repeated BCBDFLGIOCC NAJAGAKHGKN = 5;
+	bool MJBNBFEDDHA = 1;
+}

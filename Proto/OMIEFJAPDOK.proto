@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OMIEFJAPDOK {
+	uint32 MPNJAOCKMAH = 11;
+	int32 EJNINFFFKJP = 4;
+}

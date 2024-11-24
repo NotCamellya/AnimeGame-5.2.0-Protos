@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "KKPAPMIGEMC.proto";
+import "MMCBEAHGJCF.proto";
+import "OBCOHDLAJPE.proto";
+
+message HHMHOHIIJBB {
+	uint64 IEHPOBPFCBP = 2;
+	uint32 BGIPNJAMKGM = 1;
+	KKPAPMIGEMC material = 5;
+	MMCBEAHGJCF equip = 6;
+	OBCOHDLAJPE furniture = 7;
+}

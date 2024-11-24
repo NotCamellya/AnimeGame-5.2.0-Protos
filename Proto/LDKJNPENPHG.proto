@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "EPLPHILHOHE.proto";
+import "MBIMHNFDGHN.proto";
+import "FJKNAAMGEMM.proto";
+
+message LDKJNPENPHG {
+	bytes FABFBKDGMJK = 15;
+	EPLPHILHOHE KFJEADMAPLK = 4;
+	bool LDKIINLHCOP = 6;
+	uint32 AGIDBEEINDE = 11;
+	MBIMHNFDGHN BELACGKAHLM = 9;
+	uint32 JPHBOKDMDAH = 13;
+	double DNOPMABMHMG = 10;
+	FJKNAAMGEMM OMNBFGPNDKK = 7;
+	uint32 HNOGKEHFLHE = 8;
+}

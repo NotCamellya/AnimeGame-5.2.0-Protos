@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "MBIMHNFDGHN.proto";
+
+message PCOKOFAOEMG {
+	KDEHCGJAGFJ APKGNHGDGHI = 8;
+	uint32 AGIDBEEINDE = 7;
+	bool OHPNCFDIKHP = 14;
+	MBIMHNFDGHN BELACGKAHLM = 4;
+}

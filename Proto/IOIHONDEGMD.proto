@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IOIHONDEGMD {
+	repeated uint32 MJAONINHIIB = 4;
+}

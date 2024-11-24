@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message PKGOCLIMOIG {
+	KDEHCGJAGFJ GJEBAJAJPII = 5;
+	KDEHCGJAGFJ FGFLJIAEMLJ = 14;
+	uint32 FMOIOMLDAJK = 9;
+	uint32 IEHPOBPFCBP = 13;
+}

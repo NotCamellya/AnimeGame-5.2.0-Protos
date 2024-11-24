@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JNAJJANDBMO.proto";
+
+message DDAPMCMNFCD {
+	repeated JNAJJANDBMO GFGMLCFFLKH = 11;
+	uint32 MEEHJDOECOA = 10;
+}

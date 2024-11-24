@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ADIKNILEFLB {
+	uint32 FHCPCKFNJAL = 15;
+	uint32 BDNKLFDGOHK = 9;
+	int32 EJNINFFFKJP = 14;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MKNEAMDHFFN.proto";
+
+message OMLBDBLBAKK {
+	repeated uint32 OCAFMMJENEC = 12;
+	repeated uint32 FEPDFDJHLHP = 9;
+	repeated MKNEAMDHFFN IBOFHCJMFNI = 11;
+	repeated MKNEAMDHFFN EHKDKEMONBL = 14;
+	bool BMFAADBOCFN = 15;
+}

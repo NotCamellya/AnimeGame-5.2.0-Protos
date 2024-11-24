@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OLNCPFJIEKM.proto";
+import "JICKPPDLOHC.proto";
+
+message KJGAENHLKHP {
+	OLNCPFJIEKM AKGOOIIBCOM = 10;
+	repeated JICKPPDLOHC JGIEAJJBPNC = 2;
+	repeated JICKPPDLOHC JHCGPLJOIFF = 12;
+}

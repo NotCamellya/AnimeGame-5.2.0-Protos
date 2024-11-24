@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CJEIMOKENAM {
+	uint32 MIGIIDPMKPA = 5;
+	uint32 CDBFPFOJBIJ = 9;
+}

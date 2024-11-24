@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message ELCKHDLPECB {
+	int32 EJNINFFFKJP = 13;
+	bool HNIEFKIAINN = 14;
+	uint32 PJABEFAJBGB = 2;
+	int32 ICOCKDAOCMG = 1;
+}

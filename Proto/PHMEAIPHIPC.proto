@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HDNFCEMGFOJ.proto";
+
+message PHMEAIPHIPC {
+	map<uint32,HDNFCEMGFOJ> GLJHMDNLJEH = 4;
+}

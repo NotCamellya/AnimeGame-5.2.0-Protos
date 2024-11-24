@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CKBMKLICBBO.proto";
+import "LFJLGOJMKEH.proto";
+
+message NGHMBEGKCBF {
+	CKBMKLICBBO GEKBOLFIBNK = 14;
+	uint32 FFHPDCIBKOD = 11;
+	LFJLGOJMKEH IMIOGMDOKCB = 6;
+}

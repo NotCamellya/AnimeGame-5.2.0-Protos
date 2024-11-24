@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LCPDOPFDNDG.proto";
+
+message PCBHODHCAIJ {
+	repeated LCPDOPFDNDG LCONAHLDEJJ = 12;
+	uint32 NIALFJMGPPH = 4;
+}

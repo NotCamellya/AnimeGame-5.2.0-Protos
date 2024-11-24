@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "GJDJPCPPHIC.proto";
+import "DCDCNNPIFFK.proto";
+
+message BNHINMJLDMK {
+	GJDJPCPPHIC EPNDBDPKLEP = 14;
+	DCDCNNPIFFK FBFDAKLPEFB = 9;
+	int32 EJNINFFFKJP = 12;
+}

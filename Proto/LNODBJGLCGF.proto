@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EMEKKIANDLE.proto";
+import "FDNFFENOFKF.proto";
+
+message LNODBJGLCGF {
+	uint32 KNGBDMDCNHK = 3;
+	EMEKKIANDLE location_info = 1436;
+	FDNFFENOFKF widget_creator_info = 694;
+}

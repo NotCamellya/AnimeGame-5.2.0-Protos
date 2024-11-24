@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "OKAEHFFLKAD.proto";
+import "IHCBFIBHGLH.proto";
+import "NBECPCOEJPD.proto";
+import "GDJEFKJACLF.proto";
+import "HHIDCMMAJML.proto";
+
+message IFKCEJJGLEF {
+	repeated OKAEHFFLKAD EGMHBNDHMJJ = 10;
+	repeated IHCBFIBHGLH CMIKEIIIEFI = 5;
+	repeated NBECPCOEJPD FJHPCMEFMBK = 8;
+	repeated GDJEFKJACLF IBADBFDEOEO = 12;
+	repeated HHIDCMMAJML IDLIMHKCFOJ = 14;
+	uint32 OOIPGFEDJMN = 4;
+	uint32 LKLEMLFNADN = 9;
+}

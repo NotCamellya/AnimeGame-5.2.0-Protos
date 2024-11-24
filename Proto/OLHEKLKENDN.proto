@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "PKJMPCPEGGO.proto";
+import "NFONHFAMDNE.proto";
+import "OLAHJGDBFJL.proto";
+
+message OLHEKLKENDN {
+	string MHPFNLKCFOM = 13;
+	string LBKDGOEFEBC = 14;
+	PKJMPCPEGGO IANEBDKAMBM = 12;
+	string EFAJIHMNOBK = 8;
+	string IJLHLCLLENE = 15;
+	repeated uint32 IEGPHPCNOBK = 10;
+	string DKHHPAJBJIF = 11;
+	string OMKNBNMEBIK = 2;
+	NFONHFAMDNE AJCGKKPCCGD = 16;
+	uint32 LCJPDLJBPKE = 3;
+	uint32 NMHGLBOKGDE = 6;
+	uint32 HDBFKNJHBOO = 7;
+	OLAHJGDBFJL AMHJEOMFEOL = 5;
+	uint32 NCCPPHNNPBF = 1;
+	uint32 MKHENDMFLMF = 9;
+	uint32 DEHADAMGGJP = 4;
+}

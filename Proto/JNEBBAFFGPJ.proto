@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import "AINOMEBMCND.proto";
+import "JOECMEMNPFA.proto";
+import "JIIEFLHJODE.proto";
+import "AABBEIIFPED.proto";
+import "DDLCCIFIIMC.proto";
+import "KHFHHGCMAKK.proto";
+import "FGFCBNJMMIA.proto";
+import "BEOBMOMNCMK.proto";
+import "JICMPNOJHLI.proto";
+import "FOGEJOFFJPP.proto";
+import "AFMDLHNNBEL.proto";
+
+message JNEBBAFFGPJ {
+	AINOMEBMCND op_attack = 5;
+	JOECMEMNPFA op_reroll = 6;
+	JIIEFLHJODE op_select_on_stage = 2;
+	AABBEIIFPED op_redraw = 1;
+	DDLCCIFIIMC op_discover = 9;
+	KHFHHGCMAKK op_reboot = 13;
+	FGFCBNJMMIA op_surrender = 3;
+	BEOBMOMNCMK op_play_card = 4;
+	JICMPNOJHLI op_vehicle = 14;
+	FOGEJOFFJPP op_change_character_index = 15;
+	AFMDLHNNBEL op_pass = 11;
+}

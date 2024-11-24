@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HMBAAELEMJD {
+	repeated uint32 PAKJGMCBADF = 2;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HDCFBPPBPLF.proto";
+
+message LKNMMGECLJM {
+	repeated HDCFBPPBPLF FONPAMNBBGB = 12;
+	uint32 EAIPGEMKNPO = 6;
+	bool GLKNGDDNOCN = 8;
+	bool BDCBLNLCAGE = 15;
+	uint32 MKCGMMGANLK = 10;
+}

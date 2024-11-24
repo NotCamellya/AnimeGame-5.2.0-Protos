@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BPOBBMNGMDL.proto";
+
+message EPIOIPNOKOC {
+	BPOBBMNGMDL IADFGKJCIDE = 14;
+}

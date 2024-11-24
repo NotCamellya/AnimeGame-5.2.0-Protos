@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EOCGCFPPLOE.proto";
+
+message FKJOHKKAOPO {
+	repeated EOCGCFPPLOE EMLFLNAKIAI = 3;
+	uint32 PGADBOLPFFA = 2;
+	uint32 MBBKAENBCKD = 1;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "NHNLJIBHPMJ.proto";
+import "KHJMIKAAFHB.proto";
+
+message CLFNCMGFGPC {
+	NHNLJIBHPMJ AMOLHEFINEK = 7;
+	KHJMIKAAFHB MEHKOPGFFHM = 9;
+	bool HPFCCAFCHDH = 14;
+}

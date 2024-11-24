@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FPOEAODOHGO.proto";
+
+message BPHPDCCAEGC {
+	FPOEAODOHGO NGANCEICGHC = 2;
+	bool OMENIAMEDCE = 12;
+}

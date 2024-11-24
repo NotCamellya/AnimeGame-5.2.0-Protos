@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BBLGHLDONID.proto";
+
+message MIFIKPOHMNG {
+	repeated BBLGHLDONID NKKCADBJEDL = 2;
+	uint32 MPNJAOCKMAH = 8;
+}

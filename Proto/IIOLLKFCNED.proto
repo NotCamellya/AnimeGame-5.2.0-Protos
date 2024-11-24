@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NDMDBGOJBGO.proto";
+
+message IIOLLKFCNED {
+	repeated NDMDBGOJBGO OOCHMLBHNFH = 15;
+	map<uint32,uint32> FOLOMOBDODM = 4;
+	repeated uint32 HFGHIMOABBE = 9;
+	map<uint32,uint32> KJOGIDLLODK = 1;
+	uint32 FMMAKJKIIDN = 5;
+	uint32 JINLIBHHLND = 14;
+}

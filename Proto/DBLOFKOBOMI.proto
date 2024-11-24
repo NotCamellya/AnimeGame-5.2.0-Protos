@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DBLOFKOBOMI {
+	uint32 FMECBHLLNON = 8;
+}

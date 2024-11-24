@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CNHLJKCJAHB.proto";
+import "LJJFJILBNLL.proto";
+
+message JGLNLBMPBKN {
+	CNHLJKCJAHB KFEDMCEKGMK = 4;
+	LJJFJILBNLL ICCHDGKMNLF = 2;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message EKIJBCDEBID {
+	repeated uint32 DKHNHHNDAJP = 7;
+	uint32 ELGGEBDBPIJ = 14;
+	uint32 AEINJFAPKNJ = 8;
+	uint32 EPCCCHCGDAO = 6;
+	bool PMJLLLFOPHK = 9;
+	bool BNACCMFLPKO = 3;
+	bool BDBNKNGIJLP = 15;
+	uint32 MPNJAOCKMAH = 13;
+}

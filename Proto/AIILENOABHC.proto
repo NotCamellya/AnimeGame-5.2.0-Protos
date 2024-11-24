@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OLNCPFJIEKM.proto";
+
+message AIILENOABHC {
+	repeated OLNCPFJIEKM HBOICHGIEOM = 10;
+}

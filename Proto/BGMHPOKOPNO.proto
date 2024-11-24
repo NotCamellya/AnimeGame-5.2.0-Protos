@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EJLNBCBFOGL.proto";
+import "OJNEPIECHHJ.proto";
+
+message BGMHPOKOPNO {
+	repeated EJLNBCBFOGL CNBKDMINMHD = 5;
+	uint32 FCPANCMAOIE = 8;
+	OJNEPIECHHJ NDHKABFFJPK = 9;
+}

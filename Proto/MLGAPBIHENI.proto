@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IBFDCGEOEIE.proto";
+
+message MLGAPBIHENI {
+	repeated IBFDCGEOEIE IKMDADCOPEG = 14;
+}

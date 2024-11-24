@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message GCLBPIPLGMN {
+	repeated uint32 GMPNCFJLPAB = 3;
+	uint32 HGGEHLMHKMP = 9;
+	bool BEJELDKADFI = 4;
+	bool FENMLNKGLIB = 8;
+}

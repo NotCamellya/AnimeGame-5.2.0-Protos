@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message JCENDLAGHDM {
+	uint32 FAGPPHACNBJ = 1;
+	uint32 BIHJKCGJFML = 3;
+	uint32 MDMEDLNOEDP = 13;
+	uint32 HBPLLHHBCPD = 14;
+}

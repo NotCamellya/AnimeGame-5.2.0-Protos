@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JDBKONEMPDD.proto";
+
+message CHMHOPFKEFA {
+	JDBKONEMPDD BILNGNBNJNG = 11;
+}

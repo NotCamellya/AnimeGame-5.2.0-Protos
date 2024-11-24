@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OCHLDOALKIH {
+	uint32 LPGIHLIAIPL = 5;
+}

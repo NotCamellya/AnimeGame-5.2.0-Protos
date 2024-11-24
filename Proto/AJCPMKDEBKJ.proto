@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "KBAIOMIOCCP.proto";
+
+message AJCPMKDEBKJ {
+	KBAIOMIOCCP JMLABOBCLDE = 13;
+	uint32 OOIPGFEDJMN = 3;
+	uint32 ABEAIBHKCJN = 6;
+	uint32 EPFCIDIKLKG = 11;
+	uint32 DAJHKHFLNDJ = 9;
+	uint32 IONHGHGAJGG = 14;
+	uint32 IEAMGPOJOGL = 15;
+}

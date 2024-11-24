@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message BCANLFFGNIC {
+	uint32 FFFFPJENPAN = 2;
+	uint32 CDIADKCFHBJ = 10;
+	uint32 OFNMJNCBNHK = 7;
+	bool PJJDJMGPNLE = 4;
+	uint32 BLGIMGOJMHF = 9;
+	uint32 MPNJAOCKMAH = 12;
+}

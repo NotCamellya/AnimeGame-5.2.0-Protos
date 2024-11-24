@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DCCLAPPMFCB {
+	repeated uint32 DCMMNMAHACO = 14;
+}

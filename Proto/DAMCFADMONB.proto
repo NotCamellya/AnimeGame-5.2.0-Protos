@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message DAMCFADMONB {
+	KDEHCGJAGFJ FGAFONOJIPA = 4;
+	int32 IGGNFMPHEFO = 10;
+	int32 EJNINFFFKJP = 14;
+	uint32 AGIDBEEINDE = 3;
+	uint64 IADKLAAGLMB = 6;
+}

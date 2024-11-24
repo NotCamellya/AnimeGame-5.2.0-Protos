@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GFIPMCHLNMK {
+	bool MOAELIBPHOI = 9;
+	uint32 FNKMGAGEDAH = 4;
+}

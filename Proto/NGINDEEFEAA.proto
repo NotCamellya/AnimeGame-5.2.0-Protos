@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KIBLANEDMOA.proto";
+import "NCGPMHOIHHL.proto";
+
+message NGINDEEFEAA {
+	repeated KIBLANEDMOA KABODNMEGEK = 1;
+	NCGPMHOIHHL OKKJCBOJAOD = 2;
+	uint32 HKEGEBJNJJD = 5;
+}

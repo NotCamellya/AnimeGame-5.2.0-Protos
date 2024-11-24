@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FDAMHALDDLI.proto";
+
+message MFBGDFCDJEP {
+	repeated FDAMHALDDLI FAGJDJIGLON = 7;
+	bool HCJFDJHILAM = 5;
+	bool PDJEEAMMKJD = 9;
+	uint32 MPNJAOCKMAH = 14;
+}

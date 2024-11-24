@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BGDCPBEGANK.proto";
+
+message JLMIJCEGCOB {
+	repeated BGDCPBEGANK NEFMGJIDAAK = 5;
+	uint32 MPNJAOCKMAH = 15;
+	uint32 LDIILMAHHNG = 7;
+}

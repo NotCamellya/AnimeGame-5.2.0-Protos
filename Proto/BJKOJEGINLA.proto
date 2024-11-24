@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JHOBGFMHENI.proto";
+
+message BJKOJEGINLA {
+	JHOBGFMHENI JJBENLMIFBF = 7;
+	uint32 MPNJAOCKMAH = 3;
+	uint32 BODIEJCLGMB = 14;
+	bool OMENIAMEDCE = 6;
+	uint32 JMEHMGCPFBO = 5;
+}

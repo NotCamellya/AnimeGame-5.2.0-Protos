@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EALKFDEADIC.proto";
+
+message HHOFHEPBLGL {
+	repeated EALKFDEADIC EFCDELGMMKG = 7;
+	uint32 EAIPGEMKNPO = 9;
+	uint32 BODIEJCLGMB = 8;
+}

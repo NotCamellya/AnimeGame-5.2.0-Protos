@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AJDIODOFMCF {
+	uint32 MPNJAOCKMAH = 5;
+	uint32 PAMJCGBNOFE = 14;
+}

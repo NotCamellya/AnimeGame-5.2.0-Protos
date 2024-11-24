@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+import "HGNIDAGEJPM.proto";
+
+message FJNNPEMJKPK {
+	repeated HGNIDAGEJPM HEMINFGMGIP = 10;
+	uint32 DODIBLNPNEH = 13;
+	uint32 FJPDHPEABNL = 3;
+	uint32 PABJJAEKNFD = 1;
+	uint32 PPBIKOAEOHD = 5;
+	uint32 JMEHMGCPFBO = 15;
+	bool HMLCBLDFIJE = 8;
+	bool IEMKAEEGIMB = 11;
+	uint32 FBFDAKLPEFB = 14;
+	bool NOAEEIIBCGN = 6;
+	bool FKIIEKKOKFF = 4;
+	bool MCCGABFJPBP = 12;
+	bool ODCGIEDJAOJ = 2;
+}

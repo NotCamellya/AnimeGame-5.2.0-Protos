@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "BODFNFIDFOD.proto";
+import "BGPAHBMKBAG.proto";
+
+message FMPAGIFCMLJ {
+	BODFNFIDFOD NPMIAGMNMAN = 10;
+	BODFNFIDFOD ICFGKPFAFND = 1;
+	repeated uint32 MJAONINHIIB = 8;
+	repeated BGPAHBMKBAG IFIPFMLJPGC = 14;
+}

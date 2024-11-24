@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IDODJEOKCPO.proto";
+
+message HDOJJMMNLIC {
+	repeated IDODJEOKCPO PMJGJNILMBP = 6;
+	uint32 EAIPGEMKNPO = 4;
+	bool AKCLJOALODI = 15;
+	uint32 BODIEJCLGMB = 12;
+	uint32 MPNJAOCKMAH = 8;
+}

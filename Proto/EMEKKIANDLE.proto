@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message EMEKKIANDLE {
+	KDEHCGJAGFJ FGFLJIAEMLJ = 3;
+	KDEHCGJAGFJ GJEBAJAJPII = 14;
+}

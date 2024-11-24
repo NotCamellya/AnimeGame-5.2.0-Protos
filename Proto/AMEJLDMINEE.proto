@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "GDMLPOEDPJO.proto";
+import "HOFCOAIFPLB.proto";
+
+message AMEJLDMINEE {
+	repeated GDMLPOEDPJO PJEEOONMMDK = 14;
+	map<uint32,HOFCOAIFPLB> CPIEAINBKDH = 8;
+	repeated GDMLPOEDPJO CJGOFEODNAH = 4;
+}

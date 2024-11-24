@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LJAFOAOODOB.proto";
+
+message DIAHEANGMGN {
+	LJAFOAOODOB ACHEPMKCKLH = 1;
+	int32 EJNINFFFKJP = 5;
+}

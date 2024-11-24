@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KGKEMBOICOD {
+	uint32 FINAHGLFHAG = 7;
+	uint32 EAIPGEMKNPO = 13;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BCANLFFGNIC.proto";
+
+message GDNJJLCIICA {
+	repeated BCANLFFGNIC GEIAGFPMLOF = 5;
+}

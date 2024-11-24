@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CEGMHFPBAJJ.proto";
+
+message PFOKCBIEKGI {
+	repeated CEGMHFPBAJJ JIHICAOEHOL = 5;
+}

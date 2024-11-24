@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KNPKGPHANDB.proto";
+
+message NOHOKLHHNKD {
+	repeated KNPKGPHANDB DOPJDKEDCBN = 11;
+	int32 HBPLLHHBCPD = 3;
+}

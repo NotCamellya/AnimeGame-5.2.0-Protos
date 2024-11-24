@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "ICIKKBECHFO.proto";
+
+message CIMCNLAOGOC {
+	repeated ICIKKBECHFO DNKLCNCGMKB = 11;
+	uint32 BGIPNJAMKGM = 15;
+	uint32 IELOACIJMLI = 4;
+	uint32 PONLPMHONBA = 10;
+	bool MDEPHHNKPOC = 9;
+	uint32 DEHADAMGGJP = 8;
+	uint32 IMIOGMDOKCB = 13;
+}

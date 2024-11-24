@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CCCCHPGCJKP.proto";
+
+message OFJFLIGBKJD {
+	CCCCHPGCJKP NGANCEICGHC = 4;
+	bool OMENIAMEDCE = 13;
+	uint32 LHMDBBFAIFM = 12;
+	uint32 FFHPDCIBKOD = 11;
+}

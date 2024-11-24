@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FLDLCEBINNB {
+	repeated uint32 MCICEHMKGMG = 3;
+}

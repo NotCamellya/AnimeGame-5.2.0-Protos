@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DPDMGOJJJLE.proto";
+
+message DNDFBKBCPKE {
+	repeated uint32 JHIOHAJFMGE = 8;
+	repeated uint32 OPAAEJNKKEL = 5;
+	repeated DPDMGOJJJLE MOEKHDPGIHJ = 3;
+	int32 EJNINFFFKJP = 10;
+}

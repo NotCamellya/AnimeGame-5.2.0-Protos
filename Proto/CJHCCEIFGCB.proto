@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BFFALDPOKFE.proto";
+
+message CJHCCEIFGCB {
+	repeated BFFALDPOKFE PMJGJNILMBP = 11;
+	uint32 BODIEJCLGMB = 8;
+	uint32 EAIPGEMKNPO = 2;
+}

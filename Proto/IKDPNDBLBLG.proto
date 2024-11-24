@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LDKJNPENPHG.proto";
+
+message IKDPNDBLBLG {
+	repeated LDKJNPENPHG JJBLBLMDPHC = 15;
+	uint32 AGIDBEEINDE = 4;
+}

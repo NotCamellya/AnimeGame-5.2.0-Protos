@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FDOCKHOIOBJ.proto";
+
+message PEOMGJEHONE {
+	repeated FDOCKHOIOBJ GJIHLNAEGGD = 13;
+}

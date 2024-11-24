@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "GFFIOKDNCLP.proto";
+
+message GFAGPBKLLMF {
+	repeated int32 DLCDFKIOBCL = 4;
+	repeated int32 ACPHEGPGPOH = 5;
+	repeated GFFIOKDNCLP GJDPCOOMAJK = 14;
+	repeated int32 FELNDGJJJIF = 3;
+	uint32 IGBDOEBPPHO = 15;
+}

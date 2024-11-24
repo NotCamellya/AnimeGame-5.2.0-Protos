@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "IJGINKJGDPD.proto";
+
+message AGBBNBILDNK {
+	IJGINKJGDPD CPMHMDJDEDB = 15;
+}

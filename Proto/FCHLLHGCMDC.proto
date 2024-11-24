@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NEOALIIGKHO.proto";
+
+message FCHLLHGCMDC {
+	repeated NEOALIIGKHO BENGMPAKAMD = 1;
+	float HNECOEKKPAC = 3;
+	uint32 DFKGPHPNHCN = 6;
+	uint32 CPBNNCIFKDF = 2;
+	float KDBLFALMNEH = 5;
+	uint32 GFPEPGGLPCM = 4;
+}

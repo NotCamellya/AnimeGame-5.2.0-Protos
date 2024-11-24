@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "OLHEKLKENDN.proto";
+
+message MINGHCPOBNG {
+	OLHEKLKENDN FGAEINCCKDK = 3;
+	map<uint32,uint32> JIANNPFIHHB = 14;
+	uint32 NCCPPHNNPBF = 8;
+	uint32 HJJFOKHFNKO = 6;
+	uint32 FJAMCDJDJOA = 9;
+	uint32 LGFKALAMILP = 2;
+}

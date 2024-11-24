@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BLCAMCEPBKB {
+	uint32 OEENIKOABOD = 11;
+}

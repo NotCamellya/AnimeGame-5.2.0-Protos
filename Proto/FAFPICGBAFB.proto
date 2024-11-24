@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FAFPICGBAFB {
+	repeated uint32 NJBFJIDBEPH = 1;
+}

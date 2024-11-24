@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JPMIAEMAIAO {
+	uint32 CMDBCGAECDP = 13;
+	uint32 AADKGLAKICJ = 15;
+}

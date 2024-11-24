@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HDPFODICAAN.proto";
+import "CLINDENDFKL.proto";
+import "NFILMAGDNGJ.proto";
+
+message ABLLEIKOKBN {
+	HDPFODICAAN KGKEDKPMDPL = 6;
+	CLINDENDFKL ADOFOOABKFO = 10;
+	NFILMAGDNGJ DLHGOHEKHJH = 3;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message CJGPOAMEDNG {
+	uint32 HFALECCDFIF = 5;
+	bool BDCBLNLCAGE = 4;
+	uint32 MPNJAOCKMAH = 3;
+}

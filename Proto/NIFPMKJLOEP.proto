@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HKPGNGDDOCL.proto";
+import "OMBEIFNNEDF.proto";
+import "LJCNGNGDGPH.proto";
+
+message NIFPMKJLOEP {
+	HKPGNGDDOCL EAKIHPFACDD = 15;
+	repeated OMBEIFNNEDF AGCILNPMBLB = 2;
+	LJCNGNGDGPH KOCMCNGDDJG = 4;
+	LJCNGNGDGPH OLDJACGPADP = 8;
+}

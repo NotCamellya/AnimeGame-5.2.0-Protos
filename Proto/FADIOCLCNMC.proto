@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FADIOCLCNMC {
+	uint32 HOEJAHKAJBO = 7;
+	uint32 AAHIPCACEHN = 15;
+}

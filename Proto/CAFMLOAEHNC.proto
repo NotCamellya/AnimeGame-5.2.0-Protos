@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MACLKMPJDCG.proto";
+
+message CAFMLOAEHNC {
+	MACLKMPJDCG MLOPMGGDDMN = 1;
+	uint32 HECLKJBBNCM = 2;
+}

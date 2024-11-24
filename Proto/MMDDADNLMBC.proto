@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MMDDADNLMBC {
+	uint32 COLMKMKEJPM = 14;
+	bool KODNAAGLJDL = 11;
+}

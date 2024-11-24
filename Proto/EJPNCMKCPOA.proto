@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EJPNCMKCPOA {
+	uint32 LLADMBNFOAM = 11;
+}

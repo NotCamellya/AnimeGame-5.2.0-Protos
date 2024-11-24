@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EJHEHFMNOFF.proto";
+
+message ALDCINBILLA {
+	map<uint32,EJHEHFMNOFF> DNGAMNKCAFE = 12;
+	string MPMEJIBKJEO = 11;
+	uint64 KAEAGNPBPJI = 5;
+	uint32 HHOGHBECPNP = 10;
+	bool NCCEBBMHOFF = 3;
+}

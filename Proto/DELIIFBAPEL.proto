@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum DELIIFBAPEL {
+	DELIIFBAPEL_NONE = 0;
+	DELIIFBAPEL_PACK = 1;
+	DELIIFBAPEL_PLANT = 2;
+}

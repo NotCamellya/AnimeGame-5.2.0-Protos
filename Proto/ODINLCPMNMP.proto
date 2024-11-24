@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ODINLCPMNMP {
+	uint32 ODCMKOFFKKL = 9;
+}

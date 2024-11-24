@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GEKGFIDANLE {
+	uint32 HIDFJNFMEDK = 2;
+}

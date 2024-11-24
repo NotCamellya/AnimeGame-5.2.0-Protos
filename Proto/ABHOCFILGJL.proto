@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "EMEAJKNIEFA.proto";
+
+message ABHOCFILGJL {
+	map<uint64,uint32> IPFOIMLFPIK = 13;
+	map<uint64,uint32> CDJJOHNDCHN = 10;
+	repeated uint32 ECCKEBKEIOG = 11;
+	repeated EMEAJKNIEFA MGMGOLJINMN = 2;
+	uint64 NGHBFMBJGCL = 8;
+	uint32 KKLADHFCBFJ = 15;
+	uint32 AIPKCNHFDFN = 5;
+	uint32 BEGLAPFGFAF = 6;
+	uint64 PNNMIHFHFNK = 9;
+	uint32 NMGAMKNNOJD = 7;
+	uint32 GPCDKNKNMNL = 1;
+}

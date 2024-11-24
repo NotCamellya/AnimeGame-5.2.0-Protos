@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum EPHALEJPIKM {
+	EPHALEJPIKM_NONE = 0;
+	EPHALEJPIKM_SUCC = 1;
+	EPHALEJPIKM_FAIL = 2;
+}

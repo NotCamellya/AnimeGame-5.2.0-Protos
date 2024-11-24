@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NKKKBOHMANL.proto";
+
+message LAABBPLENEF {
+	int32 EJNINFFFKJP = 1;
+	uint32 KEGOCIPPFIN = 11;
+	NKKKBOHMANL KGCONLDGJPG = 14;
+	uint32 GHLBJAHJEHF = 5;
+	uint32 FPPFKJELHDO = 7;
+}

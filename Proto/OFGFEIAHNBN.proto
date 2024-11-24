@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AKKLOINFCPM.proto";
+
+message OFGFEIAHNBN {
+	repeated AKKLOINFCPM EFCDELGMMKG = 1;
+	uint32 MPNJAOCKMAH = 7;
+}

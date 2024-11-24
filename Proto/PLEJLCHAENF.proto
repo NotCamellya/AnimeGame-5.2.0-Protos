@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PLEJLCHAENF {
+	repeated uint32 EGMOKFDBILN = 13;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message POGAOCOOHEI {
+	repeated uint32 HDFMEEFDPJJ = 10;
+}

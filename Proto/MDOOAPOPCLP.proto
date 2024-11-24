@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CKLEEGMPDGN.proto";
+
+message MDOOAPOPCLP {
+	int32 EJNINFFFKJP = 12;
+	CKLEEGMPDGN AGMHMDHEFKD = 14;
+}

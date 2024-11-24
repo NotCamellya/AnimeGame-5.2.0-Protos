@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+
+message OBKKOMBKMFM {
+	repeated JICKPPDLOHC BNJOJBOPMFJ = 14;
+	repeated uint64 JDMCFOKOBHK = 9;
+	uint64 JAHLENGHNMJ = 4;
+}

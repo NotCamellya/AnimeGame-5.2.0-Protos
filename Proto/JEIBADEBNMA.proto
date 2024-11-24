@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message JEIBADEBNMA {
+	bool MOAELIBPHOI = 14;
+	uint32 AOEGKKAJEAN = 3;
+	int32 EJNINFFFKJP = 9;
+}

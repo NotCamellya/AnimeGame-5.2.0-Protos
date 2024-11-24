@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IHFCIFDKMPA.proto";
+import "CIIMAOJPKCK.proto";
+
+message NDFPEFJLELM {
+	repeated IHFCIFDKMPA CPALNCBBDEC = 14;
+	repeated CIIMAOJPKCK KCKEPCMLIHI = 4;
+	bool MPFLDFDOGAI = 5;
+	uint32 NMIKCMLKNDM = 7;
+}

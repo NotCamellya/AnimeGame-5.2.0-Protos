@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DAPDIBCFMDD {
+	uint32 DNBEFLJLAMB = 13;
+	uint32 CNAIFGICLDH = 4;
+}

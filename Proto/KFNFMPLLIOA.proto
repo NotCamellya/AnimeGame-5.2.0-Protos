@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KFNFMPLLIOA {
+	uint32 MHGELEGLCEO = 12;
+}

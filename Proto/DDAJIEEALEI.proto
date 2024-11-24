@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DDAJIEEALEI {
+	uint32 KAMDFFPLFAJ = 1;
+}

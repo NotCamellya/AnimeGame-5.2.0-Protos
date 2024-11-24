@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PMKMGHKNMMO {
+	uint32 OCOLIGLOLNO = 4;
+	uint32 IEJPGHNLIDB = 8;
+}

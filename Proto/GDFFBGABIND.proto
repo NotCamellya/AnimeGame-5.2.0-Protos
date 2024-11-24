@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message GDFFBGABIND {
+	uint64 BCKAMPAEPJC = 14;
+	uint32 MLNMECIGDMH = 15;
+	uint64 CCEBBINLHMJ = 5;
+}

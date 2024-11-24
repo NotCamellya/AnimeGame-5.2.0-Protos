@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "BAADCBGPEFO.proto";
+import "CMGOOOMLAIA.proto";
+import "KBAIOMIOCCP.proto";
+
+message PBIOIJNMCJO {
+	repeated BAADCBGPEFO LGFPFKPANPI = 2;
+	CMGOOOMLAIA IMIOGMDOKCB = 13;
+	KBAIOMIOCCP JMLABOBCLDE = 4;
+}

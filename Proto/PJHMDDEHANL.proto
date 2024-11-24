@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PJHMDDEHANL {
+	uint32 CFFMDKNINHD = 14;
+}

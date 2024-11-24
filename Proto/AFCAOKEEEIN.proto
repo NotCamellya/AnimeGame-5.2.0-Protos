@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AFCAOKEEEIN {
+	repeated uint64 OMKGPFGKFNB = 5;
+}

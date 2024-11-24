@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "ELEHHOOEDFN.proto";
+
+message CJCEKNNABGI {
+	repeated uint32 CIMGHIFCJEI = 7;
+	repeated uint32 GHLAMELEHHI = 1;
+	uint32 LMFFCEOGLJP = 2;
+	uint32 EPFBOIHFKGD = 11;
+	uint32 BGDBNPEJCHJ = 14;
+	uint32 KIOHBPJAOOI = 5;
+	bool NAJOMFIFFAM = 8;
+	uint32 GLCIAEKDPGL = 9;
+	ELEHHOOEDFN POCIDNHBIAM = 13;
+	uint32 MDNEKFCLGGC = 6;
+}

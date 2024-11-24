@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JOHJOGECPLN {
+	map<uint32,uint32> DBHABFBAKAE = 8;
+	bool NLPNMNNIFPI = 1;
+}

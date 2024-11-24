@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NOKKCDMAILM {
+	string NKANJIJNIMC = 12;
+	int32 EJNINFFFKJP = 4;
+	bool OGKGNDICKKL = 6;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ILPAHDMIBAK {
+	uint32 HMOGLLBDGJM = 4;
+}

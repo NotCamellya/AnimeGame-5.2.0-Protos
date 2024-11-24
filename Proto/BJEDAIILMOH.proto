@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BJEDAIILMOH {
+	uint32 FFHPDCIBKOD = 3;
+}

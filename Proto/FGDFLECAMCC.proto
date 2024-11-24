@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DDOFEKCBIIC.proto";
+
+message FGDFLECAMCC {
+	repeated DDOFEKCBIIC GCFFNLEKKJH = 12;
+}

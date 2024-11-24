@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NLPNKEJGIBF.proto";
+
+message APFCEEFMOLO {
+	repeated NLPNKEJGIBF JGHODDIPILM = 6;
+	uint32 HGBBGLKPLFI = 5;
+	uint32 PCMILDFJBNP = 11;
+}

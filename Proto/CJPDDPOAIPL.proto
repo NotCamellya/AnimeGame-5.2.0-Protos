@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CJPDDPOAIPL {
+	string BFPMIHHHMIP = 3;
+	int32 EJNINFFFKJP = 6;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NPJDJDECKME.proto";
+
+message BOGMLIEEDGC {
+	repeated NPJDJDECKME LAEGKCGMKDI = 4;
+	uint32 DAMKHNBNJEF = 10;
+}

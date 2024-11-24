@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FGIBLIMHHIK.proto";
+
+message MILOHBEEJCG {
+	FGIBLIMHHIK KGCONLDGJPG = 10;
+	uint32 AGIDBEEINDE = 12;
+}

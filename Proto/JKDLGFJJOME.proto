@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NGBDCGMNINN.proto";
+
+message JKDLGFJJOME {
+	repeated NGBDCGMNINN MLOBACJPFEK = 11;
+	bool OHNFAANFOBO = 15;
+	uint32 LKMGMHHKKNB = 5;
+}

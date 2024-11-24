@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CDGHGCFGFEM {
+	repeated uint32 MFHKFMFACIN = 1;
+	uint32 NCCPPHNNPBF = 9;
+}

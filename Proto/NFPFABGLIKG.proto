@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "CEGMHFPBAJJ.proto";
+import "DDGGNMCAGLO.proto";
+
+message NFPFABGLIKG {
+	repeated CEGMHFPBAJJ GMLAOAGJCAO = 12;
+	repeated DDGGNMCAGLO PEEBJAOIKFC = 6;
+	repeated uint32 KCDBADFPIPD = 4;
+	repeated CEGMHFPBAJJ NNGFNBCAAPI = 10;
+	repeated uint32 DHOPBDIHGCG = 14;
+	repeated uint32 GGKGGGHHLML = 5;
+	repeated CEGMHFPBAJJ DAIGBJEHFFE = 1;
+	uint32 EAIPGEMKNPO = 13;
+}

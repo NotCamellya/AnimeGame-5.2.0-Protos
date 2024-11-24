@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PMKMGHKNMMO.proto";
+
+message KOGIKBGOICN {
+	map<uint32,PMKMGHKNMMO> OKPFCGNINOP = 1;
+	uint32 NEBKJMLKNID = 13;
+}

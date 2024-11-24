@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ABDNLACDCNI.proto";
+
+message KMEDIHGPBPH {
+	map<uint32,ABDNLACDCNI> GDINBILAIMF = 11;
+	uint32 LKOFKODPMGO = 6;
+}

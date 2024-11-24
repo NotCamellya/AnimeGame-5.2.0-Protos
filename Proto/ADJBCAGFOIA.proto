@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ADJBCAGFOIA {
+	uint32 LKOFKODPMGO = 12;
+}

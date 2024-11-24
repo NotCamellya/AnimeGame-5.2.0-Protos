@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "GJDEEPCKGPM.proto";
+
+message NLMPJPIDDEN {
+	repeated GJDEEPCKGPM AGELIHNANHP = 6;
+}

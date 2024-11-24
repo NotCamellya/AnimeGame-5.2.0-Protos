@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LLGCDCDHDPD.proto";
+
+message PBOKGPIOPOP {
+	LLGCDCDHDPD BDALEDOAHFA = 6;
+	uint32 BHGDNCIOJDJ = 7;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JKBBEKKCCEE.proto";
+import "ACIAFKOACAO.proto";
+
+message AFFCGEJBALJ {
+	uint32 KLMDAPCLGAP = 2;
+	JKBBEKKCCEE KGCONLDGJPG = 5;
+	ACIAFKOACAO FNBMMFBMKDO = 10;
+	uint64 MCPPEKNBHFK = 1;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MNFELHIEBKP.proto";
+
+message PFIHELIEPOJ {
+	map<uint32,MNFELHIEBKP> NMOOCJNBEOH = 8;
+	uint32 JMEHMGCPFBO = 5;
+	uint32 BDEFLCDKDBI = 12;
+	bool OMENIAMEDCE = 9;
+}

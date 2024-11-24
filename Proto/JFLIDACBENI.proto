@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JFLIDACBENI {
+	uint32 JOFGGBNALGP = 15;
+	uint32 EBJEJLGLODB = 7;
+}

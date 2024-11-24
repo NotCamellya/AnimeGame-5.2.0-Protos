@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MIMANFIIKMN.proto";
+
+message HLFODDABBKF {
+	repeated MIMANFIIKMN BHDKKNAOBIP = 6;
+}

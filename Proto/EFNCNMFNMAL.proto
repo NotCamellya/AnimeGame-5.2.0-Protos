@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OIPNCINGENE.proto";
+
+message EFNCNMFNMAL {
+	repeated OIPNCINGENE AJCPNHFKAOO = 2;
+}

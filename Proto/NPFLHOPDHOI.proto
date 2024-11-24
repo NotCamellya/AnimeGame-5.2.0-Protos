@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NPFLHOPDHOI {
+	string HGLNCCJIEAG = 13;
+	bool BGIJEBOFFHH = 9;
+	uint32 LNBGBLBMADJ = 8;
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "BGDCPBEGANK.proto";
+import "NNLFBHCELOG.proto";
+import "NMBNHIOGAJK.proto";
+
+message HLJFHHIKKEN {
+	repeated BGDCPBEGANK NEFMGJIDAAK = 9;
+	NNLFBHCELOG LDIAJBOKPHB = 1;
+	repeated uint64 IDBADJONFOJ = 15;
+	repeated uint32 IONMDBJFHCN = 7;
+	repeated uint64 OMKGPFGKFNB = 3;
+	uint32 MONEJDBPOLB = 11;
+	bool IOBNFNDNEAL = 13;
+	bool ABHDEMELCDN = 12;
+	NMBNHIOGAJK LPNKAMMEFCB = 6;
+	uint32 FCPECPMOGOJ = 5;
+}

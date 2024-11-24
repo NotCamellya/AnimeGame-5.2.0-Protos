@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JMFELHLBLCL {
+	repeated uint32 HDIGMJMLPDP = 8;
+	uint32 IGBDOEBPPHO = 10;
+}

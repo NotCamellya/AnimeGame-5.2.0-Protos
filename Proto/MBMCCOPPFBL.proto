@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MBMCCOPPFBL {
+	uint32 MPNJAOCKMAH = 3;
+	uint32 EAIPGEMKNPO = 12;
+}

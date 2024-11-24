@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "DHDEBBIPIIF.proto";
+
+message MFHGLBJEDKI {
+	string JFCKFGNOBBP = 5;
+	DHDEBBIPIIF CKEHABLGHNN = 2;
+	int32 EJNINFFFKJP = 14;
+	uint32 FINAHGLFHAG = 1;
+	uint32 MPNJAOCKMAH = 3;
+}

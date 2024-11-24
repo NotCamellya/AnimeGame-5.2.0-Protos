@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OPOLEDBPPFO {
+	uint32 CJOKFLDEFMB = 5;
+	uint32 NKGEKOMLLNG = 8;
+}

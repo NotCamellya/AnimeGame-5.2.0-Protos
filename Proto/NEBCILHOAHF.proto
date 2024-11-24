@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IIHKHENLBCE.proto";
+
+message NEBCILHOAHF {
+	repeated IIHKHENLBCE EFHFPBEMMBG = 15;
+	repeated IIHKHENLBCE GKKLPKBPHNG = 2;
+	uint64 PGFDGKFJHJI = 7;
+	uint64 JCFLBHEHNNC = 11;
+	float LCLLNDINKKP = 13;
+}

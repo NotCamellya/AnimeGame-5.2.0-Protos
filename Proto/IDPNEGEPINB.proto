@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IDPNEGEPINB {
+	uint32 BBPGIJFJHEN = 2;
+}

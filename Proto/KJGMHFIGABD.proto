@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "PMNJNCLEONJ.proto";
+import "KGPHJFJGGDJ.proto";
+import "OOJGOKPCGNJ.proto";
+import "NJFHDJNKJKK.proto";
+import "LLCGHKFBADC.proto";
+import "PFNKKMIOAEE.proto";
+
+message KJGMHFIGABD {
+	int32 EJNINFFFKJP = 8;
+	PMNJNCLEONJ ENOEKKLHBNH = 12;
+	KGPHJFJGGDJ sync_snap_shot = 10;
+	OOJGOKPCGNJ sync_finish_game = 2;
+	NJFHDJNKJKK sync_create_connect = 14;
+	LLCGHKFBADC sync_ping = 1;
+	PFNKKMIOAEE sync_action = 15;
+}

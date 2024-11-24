@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KPFOBLALBLC.proto";
+
+message LLPCNDHKBHH {
+	bool EDNNNDDPAIJ = 12;
+	int32 EJNINFFFKJP = 15;
+	KPFOBLALBLC DAAKPCOABEP = 10;
+	uint64 IHGJLFCGFIN = 1;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HLAIBKPEPLK.proto";
+
+message ENFMOPIEEMA {
+	map<uint32,HLAIBKPEPLK> GPHHKGMAAEE = 7;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BOMACPDEPID.proto";
+
+message FGDNJPJJKOH {
+	repeated BOMACPDEPID JHCGPLJOIFF = 15;
+	repeated uint32 IHFLGBGNAJE = 9;
+	int32 EJNINFFFKJP = 7;
+}

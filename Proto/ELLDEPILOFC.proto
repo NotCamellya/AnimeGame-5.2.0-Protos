@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum ELLDEPILOFC {
+	ELLDEPILOFC_NONE = 0;
+	ELLDEPILOFC_ENTER = 1;
+	ELLDEPILOFC_LEAVE = 2;
+}

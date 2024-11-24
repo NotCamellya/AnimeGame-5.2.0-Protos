@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HALJNIJMECG.proto";
+import "DPBLGHLGGKI.proto";
+
+message AMLAJJBGFIJ {
+	repeated HALJNIJMECG ENNBCJCMCNH = 11;
+	repeated DPBLGHLGGKI BJBHOMMGPOK = 13;
+	bool GCBGBFAGBIM = 14;
+	uint32 BOFFIDCGJEM = 8;
+	uint32 CFNKIAEELHN = 1;
+}

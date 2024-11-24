@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "AMEKOAPGABA.proto";
+
+message HPCCMBDADFI {
+	repeated AMEKOAPGABA PNDPNMBDOKF = 15;
+}

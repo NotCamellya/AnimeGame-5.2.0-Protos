@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EMLEKDBEFMA {
+	int32 EJNINFFFKJP = 10;
+}

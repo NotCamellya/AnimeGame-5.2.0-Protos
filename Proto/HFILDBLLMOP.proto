@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BGEGONKIPIL.proto";
+
+message HFILDBLLMOP {
+	repeated BGEGONKIPIL BAGJBBKNADL = 3;
+}

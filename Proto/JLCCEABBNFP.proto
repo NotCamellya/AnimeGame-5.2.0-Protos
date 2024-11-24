@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MOGBOMKEPKN.proto";
+
+message JLCCEABBNFP {
+	repeated MOGBOMKEPKN PJEAFLCJBJF = 6;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LFBOPOGGBPM.proto";
+import "BNGCIFIKLLO.proto";
+
+message OMHJKMMDJEO {
+	repeated uint32 KNJFLAJMAJJ = 3;
+	repeated LFBOPOGGBPM PGEJGJMGGOG = 11;
+	repeated BNGCIFIKLLO IGPHGEDLFLB = 12;
+}

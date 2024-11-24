@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MFGKDAPGLBG.proto";
+
+message NKDBKONMBDC {
+	repeated uint32 AIAJGGDJAKB = 4;
+	repeated uint32 ONLOCEPEPEA = 1;
+	repeated MFGKDAPGLBG GPCGMMOBGHM = 13;
+	uint32 GINEMCIFFNB = 6;
+	uint32 KJJOLFAMIKC = 14;
+}

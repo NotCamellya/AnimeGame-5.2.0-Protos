@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "OPADJPDFFBM.proto";
+
+message JBJDIBGGGLJ {
+	int32 EJNINFFFKJP = 12;
+	OPADJPDFFBM NGFMCHNLNPI = 3;
+}

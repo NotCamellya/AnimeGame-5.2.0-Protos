@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JNAGMCBEPJH.proto";
+
+message IPNGDLGOEJH {
+	repeated JNAGMCBEPJH PNDPNMBDOKF = 13;
+}

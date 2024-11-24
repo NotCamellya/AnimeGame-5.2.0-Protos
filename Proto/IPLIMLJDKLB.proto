@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CGAIDECBEHG.proto";
+
+message IPLIMLJDKLB {
+	repeated CGAIDECBEHG DJHMNIDJLCP = 11;
+	bool GLKNGDDNOCN = 5;
+	bool PMJLLLFOPHK = 9;
+	uint32 EAIPGEMKNPO = 6;
+}

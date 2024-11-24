@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IPENCEJBEEB.proto";
+
+message OPBILCEFEJM {
+	IPENCEJBEEB BIHMCIIFMIG = 2;
+	uint32 AGIDBEEINDE = 1;
+	uint32 OODPMICAEHI = 4;
+	uint32 NPHDPDNODMO = 3;
+	bool OMABMPJHAEO = 5;
+}

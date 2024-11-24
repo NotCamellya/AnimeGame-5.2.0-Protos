@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "JHKPMJJLLOF.proto";
+import "DCCLJIKDBFG.proto";
+
+message MCIGBDLJIFH {
+	JHKPMJJLLOF HINHOECHNFL = 1;
+	repeated DCCLJIKDBFG LOOGLCJLADB = 9;
+	bool GLKNGDDNOCN = 2;
+	uint32 EAIPGEMKNPO = 10;
+	uint32 IEJPGHNLIDB = 8;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NEKMGKEAPID {
+	uint32 MFEHFNEIFFA = 8;
+	uint32 JGLICGHGNFP = 7;
+	uint32 PLGCFDAENLC = 10;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LLMLNHCIKCD.proto";
+
+message CKNBAOMALOP {
+	repeated LLMLNHCIKCD MLNOHNIGCDN = 2;
+	bytes IFBKFECFPJF = 6;
+	bytes CGDPDDAENIE = 5;
+	bool KKEBKAMLMAM = 7;
+	int32 EJNINFFFKJP = 1;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AKBFLGICEND {
+	bool OBIBENDJNDC = 6;
+}

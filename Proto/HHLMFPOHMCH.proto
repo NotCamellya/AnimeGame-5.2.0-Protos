@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message HHLMFPOHMCH {
+	map<uint32,uint32> MHGCJHMBJDJ = 2;
+	uint32 CBFLKNIMPPM = 4;
+	uint32 HLKDDNGCKJN = 10;
+	bool PMJLLLFOPHK = 13;
+	bool CPOHJLECLOK = 5;
+	uint32 EHAEACFBOOL = 7;
+	uint32 ADJNOLPLKOA = 12;
+}

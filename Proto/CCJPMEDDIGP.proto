@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CCJPMEDDIGP {
+	uint32 MBBKAENBCKD = 15;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AJMIMBMCABE.proto";
+
+message BDHJCAMLNHB {
+	repeated AJMIMBMCABE BBOPFHAODOP = 7;
+	int32 EJNINFFFKJP = 5;
+	uint32 HGGEHLMHKMP = 8;
+	uint32 EAIPGEMKNPO = 12;
+	uint32 FINAHGLFHAG = 14;
+}

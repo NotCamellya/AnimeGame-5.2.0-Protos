@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message PAFMONDCLKH {
+	repeated uint32 CJPPDKIIOGP = 5;
+	uint32 HCHPOHCNCFE = 13;
+	uint32 PNNMIGAINCE = 2;
+	uint32 NILJPCAMMNJ = 15;
+	uint32 PCHJNHFOIEM = 6;
+	uint32 JKHOEGAADJE = 8;
+}

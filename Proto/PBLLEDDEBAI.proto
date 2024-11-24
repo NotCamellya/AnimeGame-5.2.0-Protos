@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "CIKNKBLABFF.proto";
+
+message PBLLEDDEBAI {
+	repeated CIKNKBLABFF EILAHBHKMED = 7;
+	uint32 LBEINAHAHKA = 15;
+	uint32 OELCNLOJHHE = 8;
+	bool GOONOOPFOAM = 6;
+	bool HCJFDJHILAM = 14;
+	bool OMENIAMEDCE = 12;
+	uint32 NILALKPFCCO = 5;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message FABGOAPPDAO {
+	bool JAALIDNIKJA = 3;
+	bool JFJBENNGKBB = 14;
+	bool AFOHHEJBGIB = 6;
+	bool JEENPIDKKLM = 12;
+	uint32 FIKLBLMACIB = 4;
+}

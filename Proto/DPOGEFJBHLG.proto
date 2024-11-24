@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MIBLPEIKDBP.proto";
+import "OMBEIFNNEDF.proto";
+
+message DPOGEFJBHLG {
+	repeated MIBLPEIKDBP BAGJBBKNADL = 3;
+	repeated OMBEIFNNEDF CHJLKBOCPAG = 8;
+	repeated uint32 LGCBFNJNGPD = 14;
+}

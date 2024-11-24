@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "PKBDLALMJML.proto";
+import "IELANAFKGKO.proto";
+
+message LODGAOKFCGN {
+	repeated uint32 DDKBFLGFCOI = 14;
+	PKBDLALMJML order_info = 11;
+	IELANAFKGKO exam_info = 10;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BHNJIKABAOK.proto";
+
+message PGCCFMDJKEB {
+	repeated BHNJIKABAOK IBCGFJEDMFB = 13;
+}

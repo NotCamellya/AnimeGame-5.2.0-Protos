@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AKBDEMHDNNM {
+	uint32 MPNJAOCKMAH = 4;
+}

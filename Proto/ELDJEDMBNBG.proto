@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "KBDGJPCLCHJ.proto";
+import "ICIEAHBEMCJ.proto";
+import "NPAGLLEIBJM.proto";
+
+message ELDJEDMBNBG {
+	KBDGJPCLCHJ GHIHAIDBACF = 12;
+	ICIEAHBEMCJ HPDGOGMDLJF = 9;
+	map<uint32,uint32> DODFAJFPAKB = 8;
+	uint32 NFLAKFJLCME = 15;
+	NPAGLLEIBJM ENOEKKLHBNH = 1;
+	int32 EJNINFFFKJP = 4;
+}

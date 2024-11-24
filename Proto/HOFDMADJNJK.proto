@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FNDLKLBAAPG.proto";
+import "GHJFBLOBGPA.proto";
+
+message HOFDMADJNJK {
+	FNDLKLBAAPG FPJCJMGOAPE = 14;
+	GHJFBLOBGPA JIELCLOAEAA = 7;
+}

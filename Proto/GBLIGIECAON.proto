@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GBLIGIECAON {
+	int32 EJNINFFFKJP = 12;
+}

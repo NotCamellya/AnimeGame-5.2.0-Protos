@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OBJFDBHEAKJ.proto";
+
+message LKKCCNCGDON {
+	map<uint32,OBJFDBHEAKJ> DDPFMKJFPAK = 15;
+}

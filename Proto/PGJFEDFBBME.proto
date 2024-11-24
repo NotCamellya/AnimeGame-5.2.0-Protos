@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "DDGGNMCAGLO.proto";
+
+message PGJFEDFBBME {
+	repeated uint32 GBNMNACLDBE = 8;
+	repeated uint32 BMKMLKNIAAA = 12;
+	repeated DDGGNMCAGLO PEEBJAOIKFC = 11;
+	uint32 DCCCHKBIGHP = 14;
+	uint32 OAJOOBGHAGM = 10;
+	uint32 LNCCIBNOLKO = 5;
+	uint32 BODIEJCLGMB = 6;
+	uint32 EAIPGEMKNPO = 9;
+	uint32 JKPCJABBGJB = 4;
+	uint32 GGIGCLLHEFM = 2;
+}

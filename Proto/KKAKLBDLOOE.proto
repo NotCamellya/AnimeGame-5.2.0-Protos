@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EKIJBCDEBID.proto";
+
+message KKAKLBDLOOE {
+	repeated EKIJBCDEBID BAGJBBKNADL = 9;
+}

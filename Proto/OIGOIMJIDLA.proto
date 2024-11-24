@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message OIGOIMJIDLA {
+	map<uint32,uint32> MDMKONDIDGE = 1;
+	uint32 EDOGEDEIDNM = 2;
+	uint32 CPFFKAABOGD = 3;
+}

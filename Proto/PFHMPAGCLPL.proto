@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PFHMPAGCLPL {
+	bool AHBLFGAEMMF = 3;
+	uint32 CFFMDKNINHD = 15;
+}

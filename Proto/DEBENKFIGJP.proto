@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JNFLMHACHJI.proto";
+
+message DEBENKFIGJP {
+	uint32 KLJCAGKGILP = 4;
+	uint32 PJABEFAJBGB = 12;
+	uint32 LJBCGMADOLK = 3;
+	uint32 OLGHCKDNMBI = 7;
+	JNFLMHACHJI CDBFPFOJBIJ = 5;
+}

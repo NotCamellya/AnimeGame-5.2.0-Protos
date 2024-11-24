@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "CONLNJPJIDN.proto";
+
+message ONFPPNPPNEG {
+	repeated CONLNJPJIDN PNDPNMBDOKF = 14;
+}

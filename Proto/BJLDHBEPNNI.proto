@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FHPEAIOOGCI.proto";
+import "OEFKBIFAPLF.proto";
+
+message BJLDHBEPNNI {
+	repeated FHPEAIOOGCI CBPCBPAHCEN = 9;
+	OEFKBIFAPLF JIFOCCKIFKB = 6;
+}

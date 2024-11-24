@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BJGHDOCNFNB.proto";
+
+message BFFBIGOIPKN {
+	BJGHDOCNFNB MNPJCKKCHNC = 5;
+}

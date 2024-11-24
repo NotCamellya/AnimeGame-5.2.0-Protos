@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BFMAJBBMIOH.proto";
+
+message NIHODIJKPKE {
+	repeated BFMAJBBMIOH CNAJAFLIBED = 13;
+	bool GLKNGDDNOCN = 7;
+	uint32 EAIPGEMKNPO = 11;
+}

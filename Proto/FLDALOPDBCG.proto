@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message FLDALOPDBCG {
+	uint32 IPDONPGGMNL = 15;
+	bool HNDOCFIHEFK = 11;
+	bool NIKOMNAAIPP = 3;
+	bool GFLFMIOGCGL = 9;
+	uint32 COEGONFEEKD = 5;
+}

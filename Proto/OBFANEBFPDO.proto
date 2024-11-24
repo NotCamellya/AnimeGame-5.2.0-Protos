@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OBFANEBFPDO {
+	uint32 EOJICCEHGAL = 2;
+}

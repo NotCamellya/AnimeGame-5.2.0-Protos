@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FGNHPFIDPCB.proto";
+
+message BHNJIKABAOK {
+	FGNHPFIDPCB DDKFGHONPDC = 1;
+	float GFKDGCMMNKI = 3;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message BIDHCOKOHEI {
+	uint32 IGBDOEBPPHO = 12;
+	uint32 EGJDKPKGDIB = 15;
+	uint32 BOFFIDCGJEM = 1;
+	uint32 HHAIIFODEOO = 8;
+}

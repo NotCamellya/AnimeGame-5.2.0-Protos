@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message FIDOEPEDDJC {
+	repeated uint32 AMLNLDNJJID = 5;
+	uint32 BJLLGBAPJKP = 15;
+	uint32 EFKNDDJEPLJ = 8;
+	int32 EJNINFFFKJP = 10;
+	uint32 BFDHEPEJDPO = 1;
+}

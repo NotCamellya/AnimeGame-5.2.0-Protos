@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "HCJGIFNJPPJ.proto";
+
+message LEHODLMIFGG {
+	KDEHCGJAGFJ BOPFDFDNLGF = 12;
+	HCJGIFNJPPJ IBEAKHHNOHB = 4;
+	bool DDLKLKOGOOD = 9;
+	bool LKICAOGDMCB = 14;
+	uint32 CILMGHAMEDD = 6;
+	uint32 NGIHOKCIBPE = 11;
+}

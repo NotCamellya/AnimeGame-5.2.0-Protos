@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PINOGOECNFA.proto";
+import "PNFGMCACFNI.proto";
+
+message AEPFMAPEHGD {
+	repeated PINOGOECNFA IBAOLDBFOMP = 10;
+	repeated PNFGMCACFNI LHIKANCIHPG = 3;
+	uint32 CFFMDKNINHD = 15;
+	int32 EJNINFFFKJP = 9;
+	uint32 ALGDDKOLEOM = 1;
+}

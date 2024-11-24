@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "IPFHGELOANB.proto";
+
+message CBLMMLCDNAN {
+	bytes MJOCKFMGCBG = 13;
+	bytes IAEEGKBCHOH = 12;
+	string DDIBJFCLGOB = 14;
+	bytes CGDPDDAENIE = 11;
+	string GAMMCKBFPHM = 2;
+	IPFHGELOANB MNPJCKKCHNC = 3;
+	int32 EJNINFFFKJP = 1;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OJNEPIECHHJ.proto";
+
+message MAICJMBCKHO {
+	repeated uint32 CNBKDMINMHD = 12;
+	uint32 FCPANCMAOIE = 15;
+	OJNEPIECHHJ FBKLBJBONLG = 8;
+}

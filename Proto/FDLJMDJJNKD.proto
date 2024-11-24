@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PCNOMCDHBIA.proto";
+import "KIAPPNBMOBO.proto";
+
+message FDLJMDJJNKD {
+	repeated PCNOMCDHBIA AEBMEKGCEFP = 12;
+	repeated uint32 CFPCDOLPJBF = 1;
+	repeated KIAPPNBMOBO JHOMLEHHIFK = 11;
+	bool MGHAICHPPCK = 2;
+}

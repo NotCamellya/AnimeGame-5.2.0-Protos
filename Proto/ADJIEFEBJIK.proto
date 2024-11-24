@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ADJIEFEBJIK {
+	uint32 CDGBHMNPCLA = 9;
+}

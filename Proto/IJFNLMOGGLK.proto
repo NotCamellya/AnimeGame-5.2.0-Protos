@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "FGNHPFIDPCB.proto";
+import "BHNJIKABAOK.proto";
+
+message IJFNLMOGGLK {
+	FGNHPFIDPCB JMLCDHBKBNG = 2;
+	repeated BHNJIKABAOK IBCGFJEDMFB = 3;
+	FGNHPFIDPCB CHHGPNNNNLP = 1;
+	uint32 MBLHCGPHFLE = 4;
+}

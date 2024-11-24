@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DEIGILFODBD.proto";
+import "GPKBOBCLBCL.proto";
+
+message MLNLCBOMDHG {
+	DEIGILFODBD HGDGJJFBFND = 4;
+	bool GGGNJBEIJOG = 13;
+	GPKBOBCLBCL IMIOGMDOKCB = 3;
+}

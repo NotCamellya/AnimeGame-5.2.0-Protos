@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message HDHMIANBIHC {
+	bool GLKNGDDNOCN = 8;
+	uint32 FINAHGLFHAG = 15;
+	uint32 JABGACILLEC = 7;
+	uint32 DNBEFLJLAMB = 13;
+	uint32 LKOFKODPMGO = 3;
+}

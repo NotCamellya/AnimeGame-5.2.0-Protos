@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "JIELMAMPHLI.proto";
+
+message CMDKLKOBIOO {
+	repeated JIELMAMPHLI CBNMCBCHMNA = 4;
+}

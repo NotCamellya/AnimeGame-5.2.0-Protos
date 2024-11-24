@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "HKIHLAEPCPL.proto";
+
+message MHOJPFGMMHL {
+	map<uint32,HKIHLAEPCPL> PJNIMNLMIOP = 4;
+	uint32 EAIPGEMKNPO = 9;
+	uint32 IEJPGHNLIDB = 12;
+	uint32 EPIENMJEHFO = 10;
+	bool BDCBLNLCAGE = 2;
+	bool GLKNGDDNOCN = 1;
+}

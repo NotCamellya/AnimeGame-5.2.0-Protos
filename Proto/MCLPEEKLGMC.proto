@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MCLPEEKLGMC {
+	repeated uint32 EEKFELFANGN = 13;
+}

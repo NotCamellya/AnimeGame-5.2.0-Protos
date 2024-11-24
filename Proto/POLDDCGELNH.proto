@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message POLDDCGELNH {
+	uint32 MMBGKOMHDDI = 6;
+	bool JFJNDAKFJEK = 14;
+}

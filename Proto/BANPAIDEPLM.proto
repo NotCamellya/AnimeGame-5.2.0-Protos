@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "APHHKPJPMPL.proto";
+import "OAJDEIOKLFK.proto";
+import "EPHJFOFEBDA.proto";
+
+message BANPAIDEPLM {
+	repeated APHHKPJPMPL LILDONIELDM = 13;
+	repeated OAJDEIOKLFK JIIHGLAHMLG = 5;
+	repeated EPHJFOFEBDA MPMOPBIBLLB = 8;
+	bool AIBCCAMBGDK = 12;
+}

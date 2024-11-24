@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KABBEPLLGOJ.proto";
+
+message LKIINLLAANA {
+	KABBEPLLGOJ MEEEBNNMFIC = 7;
+	uint32 EOFHLOIMPMK = 2;
+}

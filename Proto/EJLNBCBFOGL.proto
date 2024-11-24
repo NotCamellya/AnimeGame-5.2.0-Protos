@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+import "LIPHHIENHHK.proto";
+import "IPENCEJBEEB.proto";
+import "PCLLABLBNGA.proto";
+import "EHGJONOCFDE.proto";
+import "FJCOKOHBJIN.proto";
+import "CAJFFFBLLKB.proto";
+import "LOAACAFCPIF.proto";
+import "KLEEBOCFJPI.proto";
+import "AJPMIIOMCDO.proto";
+import "KFPAKMBEGPE.proto";
+import "EIMACLGMLLC.proto";
+import "PJIFOJFADLG.proto";
+import "NAPNKPIHEBF.proto";
+
+message EJLNBCBFOGL {
+	LIPHHIENHHK GFMEKOGIHJN = 19;
+	repeated string BIPADACDOFI = 22;
+	IPENCEJBEEB BIHMCIIFMIG = 4;
+	repeated PCLLABLBNGA KHLGCIFJBCK = 9;
+	repeated EHGJONOCFDE MGDFIJMHGND = 5;
+	repeated FJCOKOHBJIN BCKBKIDDFCD = 23;
+	string BFMMHKFPCJB = 3;
+	repeated CAJFFFBLLKB EMJHADALPLA = 20;
+	LOAACAFCPIF IGDCOEIOOCG = 21;
+	repeated KLEEBOCFJPI ICPMAKBNJNL = 6;
+	uint32 EHFPPNBAGAD = 7;
+	uint32 ECOCHKAPDAM = 17;
+	uint32 MCINIPFFCCD = 18;
+	AJPMIIOMCDO BJDAMEMIGCC = 1;
+	KFPAKMBEGPE npc = 12;
+	EIMACLGMLLC gadget = 13;
+	PJIFOJFADLG monster = 11;
+	NAPNKPIHEBF avatar = 10;
+	uint32 AGIDBEEINDE = 2;
+}

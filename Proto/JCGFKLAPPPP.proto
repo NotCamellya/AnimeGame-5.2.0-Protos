@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "KBCOIMHABOI.proto";
+
+message JCGFKLAPPPP {
+	repeated KBCOIMHABOI KMKLFECOOIA = 13;
+	uint32 HGBBGLKPLFI = 12;
+	uint32 CJOKFLDEFMB = 3;
+	uint32 MEILGJAAFKH = 10;
+	int32 EJNINFFFKJP = 9;
+}

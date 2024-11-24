@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NIFOGENHILJ {
+	uint32 MMLIGJNJAJH = 1;
+	uint64 MEJLFKPFPGK = 11;
+}

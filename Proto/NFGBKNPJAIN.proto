@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KIBLANEDMOA.proto";
+import "NCGPMHOIHHL.proto";
+
+message NFGBKNPJAIN {
+	repeated KIBLANEDMOA KABODNMEGEK = 5;
+	NCGPMHOIHHL OKKJCBOJAOD = 4;
+}

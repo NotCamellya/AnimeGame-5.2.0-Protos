@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message CCADMMEEPKN {
+	uint32 PIHNDEGFMPH = 8;
+	uint32 GNDCLFHKMPJ = 10;
+	uint32 LJBCGMADOLK = 1;
+	uint32 DAFBMPHNLMA = 7;
+	uint32 LKOFKODPMGO = 5;
+}

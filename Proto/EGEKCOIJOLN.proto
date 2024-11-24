@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "DDIAKFFCPDH.proto";
+import "JHNCNPCIDBE.proto";
+
+message EGEKCOIJOLN {
+	repeated DDIAKFFCPDH PKHPCJOGDBB = 1;
+	JHNCNPCIDBE BKELPGJLJCI = 3;
+	bool GLKNGDDNOCN = 6;
+	uint32 KHIHKMMNCMO = 927;
+	uint32 NHLALBGDKAM = 4;
+	bool GFJOKBOEGNB = 5;
+	bool EALAFDPGNPN = 14;
+	bool HECCLOPGDMP = 15;
+	bool LNFKCEFIABM = 12;
+	uint32 PFLHCLGNKOF = 13;
+	uint32 NKGDGKCIDJJ = 11;
+	uint32 PDDBKMCNOGE = 10;
+	uint32 FKCMFHKPGHA = 9;
+	uint32 KANCLMECAIG = 864;
+	uint32 EAIPGEMKNPO = 8;
+}

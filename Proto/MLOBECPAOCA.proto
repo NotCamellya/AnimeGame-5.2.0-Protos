@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NGOFPEOLOPF.proto";
+
+message MLOBECPAOCA {
+	NGOFPEOLOPF BDALEDOAHFA = 2;
+	uint32 BHGDNCIOJDJ = 4;
+}

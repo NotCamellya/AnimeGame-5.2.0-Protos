@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BBLAMELIPGM.proto";
+
+message BNKLCIGNFLB {
+	BBLAMELIPGM IMIOGMDOKCB = 10;
+}

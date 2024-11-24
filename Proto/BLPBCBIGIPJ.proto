@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BLPBCBIGIPJ {
+	uint32 MPNJAOCKMAH = 2;
+}

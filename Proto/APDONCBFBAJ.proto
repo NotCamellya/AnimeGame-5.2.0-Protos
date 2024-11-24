@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LHCGIHKBBLC.proto";
+
+message APDONCBFBAJ {
+	LHCGIHKBBLC DEJJLMBBMMD = 4;
+	uint32 FCPANCMAOIE = 11;
+	int32 EJNINFFFKJP = 7;
+}

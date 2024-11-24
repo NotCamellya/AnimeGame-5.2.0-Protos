@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "BKCINFMCJLJ.proto";
+import "ELENLLNEHNE.proto";
+
+message NAIPHHCADOD {
+	BKCINFMCJLJ AFLHEFEDFBE = 2;
+	int32 EJNINFFFKJP = 8;
+	ELENLLNEHNE AMGMMKEDDMK = 11;
+}

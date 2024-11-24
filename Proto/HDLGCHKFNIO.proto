@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HDLGCHKFNIO {
+	uint32 POECPAAALOE = 14;
+}

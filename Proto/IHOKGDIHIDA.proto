@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "LLOBOJJFONB.proto";
+
+message IHOKGDIHIDA {
+	map<uint32,LLOBOJJFONB> EMOJGIDCMFD = 6;
+	uint32 ONJNHPGGEFO = 8;
+	uint32 NKGDGKCIDJJ = 11;
+	uint32 MGDEPMJLBAO = 5;
+	bool HBELMAAKKIO = 2;
+	bool LOHBCBDEPIB = 12;
+	uint32 EAIPGEMKNPO = 14;
+}

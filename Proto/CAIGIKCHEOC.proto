@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+
+message CAIGIKCHEOC {
+	KDEHCGJAGFJ OIPCDLONDGP = 15;
+	uint32 IFDNHOHDEBI = 6;
+	uint32 PMONMGGGPIP = 2;
+	uint32 AGIDBEEINDE = 3;
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "MCIGBDLJIFH.proto";
+import "AGEFELGNKLA.proto";
+import "FMPAGIFCMLJ.proto";
+
+message JOCLMPHLJBB {
+	repeated MCIGBDLJIFH KCKEPCMLIHI = 4;
+	AGEFELGNKLA GOLEMMJGIJL = 11;
+	FMPAGIFCMLJ LIPECKNCEII = 9;
+	uint32 LMFECBHLMBD = 6;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "BDNAACFEDFG.proto";
+import "HKDCDFDMPMO.proto";
+
+message GEGFCJCAOFO {
+	repeated BDNAACFEDFG HMCKPCENIDK = 15;
+	repeated HKDCDFDMPMO BAGJBBKNADL = 14;
+	uint64 EEHLMDNGELN = 11;
+	uint32 BBJDAEJPOFE = 5;
+}

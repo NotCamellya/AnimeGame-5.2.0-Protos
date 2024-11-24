@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PINOGOECNFA.proto";
+
+message GIFHMOPIMPH {
+	PINOGOECNFA OFKNMNPEGAM = 8;
+	bool DPFFADGBHIF = 3;
+	bool OHEIPLDJFII = 5;
+	uint32 LKKIFHKNKFE = 1;
+	uint32 ALGDDKOLEOM = 14;
+	uint32 NJMEEOGDMHE = 2;
+}

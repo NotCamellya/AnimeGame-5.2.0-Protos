@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MFFEMNBFLLN {
+	float ODMEGPDIGEF = 6;
+}

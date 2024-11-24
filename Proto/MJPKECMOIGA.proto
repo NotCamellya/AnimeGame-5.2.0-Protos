@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HGNOGAMJLAF.proto";
+
+message MJPKECMOIGA {
+	map<uint32,uint32> MNIMPFAJKLB = 9;
+	repeated HGNOGAMJLAF CBCIAPKMJHE = 1;
+	uint32 BMEOIBCMLBI = 4;
+	uint32 PIEIMACPKOL = 8;
+}

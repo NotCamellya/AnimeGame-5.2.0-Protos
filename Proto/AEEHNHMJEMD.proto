@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ENADNFEKFLF.proto";
+
+message AEEHNHMJEMD {
+	map<uint32,ENADNFEKFLF> KOJOOFKPPFO = 10;
+	bool KCOIMECCODP = 2;
+}

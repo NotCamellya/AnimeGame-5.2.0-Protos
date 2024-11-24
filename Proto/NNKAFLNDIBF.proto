@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JCJCMAIBCAO.proto";
+
+message NNKAFLNDIBF {
+	repeated JCJCMAIBCAO LAGEEOHCMNG = 13;
+	repeated uint32 LBOJANOKNPA = 5;
+	map<uint32,uint32> PPJMHPBHOKF = 12;
+}

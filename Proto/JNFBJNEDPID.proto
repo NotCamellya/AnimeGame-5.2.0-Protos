@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HEGOJOHEFIB.proto";
+
+message JNFBJNEDPID {
+	repeated HEGOJOHEFIB GEIAGFPMLOF = 12;
+}

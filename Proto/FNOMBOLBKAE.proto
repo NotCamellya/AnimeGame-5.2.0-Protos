@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message FNOMBOLBKAE {
+	repeated uint32 JAHPPELNEDF = 4;
+	repeated uint32 NPMPJINGPOF = 8;
+	string BFMMHKFPCJB = 6;
+	uint32 CNAIFGICLDH = 12;
+}

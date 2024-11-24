@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "PKJMPCPEGGO.proto";
+
+message LNCNFMEIOLI {
+	string EFAJIHMNOBK = 4;
+	PKJMPCPEGGO IANEBDKAMBM = 2;
+	string OMKNBNMEBIK = 9;
+	uint32 DOJLEKIENIL = 6;
+	uint32 NCCPPHNNPBF = 5;
+	uint32 BPFMFIGKOIA = 8;
+	uint32 ODCMKOFFKKL = 1;
+}

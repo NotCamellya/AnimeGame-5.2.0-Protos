@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ABPIHFANHOB.proto";
+
+message HCGBOCLJCLI {
+	ABPIHFANHOB DBDNMHCJFOC = 5;
+}

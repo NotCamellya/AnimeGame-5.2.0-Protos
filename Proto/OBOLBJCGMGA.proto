@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message OBOLBJCGMGA {
+	repeated uint32 MECGJHBEJMK = 1;
+	uint32 LJBCGMADOLK = 8;
+	uint32 ECHKNFIIOMF = 3;
+	uint32 AOEGKKAJEAN = 11;
+	uint32 AEHJBEELKOO = 15;
+	uint32 IADFGKJCIDE = 2;
+	uint32 CDBFPFOJBIJ = 7;
+	uint32 PGNDBMGCPAF = 5;
+	uint32 EAEKNFBGKPA = 10;
+	uint32 DMCCAJMCFPA = 4;
+}

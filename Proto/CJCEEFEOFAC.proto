@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EJHEHFMNOFF.proto";
+
+message CJCEEFEOFAC {
+	map<uint32,EJHEHFMNOFF> DNGAMNKCAFE = 8;
+	uint32 AGIDBEEINDE = 1;
+}

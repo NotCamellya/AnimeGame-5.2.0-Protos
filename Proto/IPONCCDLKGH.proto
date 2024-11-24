@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PKGOCLIMOIG.proto";
+
+message IPONCCDLKGH {
+	repeated PKGOCLIMOIG MAOIJFFGIDE = 3;
+	int32 EJNINFFFKJP = 15;
+	uint32 MPNJAOCKMAH = 14;
+}

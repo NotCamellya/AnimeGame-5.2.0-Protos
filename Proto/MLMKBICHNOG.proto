@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "HGMNLAGDFDC.proto";
+import "KBDGJPCLCHJ.proto";
+
+message MLMKBICHNOG {
+	repeated HGMNLAGDFDC KABODNMEGEK = 6;
+	repeated uint32 PDHEKMEMBLG = 3;
+	KBDGJPCLCHJ OMHFBICMGIA = 4;
+	KBDGJPCLCHJ GHIHAIDBACF = 13;
+	uint32 NEKECFNAHOM = 2;
+	uint64 BAADLABMPDJ = 10;
+	uint32 GOEGMOIBFCL = 5;
+	uint32 LIBNHFHEFBF = 12;
+	uint32 AEKAGEEBAAA = 15;
+	uint32 HPMGHMCEDDP = 8;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CACGLIBJIIE.proto";
+import "KPFOBLALBLC.proto";
+
+message NFLCHLCAFED {
+	repeated CACGLIBJIIE LPAGGIOGCJK = 3;
+	bool PKGGNCGLPPN = 12;
+	KPFOBLALBLC DAAKPCOABEP = 10;
+}

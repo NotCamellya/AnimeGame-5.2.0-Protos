@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LAMEAODOJID.proto";
+
+message JDAPCOMIMKO {
+	repeated LAMEAODOJID BBOPFHAODOP = 2;
+	uint32 BODIEJCLGMB = 11;
+	uint32 CKECBIMKAPE = 6;
+	uint32 FIIGJJAAAKH = 7;
+}

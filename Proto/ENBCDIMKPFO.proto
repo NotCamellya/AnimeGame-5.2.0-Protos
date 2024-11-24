@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ENBCDIMKPFO {
+	int32 EJNINFFFKJP = 11;
+	uint32 FFHPDCIBKOD = 12;
+}

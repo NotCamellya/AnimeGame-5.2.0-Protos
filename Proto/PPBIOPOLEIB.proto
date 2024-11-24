@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BBICGHBHCBA.proto";
+
+message PPBIOPOLEIB {
+	BBICGHBHCBA LABBIMKCLJE = 6;
+	repeated BBICGHBHCBA JFLLLBICCIH = 2;
+	uint32 IEJPGHNLIDB = 14;
+	bool GLKNGDDNOCN = 9;
+	uint32 MPNJAOCKMAH = 3;
+	uint32 DJAIIDLDAJM = 5;
+}

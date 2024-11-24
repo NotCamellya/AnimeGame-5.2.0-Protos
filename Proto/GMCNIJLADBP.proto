@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GMCNIJLADBP {
+	uint32 FFHPDCIBKOD = 11;
+}

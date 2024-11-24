@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BKBNOBJBONJ.proto";
+
+message NGFAPMEIOPO {
+	repeated BKBNOBJBONJ IIJOENFBBAJ = 5;
+}

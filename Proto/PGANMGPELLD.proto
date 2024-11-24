@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PGANMGPELLD {
+	repeated uint32 MFHKFMFACIN = 15;
+	uint32 DAJHKHFLNDJ = 7;
+}

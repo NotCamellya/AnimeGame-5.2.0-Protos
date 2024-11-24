@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AAENLNIBFOP.proto";
+
+message NNFDIHPAGHC {
+	map<uint32,AAENLNIBFOP> HBJHPFFJNNB = 4;
+	bool BDCBLNLCAGE = 6;
+	bool GLKNGDDNOCN = 14;
+	uint32 IEJPGHNLIDB = 11;
+	uint32 EAIPGEMKNPO = 1;
+}

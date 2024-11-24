@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "DDAAKFEFAIB.proto";
+import "KHCOEJHBNLL.proto";
+import "CMMDIEGNGML.proto";
+import "MIJLIJEKDKH.proto";
+
+message JEJPLCNAFBC {
+	repeated DDAAKFEFAIB MMOIDIFGGLP = 11;
+	repeated KHCOEJHBNLL DNCPECMNEKK = 1;
+	repeated CMMDIEGNGML BAGJBBKNADL = 8;
+	repeated MIJLIJEKDKH KLIMJFEPDJH = 4;
+	uint32 BEOFNMDOJBP = 3;
+}

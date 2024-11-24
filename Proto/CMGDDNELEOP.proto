@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "GMEAKPMBHMG.proto";
+
+message CMGDDNELEOP {
+	repeated GMEAKPMBHMG GBABBBABOHN = 5;
+}

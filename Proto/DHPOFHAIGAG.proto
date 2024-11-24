@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DHPOFHAIGAG {
+	uint32 DCEDEJDMLHO = 3;
+}

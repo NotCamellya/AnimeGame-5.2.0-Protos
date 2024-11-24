@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DNACFCMENOA.proto";
+
+message FODPOAGBGKH {
+	map<uint32,DNACFCMENOA> CFOGEFNMJOK = 3;
+	uint64 IEHPOBPFCBP = 8;
+}

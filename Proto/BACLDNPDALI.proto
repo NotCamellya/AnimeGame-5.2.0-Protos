@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BACLDNPDALI {
+	int32 EJNINFFFKJP = 4;
+}

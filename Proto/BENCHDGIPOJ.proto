@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BENCHDGIPOJ {
+	uint32 DIGPDMKMGAF = 1;
+}

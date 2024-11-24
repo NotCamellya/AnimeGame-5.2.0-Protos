@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GLDPGOIFKKJ.proto";
+import "KIPKGCACPBK.proto";
+
+message CGOIHCDFFEJ {
+	repeated GLDPGOIFKKJ NEHPGMLDKMF = 5;
+	repeated KIPKGCACPBK EFCDELGMMKG = 11;
+}

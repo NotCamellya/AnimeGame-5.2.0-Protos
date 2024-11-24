@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "KDEHCGJAGFJ.proto";
+import "MBIMHNFDGHN.proto";
+
+message OCJDBCPKDPP {
+	KDEHCGJAGFJ JCPECLEKMFE = 10;
+	bool FGCGLJEECNI = 9;
+	bool AOBPAGOJNKL = 2;
+	MBIMHNFDGHN BELACGKAHLM = 4;
+	bool JCIKCLKOJOM = 14;
+	bool JDMPKHLPCEA = 5;
+	bool ABOCEJIKEPD = 1;
+	bool BELHAOOABAB = 11;
+	bool MPCIKBLFOAA = 12;
+	bool AJOGHLNMDNF = 3;
+	bool EIMFAKHGHHO = 13;
+	bool CCJDEFCOIBC = 15;
+	int32 DHIJJECKPOB = 8;
+	uint32 AGIDBEEINDE = 6;
+}

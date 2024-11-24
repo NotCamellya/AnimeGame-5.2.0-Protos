@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IBBLKBLAMAE {
+	uint32 KNGBDMDCNHK = 10;
+	bool CMOLPAMHIKA = 14;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EEPEPDLABGE {
+	uint32 CNAIFGICLDH = 15;
+}

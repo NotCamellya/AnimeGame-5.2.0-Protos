@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GFNEAFEFCCL.proto";
+
+message ABGKEDBGBLN {
+	repeated GFNEAFEFCCL JLNAKOLCDGN = 11;
+	bool GLKNGDDNOCN = 3;
+	uint32 LBEINAHAHKA = 1;
+}

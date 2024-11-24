@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "DJFNBCGCGCP.proto";
+
+message PDMEMBBFLGB {
+	repeated DJFNBCGCGCP HKECPNIKBIF = 14;
+	bool BDCBLNLCAGE = 15;
+	bool GLKNGDDNOCN = 7;
+	uint32 MPNJAOCKMAH = 1;
+	uint32 MKCGMMGANLK = 11;
+}

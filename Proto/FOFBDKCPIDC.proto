@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KMJJCHGBLHB.proto";
+
+message FOFBDKCPIDC {
+	repeated KMJJCHGBLHB AKAFECACNJL = 4;
+	bool FAPDAMIMCMH = 13;
+	bool OEEDNMALMIF = 10;
+}

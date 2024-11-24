@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GMCIEFLBOEK {
+	repeated uint32 JHJILCMEONH = 11;
+}

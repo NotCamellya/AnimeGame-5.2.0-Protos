@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message ENGLPPKOHCP {
+	repeated uint32 LPAGGIOGCJK = 8;
+	int32 EJNINFFFKJP = 2;
+	bool MIHONJCCAJC = 9;
+	uint32 AOEGKKAJEAN = 12;
+	uint32 FCFOPOLHLOF = 7;
+}

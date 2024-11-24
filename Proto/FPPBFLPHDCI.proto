@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FPPBFLPHDCI {
+	uint32 BGLKDMNGFDM = 8;
+}

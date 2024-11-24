@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message KCBMFCPADFO {
+	repeated uint32 IBGBHIMFGOL = 2;
+	map<uint32,uint32> GBEEEDLGPOB = 11;
+}

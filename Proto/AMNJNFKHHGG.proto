@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "PDKLICCIOBO.proto";
+import "KMFNKOEIKCD.proto";
+import "ABKHLJOMBBC.proto";
+import "HAOHMPKBFBJ.proto";
+import "CEKJIGPMDIO.proto";
+import "DPMMBEONCNB.proto";
+
+message AMNJNFKHHGG {
+	PDKLICCIOBO change_gadget_state = 10;
+	KMFNKOEIKCD active_monster_group = 14;
+	ABKHLJOMBBC deactive_gadget = 2;
+	HAOHMPKBFBJ deactive_monster_wave_current_group = 1376;
+	CEKJIGPMDIO active_monster_wave = 4;
+	DPMMBEONCNB active_gadget = 9;
+	uint32 HLKDDNGCKJN = 5;
+}

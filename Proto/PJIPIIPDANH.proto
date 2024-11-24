@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PJIPIIPDANH {
+	uint32 AGIDBEEINDE = 13;
+	uint32 IECEJKOPPPM = 14;
+}

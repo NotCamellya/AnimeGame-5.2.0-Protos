@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "APMHHCOHPLD.proto";
+import "DKIFDGNKPLD.proto";
+
+message BDODABKGLDC {
+	repeated string DAIJGKPMKHJ = 14;
+	APMHHCOHPLD GDJKCKNOGBD = 4;
+	repeated uint32 KGOJIPMFHBM = 1;
+	DKIFDGNKPLD CIENOKDHFOD = 7;
+}

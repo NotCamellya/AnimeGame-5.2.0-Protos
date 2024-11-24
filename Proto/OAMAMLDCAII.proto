@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OAMAMLDCAII {
+	uint32 IGBDOEBPPHO = 7;
+	uint32 NCCPPHNNPBF = 4;
+}

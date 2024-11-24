@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "LGIDOEBEPCL.proto";
+
+message MPFCDLIPEDO {
+	LGIDOEBEPCL GEHNHFNKDNJ = 1;
+}

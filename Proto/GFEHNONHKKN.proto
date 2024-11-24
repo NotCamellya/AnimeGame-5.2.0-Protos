@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "EPJOPBFFLFL.proto";
+import "HEKGHBFOMII.proto";
+
+message GFEHNONHKKN {
+	EPJOPBFFLFL DNKJOJHBJLD = 4;
+	HEKGHBFOMII IBGCEIIFOJJ = 6;
+	bool FGOMALEJCPH = 8;
+	bool IECAPKPHLJK = 11;
+}

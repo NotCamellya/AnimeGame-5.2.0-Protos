@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HFDFOCAFPJP {
+	int32 EJNINFFFKJP = 1;
+}

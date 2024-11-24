@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HDHMIANBIHC.proto";
+
+message NOFKOAIBMCH {
+	repeated HDHMIANBIHC JNJLFLJNHCJ = 3;
+	uint32 IDFMKKFIEGO = 14;
+}

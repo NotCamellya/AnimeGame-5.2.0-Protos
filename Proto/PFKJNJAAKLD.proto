@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MOLEKLJMAKD.proto";
+
+message PFKJNJAAKLD {
+	uint32 EKGEOLMICCP = 13;
+	uint32 CFFMDKNINHD = 14;
+	float GABGBNNDMMP = 6;
+	MOLEKLJMAKD EIFDFBPDONG = 1;
+}

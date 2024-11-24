@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "PKJMPCPEGGO.proto";
+
+message LOJHFLGPFCL {
+	map<uint32,uint32> IJLFKCCOONM = 3;
+	string BMFKOONMMEE = 15;
+	string OMKNBNMEBIK = 8;
+	PKJMPCPEGGO IANEBDKAMBM = 4;
+	uint64 MLGFPGIDGNO = 10;
+	bool PFBJFCMONKP = 11;
+	uint32 NCCPPHNNPBF = 14;
+	uint64 HECDFNOFPPD = 2;
+}

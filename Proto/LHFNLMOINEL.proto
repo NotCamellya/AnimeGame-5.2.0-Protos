@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MCMKNAEDHON.proto";
+
+message LHFNLMOINEL {
+	string NBMAECPJEAI = 13;
+	repeated MCMKNAEDHON EFCDELGMMKG = 1;
+	uint32 PAMJCGBNOFE = 15;
+	bool LLNMDPOCCOP = 10;
+	uint32 GKNIKFALMCC = 4;
+}

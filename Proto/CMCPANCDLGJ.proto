@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MPMGNGLJGJP.proto";
+
+message CMCPANCDLGJ {
+	MPMGNGLJGJP LMPCHDEBEAL = 1;
+}

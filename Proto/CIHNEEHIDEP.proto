@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message CIHNEEHIDEP {
+	repeated uint32 BLIFKKBJMJO = 5;
+	repeated uint32 BMOIODGMNIJ = 1;
+	int32 EJNINFFFKJP = 11;
+	uint32 BBEABGNBBFI = 12;
+	uint32 HPLKPCGFILI = 4;
+	uint64 JAHLENGHNMJ = 15;
+}

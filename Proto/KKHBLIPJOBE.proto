@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CDOKJPIPBGI.proto";
+
+message KKHBLIPJOBE {
+	uint64 MCPPEKNBHFK = 7;
+	uint32 MHJHGIMLHLN = 3;
+	CDOKJPIPBGI KKKDPOOIBJL = 8;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BEALAKNOIJC {
+	uint32 KLMDAPCLGAP = 5;
+}

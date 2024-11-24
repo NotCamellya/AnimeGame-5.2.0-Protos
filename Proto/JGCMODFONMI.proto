@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message JGCMODFONMI {
+	uint32 BGMDLPABEFA = 4;
+}

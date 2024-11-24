@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IPENCEJBEEB.proto";
+
+message MHMJMBHKKAL {
+	IPENCEJBEEB BIHMCIIFMIG = 8;
+	uint32 NPHDPDNODMO = 11;
+	uint32 OODPMICAEHI = 2;
+	uint32 AGIDBEEINDE = 5;
+}

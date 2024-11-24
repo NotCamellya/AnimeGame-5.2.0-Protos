@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PGPHNOMMDEB {
+	repeated uint32 ILCFMFPNMNA = 11;
+	repeated uint32 MNCHCGGMLPA = 2;
+	uint32 NCCPPHNNPBF = 13;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MKGJGOIAOAP.proto";
+
+message CLKHPFDIENM {
+	repeated MKGJGOIAOAP PPOCFIEHJAA = 1;
+	int32 EJNINFFFKJP = 7;
+}

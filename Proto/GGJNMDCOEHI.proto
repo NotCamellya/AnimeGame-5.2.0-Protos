@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "BEMNAIKEFON.proto";
+
+message GGJNMDCOEHI {
+	repeated BEMNAIKEFON IEENCEFPNPM = 6;
+	uint32 BJEECAPAPPJ = 10;
+	uint32 FEGMJGAPMBE = 13;
+	uint32 NNIGCOEPFJD = 11;
+	uint32 NCCPPHNNPBF = 1;
+	uint32 LAHONFCEPNN = 14;
+	uint32 FFCANEPCDHK = 15;
+}

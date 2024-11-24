@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BNHEICCEAOG {
+	uint32 BGMDLPABEFA = 6;
+}

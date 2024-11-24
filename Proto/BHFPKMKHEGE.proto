@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "DEIGILFODBD.proto";
+
+message BHFPKMKHEGE {
+	DEIGILFODBD HGDGJJFBFND = 6;
+	uint32 AGIDBEEINDE = 8;
+	uint32 DBFGJNBBDKC = 14;
+	uint32 PJABEFAJBGB = 12;
+	bool POHOICLCBKL = 13;
+	int32 EJNINFFFKJP = 3;
+}

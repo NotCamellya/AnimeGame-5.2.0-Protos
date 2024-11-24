@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NNCLFLMMCDN {
+	uint64 IEHPOBPFCBP = 8;
+}

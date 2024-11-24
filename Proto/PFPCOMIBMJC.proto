@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message PFPCOMIBMJC {
+	uint32 GBDCFODAAAI = 4;
+	uint32 MNDAAJNEJJM = 14;
+	uint32 NMPKOFEAKLI = 3;
+	uint32 ALELLOIGHNA = 11;
+	uint32 IDDCHFGAGLK = 8;
+}

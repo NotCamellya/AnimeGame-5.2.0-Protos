@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message CAIMBAMKDAL {
+	float MDMMNLEEMDF = 11;
+	uint32 IAFHMPDIDDM = 3;
+	uint32 AGIDBEEINDE = 4;
+}

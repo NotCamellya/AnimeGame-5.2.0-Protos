@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EENOFOFCOHF.proto";
+
+message NFPLLBBAPIM {
+	repeated EENOFOFCOHF EHGCMJBNCIE = 14;
+}

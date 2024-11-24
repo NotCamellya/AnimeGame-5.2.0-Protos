@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum KLGPDDIJGJM {
+	KLGPDDIJGJM_NONE = 0;
+	KLGPDDIJGJM_SAIL = 1;
+	KLGPDDIJGJM_BATTLE = 2;
+}

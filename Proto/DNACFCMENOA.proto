@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message DNACFCMENOA {
+	repeated uint32 GDFJMGGFDCH = 2;
+	uint32 BHFDBBKEMAK = 1;
+	uint32 CMHGDLDAHDM = 3;
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+message PODKLCCMDID {
+	repeated uint32 LCPLBAPLHMA = 12;
+	repeated uint32 EAIAPCFOICL = 11;
+	repeated uint32 LADLAAHFHFH = 6;
+	uint32 HBJGNKNJFDP = 2;
+	uint32 NLFLKHJIKAN = 1;
+	uint32 GLEEJOEPDHO = 15;
+	uint32 LIFFGPEIBBD = 4;
+	uint32 EFCMBIAOJAE = 3;
+	uint32 ODCMKOFFKKL = 9;
+	bool OMENIAMEDCE = 5;
+	bool PMJLLLFOPHK = 8;
+	uint32 GBEJIHELHBL = 7;
+	uint32 KNGJHMLLCNP = 14;
+	uint32 GPLDLOIPJMB = 10;
+}

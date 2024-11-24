@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message BEMNAIKEFON {
+	uint32 EPFCIDIKLKG = 12;
+	uint32 AJMMAEEGJEA = 6;
+	bool EDBENBIBOBM = 10;
+}

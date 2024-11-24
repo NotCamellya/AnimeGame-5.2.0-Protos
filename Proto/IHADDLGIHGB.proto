@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "GLIEDEHAIMN.proto";
+import "KIDIOMKHFMO.proto";
+import "KEEHOCBAHKG.proto";
+import "MCLDAELJNIO.proto";
+import "MMPHDJFAPGK.proto";
+
+message IHADDLGIHGB {
+	uint32 EHAEACFBOOL = 15;
+	GLIEDEHAIMN seek_furniture_gallery_info = 1277;
+	KIDIOMKHFMO balloon_gallery_info = 1477;
+	KEEHOCBAHKG stake_play_info = 1576;
+	MCLDAELJNIO explosion_info = 988;
+	MMPHDJFAPGK racing_gallery_info = 171;
+}

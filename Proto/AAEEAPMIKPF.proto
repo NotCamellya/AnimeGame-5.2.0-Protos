@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "PLGMIDNFDFN.proto";
+import "HFHJKHOPLMN.proto";
+
+message AAEEAPMIKPF {
+	repeated uint32 CLJIKPEPLEC = 14;
+	repeated PLGMIDNFDFN FAGJDJIGLON = 15;
+	repeated HFHJKHOPLMN MEIKGBOLDGH = 3;
+	uint32 KKPPJFKDDEP = 8;
+	bool KODNAAGLJDL = 1;
+	bool BPDLJHGNNGD = 4;
+	uint32 JIMELGDJMLF = 11;
+	uint32 JABGACILLEC = 5;
+	uint32 POAFICPFPCJ = 13;
+}

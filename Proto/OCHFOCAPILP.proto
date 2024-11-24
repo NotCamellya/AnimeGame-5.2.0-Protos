@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message OCHFOCAPILP {
+	repeated uint32 FLAKACCNNLO = 1;
+}

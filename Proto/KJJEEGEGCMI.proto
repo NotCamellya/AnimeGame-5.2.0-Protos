@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+
+message KJJEEGEGCMI {
+	repeated JICKPPDLOHC JHCGPLJOIFF = 2;
+	uint32 JCMCHGNNLMJ = 1;
+}

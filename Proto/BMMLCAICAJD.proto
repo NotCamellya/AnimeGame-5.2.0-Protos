@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BMMLCAICAJD {
+	repeated uint32 ODDCJJMGEOH = 7;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message MABANAHLFCL {
+	uint32 NBLGNGAOMPE = 9;
+	uint32 GPFMJJMNKNH = 7;
+	uint32 BEGLLEIDFID = 1;
+	bool BBCJAEGCOLG = 4;
+}

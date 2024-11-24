@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IBOHGDLBDFC {
+	int32 EJNINFFFKJP = 3;
+	uint32 OPCGOAPBJHA = 9;
+}

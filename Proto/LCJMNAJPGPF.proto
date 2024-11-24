@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LCJMNAJPGPF {
+	repeated uint32 DHPCLKCHDIM = 6;
+}

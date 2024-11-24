@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "GEGKOBEIJDA.proto";
+
+message AAFIOOGBAAG {
+	repeated GEGKOBEIJDA GHFLOBGMGNC = 12;
+	uint32 DEHADAMGGJP = 11;
+	bool BNFFIGFAIAO = 6;
+	uint32 IMIOGMDOKCB = 8;
+}

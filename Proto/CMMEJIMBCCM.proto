@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "FJCOKOHBJIN.proto";
+import "IMGPEMFGOPF.proto";
+
+message CMMEJIMBCCM {
+	repeated string OHMKBGAMEIM = 4;
+	repeated FJCOKOHBJIN BCKBKIDDFCD = 6;
+	string MPPCKLOHOAD = 9;
+	uint32 AGIDBEEINDE = 8;
+	uint32 JMJDHNPAKEI = 13;
+	uint32 EHFPPNBAGAD = 12;
+	IMGPEMFGOPF COKCGKDPPEM = 2;
+	uint32 HFEBJEFKLHN = 5;
+}

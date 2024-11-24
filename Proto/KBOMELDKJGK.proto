@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KBOMELDKJGK {
+	repeated uint32 DEHADAMGGJP = 9;
+}

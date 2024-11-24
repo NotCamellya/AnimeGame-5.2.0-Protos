@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JICKPPDLOHC.proto";
+
+message GFNNBABOMDH {
+	repeated uint32 LPFCMMJCIBP = 11;
+	repeated JICKPPDLOHC JHBCBIEOBEP = 5;
+	uint32 LBCDFBDMCJN = 8;
+	bool HCJFDJHILAM = 4;
+	uint32 PHGEDMBNPMP = 2;
+}

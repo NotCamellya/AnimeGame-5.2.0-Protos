@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JAIFGFIJCNO.proto";
+
+message PLIIODAIHEC {
+	repeated JAIFGFIJCNO MEFPPNGAOPH = 3;
+	repeated uint32 CBDLBDPPLKO = 8;
+}

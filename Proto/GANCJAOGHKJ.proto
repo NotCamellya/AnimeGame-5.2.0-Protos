@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ALGGBJMHACE.proto";
+
+message GANCJAOGHKJ {
+	ALGGBJMHACE NGANCEICGHC = 12;
+	bool OMENIAMEDCE = 7;
+}

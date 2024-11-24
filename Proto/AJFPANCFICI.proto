@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AJFPANCFICI {
+	repeated uint32 IHJJFPHLGEC = 2;
+	bool KCOIMECCODP = 4;
+}

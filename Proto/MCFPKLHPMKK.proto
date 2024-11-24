@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "EFEGIIMAOMI.proto";
+import "NNHFMCJOGPO.proto";
+import "HMBFCHKMEGD.proto";
+
+message MCFPKLHPMKK {
+	repeated EFEGIIMAOMI HDCJFKPPLFC = 10;
+	repeated NNHFMCJOGPO DKDAKPFICJC = 4;
+	HMBFCHKMEGD OOFABEHBCBH = 8;
+	int32 EJNINFFFKJP = 7;
+}

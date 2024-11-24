@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PCOMGJBEDCB.proto";
+
+message DLBDMEIKAPJ {
+	repeated PCOMGJBEDCB PNMCKBOBBHA = 11;
+}

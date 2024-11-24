@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OKNBFFIFIGJ.proto";
+
+message OKLALBHPHKO {
+	OKNBFFIFIGJ FIOHLPPHLGJ = 15;
+}
